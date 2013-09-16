@@ -1,0 +1,9 @@
+---
+layout: post
+title: Iteration Report Mar 30 - Apr 10 2009
+created: 1239396267
+categories: reports
+---
+<div class="content"><p><strong>Estimated capacity:</strong> 31 sp</p>
+<p><strong>Estimated User Stories:</strong> 33.5 sp (~16 points by developers)<br /><strong>Actual Completed</strong>: 38 sp</p><p><strong>Scott's Comments:</strong>  The estimates and points on this iteration are a bit wonky.  We actually estimated 49.5 points of stories but in the middle of the iteration we announced Bernardo/Winnie moving to Systems so the 16 points esimated under EUCLID and PRIMO were taken out of the iteration as was thier expected contributions.</p><p>Overall we seem to be getting more user stories at the beginning of the iteration but still have a way to go in terms of planning.  Something obscuring how dire our planning has become is that many story points are going into an iteration but coming directly from develoers and NOT from project planners or owners as they need to be.  Most of the 16.5 points between Staffweb, Drupal Sites, and Other are esitmated directly by developers and not by project planners.  This is becoming a serious obstacle to productivity.</p><p>Additionally I want to stress again that we have a critical need for planning prior to these iterations that isn't happening across the library though a few spots of it are happening.  We also have a critical need for prioritization. </p><p>We completed 7 more story points than was estimated in our capacity but this was contributed primarily by Scott (me! :P ) who is normally only expected to contribute 2 but contribted 6 story points.</p><p><strong>Project - SP (estimated/completed)</strong></p><p>Staffweb - 1/5<br />Repositories - 11/11.5<br />GDE - 1.5/4<br />Reserves - 3/2<br />DigWF - 3.5/4<br />Drupal Sites - 7/3.5<br />Slave Voyages - 5/5<br />Other - 1/3</p>
+</div>

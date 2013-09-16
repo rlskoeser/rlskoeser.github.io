@@ -1,0 +1,17 @@
+---
+layout: post
+title: Iteration Report 19 July - 30 July 2010
+created: 1280498244
+categories: reports
+---
+<p><strong>Story Points Completed:</strong> 62.5 sp</p>
+<p><strong>Average Velocity:&nbsp; </strong>50.8 sp/itr<strong><br /></strong></p>
+<p><strong>Story Points Completed by Project:</strong></p><ul><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/african-origins/">African Origins </a> - 1.0</li><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/digital-masters/">Digital Masters </a> - 14.0</li><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/dwrangler/">dWrangler </a> - 10.0</li><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/ereserves/">Reserves Direct </a> - 10.0</li><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/etd/">Electronic Theses and Dissertations </a> - 5.5</li><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/findingaids/">MARBL Finding Aids </a> - 13.5</li><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/trans-atlantic-slave-trade-voyages-database/">Slave Voyages </a> - 5.0</li><li><a href="https://heisenberg.library.emory.edu/dwrangler/tracback/staffweb/">StaffWeb </a> - 3.5</li></ul>
+<p><a href="../../agile-planning-development/agile-reports-and-metrics">See all 2010 Metrics in this spreadsheet</a></p>
+<p><strong>Scott's Notes:</strong>&nbsp; We had a pretty good iteration in terms of programming.&nbsp; Overall though we're still grasping a bit with planning and balancing the attempt to get a clear direction with being flexible and agile.&nbsp; It's not always clear where the opportunities and in particlar it's not always clear how to integrate additional planning or investigation needed related to planning into the iterations.&nbsp;&nbsp; </p><p><strong>What Worked</strong></p>
+<ul><li>The general process is still working overall, things that work in the past continue to work.</li><li>Coordinating with systems for deployment was pretty good on both Digital Masters, Finding Aids and dWrangler.</li></ul>
+<p><strong>What Didn't Work</strong></p><ul><li>Having multiple high intensity or complexity projects is challenging for developers at times. </li><li>Coninciding high impact and complex deliverables on multiple projects can make coordination difficult.</li><li>Unexpected fixes on finishing the ETD 1.7 release caused some delays.</li><li>Integrating the planning process into our development process is more smooth on some projects than others and is still something we're trying to understand accuratly.</li><li>We haven't achieved a workflow with project owners that could be called "agile" and there's still a bit of difference on philosophies on releasing things early for test versus waiting to release until all features are done.</li><li>Gaps in planing or difficultiees in communication, particularly with external stake holders can lead to some inefficient use of developer time.<strong><br /></strong></li></ul>
+
+<p><strong>What We'll Do Different</strong></p><ul><li>Be more dilligent in setting up proper staging and test environments so tests are more effective in catching design flaws.<strong><br /></strong></li></ul>
+<p><strong>Projects For Next Iteration</strong></p>
+<ul><li>Finding Aids - (Rebecca/ Alex)</li><li>Digital Masters - (Ben/Rebecca)</li><li>eReserves - (Sari/Ben)</li><li>African Origins/Voyages - (Xin)</li><li>ETD - (Alex/Sari)</li></ul>

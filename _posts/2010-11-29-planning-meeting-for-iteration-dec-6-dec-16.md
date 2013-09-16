@@ -1,0 +1,7 @@
+---
+layout: post
+title: Planning Meeting for Iteration Dec 6 - Dec 16
+created: 1291045922
+categories: reports
+---
+<p><strong>Projects currently in development</strong></p><p><strong>ETD</strong>: Production site instability is impacting the division but not significantly affecting development.&nbsp; Fedora 3.4 milestone should be completed in the current iteration: next iteration testing.</p><p><strong>Finding Aids:</strong> Currently working on prototypes for content management options.&nbsp; Will require some small amount of time for assessment and planning. Next iteration: coding.</p><p><strong>Digital Masters:</strong> Testing completed on Collection milestone.&nbsp; First chunk of Min Items completed and should be available for testing soon.&nbsp; Next iteration: coding.</p><p><strong>Rushdie</strong>: Good progress on 2.0 - hope to be able to finish and close out in the next iteration; working on planning for 2.1.&nbsp;&nbsp; Next iteration: coding.</p><p><strong>DigWF</strong>: Started work on 3.4 migration and planning for refactor.&nbsp; Next iteration: coding on 3.4 migration.</p><p>&nbsp;</p><p><strong>Upcoming projects</strong></p><p>Planning underway for next release of ETD.</p><p>&nbsp;</p><p><strong>What Worked</strong></p><ul><li>Sharing information in the meeting, e.g., about current issues/status with production fedora server.</li><li>Helpful to have active parties in the meeting to speak to what is going on (e.g., Steve in the room to explain what was going on with production fedora).</li></ul>

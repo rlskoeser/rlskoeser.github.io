@@ -1,0 +1,19 @@
+---
+layout: post
+title: Iteration Report Mar 15 2010 - Mar 26 2010
+created: 1269618593
+categories: reports
+---
+<p><strong>Story Points Completed:</strong> 71.0 sp<strong><br /></strong></p>
+<p><strong>Average Velocity: 58.7 sp/itr<br /></strong></p>
+<p><strong>Strory Points Completed by Project:</strong></p>
+<ul><li>MARBL Finding Aids&nbsp;&nbsp;&nbsp; 21.5</li><li>Reserves Direct&nbsp;&nbsp;&nbsp; 17.5</li><li>dWrangler&nbsp;&nbsp;&nbsp; 16.5</li><li>discoverE&nbsp;&nbsp;&nbsp; 5</li><li>Global Health Chronicles&nbsp;&nbsp;&nbsp; 5</li><li>Slave Voyages&nbsp;&nbsp;&nbsp; 5</li><li>Electronic Data Center&nbsp;&nbsp;&nbsp; 3.5</li><li>PID Manager&nbsp;&nbsp;&nbsp; 2</li></ul>
+<p><a href="../../agile-planning-development/agile-reports-and-metrics">See all 2010 Metrics in this spreadsheet</a></p> 
+<p><strong>Scott's Notes:&nbsp; </strong>Primary the bullets below cover most of my thoughts. We've focused a lot of our recent thoughts on how to best handle testing and transitional activities and believe we have a good place for how to do some of that differently.&nbsp; We had one of the best iterations this year, point wise and I think looking at the project points it again emphasises that concentration on a narrower set of projects gives a good return on productivity overall.&nbsp; The plan for testing I think will help keep us focused on projects at hand.&nbsp; &nbsp; <strong><br /></strong></p><p><strong>What Worked</strong></p><ul><li>Pair programming and developers working together continues to help.</li><li>More consistent updating of project plans by developers proves helpful where it's happening.</li><li>Cross-training and exposure of developers between projects is strenghtening our tech skills and overall quality of the code base.</li><li>The continuous integration server is proving very helpful to focus on quality and testing and illuminating potential problems early.<strong><br /></strong></li></ul>
+
+<p><strong>What Didn't Work</strong></p><ul><li>Hand-over between developers could be improved a bit when taking over new projects.</li><li>Previous develoment needs to be wrapped up better and communicated more effectively for later developers.</li><li>Communication of time off and vacation time should be more apprent.&nbsp; Particularly when it impacts projects.<strong><br /></strong></li></ul>
+
+<p><strong>What We'll Do Different</strong></p><ul><li>Iteration planning meetings will happen the Friday prior to the end of the current iteration.</li><li>Testing should be done in a single iteration by the project planner once the deployed to staging ticket has been closed.</li><li>Feedback to deveopers should be limited to a single day per week during that testing phase.&nbsp; They should correct what they can and testing should continue.&nbsp; Once Testing is comiplete a plan for bug fixes with estimates should be developed and the work for fixes fit back into the planning.&nbsp; A developer is only alloted partial time during the testing phase.</li><li>Bug fixes should be noted by testers and they should get with their develoers during the day during the week they've pre-arranged.&nbsp; Both should clarify the bug, reproduce them where needed and the developer should enter the appropriate tickets in trac to address the bugs and estimate them.</li><li>Each person should enter Vacation time on Dry Erase board by the Copier and also inform any project planners effected.</li></ul>
+
+<p><strong>FTE For Next Iteration</strong></p>
+<ul><li>Finding Aids (Devopment/Testing) [Ben/Rebecca]</li><li>DigWF (Testing) [Rebecca]</li><li>PID Server (Testing) [Alex]</li><li>eReserves (Development) [Sari, Ben]</li><li>Voyages (Development) [Alex, Student]</li><li>Digital Masters (Planning/Development) [Ben, Rebecca]</li><li>GHC (Deployment) (Development 0.9x) [Alex, Pete]</li></ul>

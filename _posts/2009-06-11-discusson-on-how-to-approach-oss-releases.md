@@ -1,0 +1,7 @@
+---
+layout: post
+title: Discusson on how to approach OSS Releases
+created: 1244735967
+categories: oss
+---
+<p>The origins of this discusson come out of an interest in establishing an Open Source Software site/repository.&nbsp; </p><p><strong>OSS Site Needs</strong></p><ul><li>System must be sustainable.</li><li>Before soemthing can be available in an OSS it MUST:</li><li>&nbsp; &nbsp;&nbsp; Have a clear liscence.</li><li>&nbsp;&nbsp;&nbsp;&nbsp; Proper Code reuse and Crediting.</li><li>&nbsp;&nbsp;&nbsp;&nbsp; Adequate commenting for a release that gives at least minimal guidance.</li><li>&nbsp;&nbsp;&nbsp;&nbsp; Does it need some sort or review before release?</li><li>Must offer a way to comunicate.&nbsp; (Blog/Wik/???)</li><li>Must offer bug reporting &amp; we must respond in a Timely fashion.</li><li>Can handle Code Contributions &amp; liscencing transfers.</li></ul><p><strong>&nbsp;Additional Stuff</strong></p><p>+ Single SVN.&nbsp; Projects need to be in a single authoritative SVN.&nbsp; So OSS projects are maintained.&nbsp; </p><p>+ Enables us to establish an Identity.</p><p>+ Need some sort of agreement that code contributions become copyright Emory University Libraries.</p><p><strong>Result</strong></p><p>We initially want to target a hosted solution.&nbsp; Scott will put together a basic proposal for Joan using Google-Code as a model, others should build suggestions for other sites if they have suggestions and send them to Scott.</p>

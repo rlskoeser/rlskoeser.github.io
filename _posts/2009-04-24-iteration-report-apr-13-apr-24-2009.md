@@ -1,0 +1,7 @@
+---
+layout: post
+title: Iteration Report Apr 13 - Apr 24 2009
+created: 1240606425
+categories: reports
+---
+<p><strong>Estimated Capacity:</strong> 41 sp</p><p><strong>Planned User Stories:</strong>  33 sp<br /><strong>Actual Completed:</strong> 40 sp</p><p><strong>Scott's Notes: </strong>A major issue for us continues to be planning and prioritization.  Currently we're getting spotty advance planning done on upcomming deliverables. </p><p>Some feedback on this iteration included the a good case highlihting the importance of developer feedback to project owners.  Rebecca and Jason both identified some key goals that were missplaced in the planning and we were able to rearrange the project plan to be more effective. Also Stacy Martin taking on more project management has been very helpful in firming up project directions for Digital Programs and now the StaffWeb site.  Something new try in next iteration was to put some form of project or release goal on the project sheet on the board.  This as a means to reinforce the current release goals for the project.</p><p>Feel free to leave comments here if you have any to add on this iteration.</p><p><strong>Project - SP (estimated/completed)</strong></p><ul><li>DigWF - 1.5/4</li><li>PID Server - 1/1</li><li>Digital Programs Site - 4/3.5</li><li>Reserves Direct - 5 / 1.5</li><li>eJournals Site - 2.5/2.5</li><li>Other - 0.5/2.5</li><li>StaffWeb - 4.5/5</li><li>GDE - 0.5/0.5</li><li>Slave Voyages - 2.5/7</li><li>Drupal Sites - 1/4</li><li>Repositories - 11.5/8.5</li></ul>
