@@ -2,7 +2,10 @@
 layout: post
 title: implementing symbolic links in python-fuse
 created: 1232137046
-categories: python fuse fedora
+categories:
+- python
+- fuse
+- fedora
 ---
 <p>I wanted to use symbolic links in my FedoraFS because it seemed like the simplest way to accomplish what I wanted to do to handle relationships between objects.</p> <p>My file structure in FedoraFS looks something like this (simplified to focus on what is relevant for symlinks):</p><ul><li>pid:1/<ul><li>DC</li><li>RELS-EXT</li><li>hasMember/<ul><li>pid:2</li></ul></li></ul></li><li>pid:2/<ul><li>DC</li><li>.. (etc)</li></ul></li></ul><p>The mount point contains directories corresponding to fedora objects, and each pid directory contains the "contents" of that object (properties in an info file, datastreams, disseminations, versions, etc).  When an object has a relationship to another object defined in the RELS-EXT, I thought it would be useful to represent that relationship as a kind of "container" or directory.  But, to keep the path parsing as simple as possible in the FedoraFS class, the pid in this relation directory should point back to a top-level object that can be handled normally.</p><p>The two important pieces of the code that make this work:</p><ul><li>In the getattr function of my FedoraFS fuse class, when I have parsed the path and determined that attributes are being requested for a related object, I set the mode on the stat object so that the file will be seen as a link: <pre>st.st_mode = stat.S_IFLNK | 0755</pre></li> <li>Then, in the readlink function of the FedoraFS class, return the <strong>path</strong> for what you want the symlink to link to.  In FedoraFS right now the code looks like this: <pre>def readlink(self, path):
     # for now, the only symlinks supported are /pid/relation/relpid

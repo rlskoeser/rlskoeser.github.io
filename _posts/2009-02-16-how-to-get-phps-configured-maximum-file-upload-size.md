@@ -2,7 +2,9 @@
 layout: post
 title: How to get PHP's configured maximum file upload size
 created: 1234808663
-categories: php file upload
+categories:
+- php
+- file upload
 ---
 <p>Maximum file upload size is configured in the php.ini.  Confuguration values like this can be retrieved with the ini_get function, e.g.,</p>
 <pre>ini_get("upload_max_filesize")</pre>

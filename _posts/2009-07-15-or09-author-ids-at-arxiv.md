@@ -1,8 +1,9 @@
 ---
 layout: post
-title: ! 'OR09: Author IDs at arXiv'
+title: 'OR09: Author IDs at arXiv'
 created: 1247674431
-categories: open repositories
+categories:
+- open repositories
 ---
 <h3>Author Identifiers in Scholarly Repositories</h3>
 

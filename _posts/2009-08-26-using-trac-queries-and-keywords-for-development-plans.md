@@ -2,7 +2,8 @@
 layout: post
 title: Using Trac queries and keywords for development plans
 created: 1251318378
-categories: trac
+categories:
+- trac
 ---
 <p>I figured out how to use keywords on Trac tickets and the TracQuery wiki macro so that a Development plan can be more dynamically updated if we add new tickets to a user story.  Here's how.
 
