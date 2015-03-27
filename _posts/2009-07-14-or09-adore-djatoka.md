@@ -6,5 +6,26 @@ categories:
 - open repositories
 - fedora
 - jpeg2000
+original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/14/or09-adore-djatoka
 ---
-<h3>aDORe djatoka: An Open-Source Jpeg 2000 Image Server and Dissemination Service Framework</h3><p>Ryan Chute, Los Alamos National Laboratory<br />view presentation materials:<a href="http://hdl.handle.net/1853/28486"><strong>&nbsp;</strong><strong> <code>http://hdl.handle.net/1853/28486</code></strong></a></p><p>djatoka (pronounced J-2-K) is a JPEG 2000 image server &amp; dissemination tool that can be used with Fedora.</p><p>JPEG 2000 is an open standard, license free, has better compression, multi-resolution, and allows random access to sections of an emage, and the capaability to embed metadata within an image.</p><p>djatoka does dynamic scaling on the fly, layer extraction, etc.</p><p>There are two client image viewers currenly available (IIp, open layers); not yet available but in process are an iPhone viewer, and a Flex view.&nbsp; These clients are reference implementations meant for people to pick up as examples.</p><p>More details on the djatoka wiki: <a href="http://sourceforge.net/apps/mediawiki/djatoka">http://sourceforge.net/apps/mediawiki/djatoka</a></p><p>&nbsp;</p><hr /><p>Relevance/applicability for us?&nbsp; Although we aren't currently using JPEG2000 anywhere yet that I'm aware of, it's my understanding that djatoka can handle other image formats as both inputs and outputs (I believe it converts other formats into JPEG2000 first).&nbsp; The djatoka developers have made Fedora service definition &amp; deployment objects available (as drafts/examples) that would make it easier to deploy and use the service.&nbsp; The quality is undoubtedly superior to the imagemanip service that comes with Fedora, and the performance, reliablity, scalability, and other features are far beyond the quick PHP-based image resizing service I created for the GDE/smallpox image content.&nbsp; It may also be much more resource intensive, and a heavier solution than maybe we need right now.&nbsp; I think we should investigate this, try installing it and integrating it with Fedora, and see how it compares to our current image behaviors.</p><p>&nbsp;</p>
+## aDORe djatoka: An Open-Source Jpeg 2000 Image Server and Dissemination Service Framework
+
+Ryan Chute, Los Alamos National Laboratory
+
+view presentation materials:  [http://hdl.handle.net/1853/28486](http://hdl.handle.net/1853/28486)
+
+djatoka (pronounced J-2-K) is a JPEG 2000 image server &amp; dissemination tool that can be used with Fedora.
+
+JPEG 2000 is an open standard, license free, has better compression, multi-resolution, and allows random access to sections of an emage, and the capaability to embed metadata within an image.
+
+djatoka does dynamic scaling on the fly, layer extraction, etc.
+
+There are two client image viewers currenly available (IIp, open layers); not yet available but in process are an iPhone viewer, and a Flex view. These clients are reference implementations meant for people to pick up as examples.
+
+More details on the djatoka wiki: [http://sourceforge.net/apps/mediawiki/djatoka](http://sourceforge.net/apps/mediawiki/djatoka)
+
+* * *
+
+Relevance/applicability for us? Although we aren't currently using JPEG2000 anywhere yet that I'm aware of, it's my understanding that djatoka can handle other image formats as both inputs and outputs (I believe it converts other formats into JPEG2000 first). The djatoka developers have made Fedora service definition &amp; deployment objects available (as drafts/examples) that would make it easier to deploy and use the service. The quality is undoubtedly superior to the imagemanip service that comes with Fedora, and the performance, reliablity, scalability, and other features are far beyond the quick PHP-based image resizing service I created for the GDE/smallpox image content. It may also be much more resource intensive, and a heavier solution than maybe we need right now. I think we should investigate this, try installing it and integrating it with Fedora, and see how it compares to our current image behaviors.
+
+

@@ -4,6 +4,7 @@ title: Rebecca lights a FUSE with Fedora
 author: scott_turnbull
 created: 1242818150
 categories: []
+original_url: http://techknowhow.library.emory.edu/blogs/sturnbu/2009/05/20/rebecca-lights-fuse-fedora
 ---
 Kyle sends news from the Open Repositories Conference:
 
@@ -13,7 +14,6 @@ Kyle sends news from the Open Repositories Conference:
 A big congratulations to Rebecca!
 
 * * *
-
 
 * JISC dev8d write-up of the [RepoChallenge winners](http://dev8d.jiscinvolve.org/2009/05/20/repochallenge-winners/)
 * [Rebecca's FedoraFS screencast](http://vimeo.com/4732380)
