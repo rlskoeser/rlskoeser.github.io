@@ -2,22 +2,22 @@
    Site wide styles
    ========================================================================== */
 
-/* 
+/*
    Selection
    ========================================================================== */
 
-::-moz-selection { 
-	background-color: lighten($basecolor, 65%); 
-	color: $basecolor; 
-	text-shadow: none; 
-}  	
-::selection { 
-	background-color: lighten($basecolor, 65%); 
-	color: $basecolor; 
-	text-shadow: none; 
+::-moz-selection {
+	background-color: lighten($basecolor, 65%);
+	color: $basecolor;
+	text-shadow: none;
+}
+::selection {
+	background-color: lighten($basecolor, 65%);
+	color: $basecolor;
+	text-shadow: none;
 }
 
-/* 
+/*
    Global classes
    ========================================================================== */
 
@@ -63,10 +63,20 @@
 	}
 }
 
-/* 
+/*
    Global transition
    ========================================================================== */
 
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
+}
+
+/* local customizations */
+.callout {
+    float: right;
+    clear: right;
+}
+.callout-left {
+    float: left;
+    clear: left;
 }
