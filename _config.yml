@@ -7,7 +7,9 @@ locale:           en_US
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+# permalink:   /:categories/:title/
+# NOTE: "pretty" permalink = /:categories/:year/:month/:day/:title/
+permalink:   pretty
 markdown:    kramdown
 highlighter: pygments
 sass:
