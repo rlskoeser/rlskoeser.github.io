@@ -2,11 +2,12 @@
 layout: post
 title: 'OR09: aDORe djatoka'
 created: 1247581406
-categories:
+tags:
 - open repositories
 - fedora
 - jpeg2000
-original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/14/or09-adore-djatoka
+original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2009/07/14/or09-adore-djatoka
+permalink: /2009/07/14/or09-adore-djatoka/
 ---
 ## aDORe djatoka: An Open-Source Jpeg 2000 Image Server and Dissemination Service Framework
 

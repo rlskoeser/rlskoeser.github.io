@@ -4,9 +4,10 @@ title: 'DH2012: LP25, July 20 - multimodal analysis, affect in images, and aural
   of text'
 created: 1345217145
 excerpt: Presentations on an approach for multi-modal analysis to compare text, video and subtitles for different representations of the same story; automated analysis of emotional affect in user-tagged images; and a process for doing aural analysis on digital texts.
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/08/17/dh2012-lp25-multimodal-analysis-affect-images-aural-analysis-text
+permalink: /2012/08/17/dh2012-lp25-multimodal-analysis-affect-images-aural-analysis-text/
 ---
 
 {% include _toc.html %}

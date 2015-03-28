@@ -2,9 +2,10 @@
 layout: post
 title: 'DH2012: LP18, July 19 - 3D Poetry, Recovering Digital Canon, and Code Camps'
 created: 1343851173
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/08/01/dh2012-lp18-3dpoetry-digital-canon-and-code-camps
+permalink: /2012/08/01/dh2012-lp18-3dpoetry-digital-canon-and-code-camps/
 ---
 
 This was an odd mix of presentations (at least, I couldn't find any common theme), but fortunately for me I was interested in all three of them: an experimental 3D poetry visualization grounded in literary theory; Amy Earhart's compelling argument for the need to recover early digitization projects that are disappearing or even already gone; and Doug Reside's discussion of the successes and problems with DH Code Camps.

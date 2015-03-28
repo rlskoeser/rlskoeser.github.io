@@ -3,9 +3,10 @@ layout: post
 title: 'DH2012: LP 20, July 19 - image networks, information extraction for historical
   research, and cultural complexity '
 created: 1344628306
-categories:
+tags:
 - dh2012
-original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/08/10/dh2012-topic-modeling-past
+original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2012/08/10/dh2012-lp20-image-networks-information-extraction-historical-cultural-change
+permalink: /2012/08/10/dh2012-lp20-image-networks-information-extraction-historical-cultural-change/
 ---
 
 An analysis of the user and image networks of deviantART, a report on named-entity extraction reliability for historical data from messy texts, and an attempt to chart the growth of cultural complexity using Google Ngrams.

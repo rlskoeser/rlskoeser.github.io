@@ -2,10 +2,11 @@
 layout: post
 title: PDF generation in python/django
 created: 1270483728
-categories:
+tags:
 - python
 - django
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2010/04/05/pdf-generation-pythondjango
+permalink: /2010/04/05/pdf-generation-pythondjango/
 ---
 
 The current MARBL finding aids website has a PDF generation feature that we need to duplicate or replace in the new django-based version of the finding aids site. Before assuming that we should continue using XSL-FO as before, I wanted to investigate other alternatives (especially since the current XSLT to generate XSL-FO depends on unmaintainable xslt for rendering EAD as html).

@@ -2,8 +2,10 @@
 layout: post
 title: 'OR11: notes and quotes'
 created: 1308078910
-categories: []
+tags:
+- or11
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/14/or11-notes-and-quotes
+permalink: /2011/06/14/or11-notes-and-quotes/
 ---
 
 There was so much good information at Open Repositories 2011 (and in particular, things came fast and furious in the new 24x7 sessions where presenters had 7 minutes to present up to 24 slides), that it is hard to figure out how to make sense of and organize my notes. Here are some of the interesting things from my notes, in roughly chronological order.

@@ -2,9 +2,10 @@
 layout: post
 title: How to keep search engines from indexing print-view pages
 created: 1233959180
-categories:
+tags:
 - web
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/02/06/how-keep-search-engines-indexing-print-view-pages
+permalink: /2009/02/06/how-keep-search-engines-indexing-print-view-pages/
 ---
 
 I discovered a while back that, for some ETD records, two different versions of the record summary page were indexed in Google-- the normal page you'd hope gets indexed _and_ the print view copy.  It's simple enough to fix this, and maybe it is obvious to everyone else, but I don't think we have any kind of standard or best practice for this, so I thought it might be worth documenting.

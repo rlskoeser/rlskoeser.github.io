@@ -2,11 +2,12 @@
 layout: post
 title: implementing symbolic links in python-fuse
 created: 1232137046
-categories:
+tags:
 - python
 - fuse
 - fedora
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/16/implementing-symbolic-links-python-fuse
+permalink: /2009/01/16/implementing-symbolic-links-python-fuse/
 ---
 
 I wanted to use symbolic links in my FedoraFS because it seemed like the simplest way to accomplish what I wanted to do to handle relationships between objects.

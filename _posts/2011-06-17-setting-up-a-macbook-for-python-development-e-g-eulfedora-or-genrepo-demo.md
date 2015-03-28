@@ -2,8 +2,8 @@
 layout: post
 title: Setting up a MacBook for python development (e.g., eulfedora or genrepo-demo)
 created: 1308336575
-categories: []
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/17/setting-macbook-python-development-eg-eulfedora-or-genrepo-demo
+permalink: /2011/06/17/setting-macbook-python-development-eg-eulfedora-or-genrepo-demo/
 ---
 
 Normally, I do my development on an Ubuntu workstation, which I've got pretty much set up and customized and I know how to manage it. But for my recent trip to the [Open Repositories 2011 conference](https://conferences.tdl.org/or/index.php/OR2011/OR2011main), I was given a loaner MacBook Pro as a travel machine (which, I have to admit, has been pretty nice to work on). This was particularly useful-- since I knew that at least a couple of the people who would be attending our pre-conference [tutorial](http://eulfedora.readthedocs.org/en/latest/tutorials/fedora.html) on programming with [eulfedora](https://github.com/emory-libraries/eulfedora) were planning to do their development on OSX, this gave me a chance to test installing everything ahead of time.

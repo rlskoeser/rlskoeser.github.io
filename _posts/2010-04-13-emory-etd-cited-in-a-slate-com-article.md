@@ -2,8 +2,8 @@
 layout: post
 title: Emory ETD cited in a Slate.com article
 created: 1271176412
-categories: []
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2010/04/13/emory-etd-cited-slatecom-article
+permalink: /2010/04/13/emory-etd-cited-slatecom-article/
 ---
 
 I just happened to notice this because I was looking at Google Analytics and saw a huge spike in traffic for one record. Analytics told me most of the traffic came from slate.com but not where exactly; I finally found the article by doing a link search on the ARK url for the ETD ( link:http://pid.emory.edu/ark:/25593/1bb6k ).

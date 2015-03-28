@@ -2,10 +2,11 @@
 layout: post
 title: how to get video duration
 created: 1232557600
-categories:
+tags:
 - video
 - linux
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/21/how-get-video-duration
+permalink: /2009/01/21/how-get-video-duration/
 ---
 
 With Chris Roddy's help, I just figured out a pretty slick way to quickly get the duration of a bunch of video files. 

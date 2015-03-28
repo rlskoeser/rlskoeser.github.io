@@ -2,8 +2,8 @@
 layout: post
 title: Fedora RIsearch query to get object totals by cmodel
 created: 1270588903
-categories: []
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2010/04/06/fedora-risearch-query-get-object-totals-cmodel
+permalink: /2010/04/06/fedora-risearch-query-get-object-totals-cmodel
 excerpt: ITQL query to get totals of objects in a Fedora Repository by content model.
 ---
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: totals for ETD Fedora datastreams missing checksums
+title: Totals for ETD Fedora datastreams missing checksums
 created: 1247179804
-categories:
+tags:
 - fedora
 - etd
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/09/totals-etd-fedora-datastreams-missing-checksums
+permalink: /2009/07/09/totals-etd-fedora-datastreams-missing-checksums/
 ---
 
 As part of my Fedora 3 migration work, I've done some initial investigation on datastreams that are missing checksums (since it's not clear if there's an easy way to calculate them programmatically, although there should be).

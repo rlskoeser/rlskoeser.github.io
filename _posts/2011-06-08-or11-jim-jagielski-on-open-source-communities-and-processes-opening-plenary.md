@@ -2,9 +2,10 @@
 layout: post
 title: 'OR11: Jim Jagielski on Open Source communities & processes (opening plenary)'
 created: 1307547219
-categories:
+tags:
 - or11
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/08/or11-jim-jagielski-open-source-communities-processes-opening-plenary
+permalink: /2011/06/08/or11-jim-jagielski-open-source-communities-processes-opening-plenary/
 ---
 
 Thought-provoking talk from [@jimjag](https://twitter.com/jimjag) this morning to open OR11. In keeping with this year's OR theme of community &amp; collaboration, he emphasized the community aspects of Open Source software. A [PDF of his presentation](http://people.apache.org/~jim/presos/OR2011/Open_Source_NotJust.pdf) is available.

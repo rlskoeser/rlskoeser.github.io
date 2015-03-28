@@ -3,9 +3,10 @@ layout: post
 title: 'DH2012: Topic Modeling the Past'
 created: 1344638839
 excerpt: Panel session on Topic Modeling with Travis Brown, David Mimno, and Robert Nelson.
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/08/10/dh2012-topic-modeling-past
+permalink: /2012/08/10/dh2012-topic-modeling-past/
 ---
 
 {% include _toc.html %}

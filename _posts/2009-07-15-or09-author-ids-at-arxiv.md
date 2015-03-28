@@ -2,9 +2,10 @@
 layout: post
 title: 'OR09: Author IDs at arXiv'
 created: 1247674431
-categories:
+tags:
 - open repositories
-original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/15/or09-author-ids-arxiv
+original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2009/07/15/or09-author-ids-arxiv
+permalink: /2009/07/15/or09-author-ids-arxiv/
 ---
 
 ## Author Identifiers in Scholarly Repositories

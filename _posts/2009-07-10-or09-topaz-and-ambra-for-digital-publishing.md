@@ -2,11 +2,12 @@
 layout: post
 title: 'OR09: Topaz & Ambra for digital publishing'
 created: 1247238917
-categories:
+tags:
 - fedora
 - ejournals
 - open repositories
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/10/or09-topaz-ambra-digital-publishing
+permalink: /2009/07/10/or09-topaz-ambra-digital-publishing/
 excerpt: Brief description of PloS Ambra/Topaz publishing platform
 ---
 

@@ -2,10 +2,11 @@
 layout: post
 title: Using Hudson with PHP SimpleTest
 created: 1248455249
-categories:
+tags:
 - testing
 - etd
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/24/using-hudson-php-simpletest
+permalink: /2009/07/24/using-hudson-php-simpletest/
 ---
 
 

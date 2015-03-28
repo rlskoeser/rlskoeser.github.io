@@ -2,9 +2,10 @@
 layout: post
 title: 'DH2012: NeDiMaH workshop on ontology based annotation (pre-conference)'
 created: 1342632597
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/18/dh2012-nedimah-workshop-ontology-based-annotation-pre-conference
+permalink: /2012/07/18/dh2012-nedimah-workshop-ontology-based-annotation-pre-conference/
 ---
 
 This session was [billed as a workshop](http://www.dh2012.uni-hamburg.de/conference/programme/pre-conference-workshops/), but was really a series of presentations - sort of a mixed bag of things relating to annotation, ontologies, etc, as Rob Sanderson (who presented on  Open Annotation) tweeted:

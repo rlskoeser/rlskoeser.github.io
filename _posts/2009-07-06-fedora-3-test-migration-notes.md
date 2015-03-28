@@ -2,9 +2,10 @@
 layout: post
 title: Fedora 3 test migration notes
 created: 1246919458
-categories:
+tags:
 - fedora
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/06/fedora-3-test-migration-notes
+permalink: /2009/07/06/fedora-3-test-migration-notes/
 ---
 
 I've completed a test-run of the Fedora 3 migration process on all of our current production Fedora 2 data (ETD and GDE/smallpox objects), following these [upgrade instructions](http://fedora-commons.org/confluence/display/FCR30/Upgrading+from+2.x). Here are some notes on my results, the process, and some problems and issues that came up along the way.

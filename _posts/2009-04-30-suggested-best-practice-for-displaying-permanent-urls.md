@@ -2,9 +2,10 @@
 layout: post
 title: Suggested best practice for displaying permanent urls
 created: 1241126056
-categories:
+tags:
 - web
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/04/30/suggested-best-practice-displaying-permanent-urls
+permalink: /2009/04/30/suggested-best-practice-displaying-permanent-urls/
 ---
 
 For content we produce and display online that has permanent urls or arks associated, I suggets that we display the link on the page in this format:

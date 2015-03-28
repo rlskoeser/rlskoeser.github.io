@@ -2,9 +2,10 @@
 layout: post
 title: 'DH2012: Text Analysis meets Text Encoding'
 created: 1342648732
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/18/dh2012-text-analysis-meets-text-encoding
+permalink: /2012/07/18/dh2012-text-analysis-meets-text-encoding/
 ---
 
 

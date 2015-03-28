@@ -3,9 +3,10 @@ layout: post
 title: 'DH2012: LP10, July 19 - Culpeper title pages, Dickens and "random forests",
   and visualizing a literary genome'
 created: 1343325302
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/26/dh2012-lp10-july-19-culpeper-title-pages-dickens-random-forests-literary-genome
+permalink: /2012/07/26/dh2012-lp10-july-19-culpeper-title-pages-dickens-random-forests-literary-genome/
 ---
 
 This was a diverse session-- from detailed visual analysis of title pages in 17th century medical texts, to the failure of traditional keyword analysis methods with authors like Dickens, to "macroanalysis" across some 3,500 19th century literary texts.

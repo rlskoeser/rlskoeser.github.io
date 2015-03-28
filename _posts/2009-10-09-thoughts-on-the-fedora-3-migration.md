@@ -2,12 +2,13 @@
 layout: post
 title: thoughts on the Fedora 3 migration
 created: 1255093429
-categories:
+tags:
 - fedora
 - etd
 - smallpox
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/10/09/thoughts-fedora-3-migration
 excerpt: Thoughts and lessons learned after migrating from Fedora 2.x to 3.
+permalink: /2009/10/09/thoughts-fedora-3-migration/
 ---
 
 I wanted to take some time to blog about the experience of migrating ETD and the Smallpox Eradication/GDE/GHC site to Fedora 3.x, and some of the problems, things we could do better, etc. This won't be in any particular order or very organized, just my thoughts after the experience, a sort of informal "lessons learned."

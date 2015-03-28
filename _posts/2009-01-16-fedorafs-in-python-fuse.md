@@ -2,11 +2,12 @@
 layout: post
 title: FedoraFS in python FUSE
 created: 1232132308
-categories:
+tags:
 - python
 - fuse
 - fedora
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/16/fedorafs-python-fuse
+permalink: /2009/01/16/fedorafs-python-fuse/
 ---
 
 I got a little time to play with some new technologies (python and [FUSE](http://fuse.sourceforge.net/), or Filesystem in User Space) and interfacing them with a somewhat more familiar technology, the FEDORA repository.

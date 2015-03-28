@@ -2,9 +2,10 @@
 layout: post
 title: 'DH2012: LP05, July 18 (authorship studies)'
 created: 1342765652
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/20/dh2012-lp05-july-18-authorship-studies
+permalink: /2012/07/20/dh2012-lp05-july-18-authorship-studies/
 ---
 
 

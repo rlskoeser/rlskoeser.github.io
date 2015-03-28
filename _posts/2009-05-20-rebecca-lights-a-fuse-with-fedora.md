@@ -3,8 +3,8 @@ layout: post
 title: Rebecca lights a FUSE with Fedora
 author: scott_turnbull
 created: 1242818150
-categories: []
 original_url: http://techknowhow.library.emory.edu/blogs/sturnbu/2009/05/20/rebecca-lights-fuse-fedora
+permalink: /2009/05/20/rebecca-lights-fuse-fedora/
 ---
 Kyle sends news from the Open Repositories Conference:
 

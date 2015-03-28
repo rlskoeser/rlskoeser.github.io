@@ -2,10 +2,11 @@
 layout: post
 title: python-fuse command-line arguments
 created: 1232135575
-categories:
+tags:
 - python
 - fuse
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/16/python-fuse-command-line-arguments
+permalink: /2009/01/16/python-fuse-command-line-arguments/
 ---
 
 

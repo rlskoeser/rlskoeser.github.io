@@ -2,9 +2,10 @@
 layout: post
 title: 'OR11: Clifford Lynch on Progress and Open Questions (closing plenary)'
 created: 1308343643
-categories:
+tags:
 - or11
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/17/or11-clifford-lynch-progress-and-open-questions-closing-plenary
+permalink: /2011/06/17/or11-clifford-lynch-progress-and-open-questions-closing-plenary/
 ---
 
 Clifford Lynch gave the closing plenary at Open Repositories 2011, and he talked about where we are now with repositories, about a decade in.

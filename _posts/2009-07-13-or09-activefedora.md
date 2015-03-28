@@ -2,11 +2,12 @@
 layout: post
 title: 'OR09: ActiveFedora'
 created: 1247493943
-categories:
+tags:
 - fedora
 - open repositories
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/13/or09-activefedora
 excerpt: "When Ruby Met Fedora: presentation on ActiveFedora by Matt Zumwalt of MediaShelf"
+permalink: /2009/07/13/or09-activefedora/
 ---
 ## When Ruby met Fedora: ActiveFedora
 

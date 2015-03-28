@@ -2,9 +2,10 @@
 layout: post
 title: 'DH2012: Free Your Metadata tutorial (pre-conference)'
 created: 1342645936
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/18/dh2012-free-your-metadata-tutorial-pre-conference
+permalink: /2012/07/18/dh2012-free-your-metadata-tutorial-pre-conference/
 ---
 
 I enjoyed this tutorial from the [Free Your Metadata](http://freeyourmetadata.org/) group.  This session was an actual, valuable workshop on using [Google Refine](http://code.google.com/p/google-refine/) to clean and refine metadata, and it was very well run (apparently because this team has had plenty of practice, running these workshops for libraries).  They started with a use case based on real data from the Sydney [Powerhouse Museum](http://www.powerhousemuseum.com/) and then demonstrated some of the power of [Google Refine](http://code.google.com/p/google-refine/) to clean messy data, working with a subset of the freely available museum data (which you can download and work with, following the steps they have documented in a [nice tutorial](http://freeyourmetadata.org/cleanup/)).  They showed how to identify and remove blank rows, identify and remove duplicate rows, split multi-value cells and then faceting to identify variant terms or outliers (e.g., categories used for almost everything or categories used only one one or two items), and then use Google Refine's cluster function to group and collapse variant or inconsistent terms (e.g., upper/lower case variants of a single subject term).  Once you have cleaned the data, then you can [reconcile](http://freeyourmetadata.org/reconciliation/) terms to a controlled vocabulary by an RDF extension to Google Refine and exposing your vocabulary of choice (e.g., LCSH) as a SPARQL endpoint.  Their suggested workflow is that you import your data, clean and refine and reconcile it, work with it for a week or so to check everything, and then you would export it and (presumably) overwrite your original data with the new, refined version.    The point of all of this is that you should be able take care of large chunks of records with similar problems that can be handled systematically, and then only the outliers, which should be a small minority, will need to be cleaned manually.

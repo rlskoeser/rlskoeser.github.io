@@ -2,9 +2,10 @@
 layout: post
 title: 'DH2012: CATMA/CLÉA workshop (pre-conference)'
 created: 1342625096
-categories:
+tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/18/dh2012-catma-clea-workshop-pre-conference
+permalink: /2012/07/18/dh2012-catma-clea-workshop-pre-conference/
 ---
 
 CLÉA is version 4 of [CATMA](http://www.catma.de/) (which stands for Computer Aided Textual Markup &amp; Analysis); they are transitioning from a desktop application to a web-based application (CLÉA), which I believe is still in beta.  It wasn't quite what I was expecting based on the [workshop description](http://www.dh2012.uni-hamburg.de/conference/programme/pre-conference-workshops/), or even the acronym - because to me it does not seem to do actual text markup; it's a system for tagging and highlighting text that lets you search the text and the tags.  I'm wondering if I may be less impressed with it because I'm approaching it more as a programmer than a scholar; I don't have any particular project it is suited to (now that I know what it is and what it does).  Several of the participants in the room had interesting ideas for how it might be applicable to their research, but many of them also had suggestions for additional features that would be helpful (or maybe even necessary) for their work.
