@@ -80,3 +80,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
     float: left;
     clear: left;
 }
+.dateline {
+    display:block;
+    margin-top: 0;
+    font-size: 75%;
+    font-style: italic;
+}
