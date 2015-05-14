@@ -30,6 +30,7 @@ kramdown:
 owner:
   name: Rebecca Sutton Koeser
   avatar: bec.png
+  uri: 'http://rlskoeser.github.io/#rsk'
   bio: "Software Engineer at Emory University Libraries, PhD in English Literature."
   email:
   disqus-shortname:
