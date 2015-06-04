@@ -1,5 +1,13 @@
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+{% if include.author %}
+    {% if include.author == 'site owner' %}
+      {% assign author = site.owner %}
+    {% else %}
+      {% assign author = site.data.authors[include.author] %}
+    {% endif %}
+{% else %}
+  {% if page.author %}
+    {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+  {% endif %}
 {% endif %}
 
 <div property="schema:author" typeof="schema:Person" {% if author.uri %}resource="{{ author.uri }}"{% endif %}>

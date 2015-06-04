@@ -31,6 +31,9 @@
 <div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
+    {% if page.second_author %}
+        {% include _author-bio.html author=page.second_author %}
+    {% endif %}
   </div>
   <article class="post">
     <div class="headline-wrap" property="schema:name">
