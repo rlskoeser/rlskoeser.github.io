@@ -7,3 +7,13 @@ scott_turnbull:
   twitter: streamweaver
   google:
     plus: ScottTurnbull
+
+brian_croxall:
+  name: Brian Croxall
+  # uri: http://briancroxall.net  TODO get a proper author URI for Brian
+  web: http://briancroxall.net
+  avatar: bcroxall.png
+  twitter: briancroxall
+  google:
+    plus:
+

@@ -9,11 +9,8 @@ excerpt: "A poster proposal for the 2013 Digital Humanities conference co-writte
 image:
     feature: posts/networking-belfast/dhabstract_hubs_banner.png
     thumb: posts/networking-belfast/prelim_degree_hub.png
-
-
+second_author: brian_croxall
 ---
-{% comment %}TODO: author: brian_croxall (? or figure out how to do a second author?) {% endcomment %}
-
 What follow is a poster proposal for the [2013 Digital Humanities conference](http://dh2013.unl.edu/) that Brian Croxall and I wrote as project manager and lead scholar/developer, respectively. Our fingers are crossed, and we'll know more around 1 February 2013.
 
 ## Networking the Belfast Group through the Automated Semantic Enhancement of Existing Digital Content
@@ -35,8 +32,6 @@ Providing not only this new analysis of the Belfast Group’s network and a repo
 * * *
 
 ## References
-
-{::comment}<div style="text-indent: -12px; margin-left: 12px;">{:/comment}
 
 {: .references}
 
