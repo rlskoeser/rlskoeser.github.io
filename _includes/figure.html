@@ -3,8 +3,10 @@ Template for figure with caption.
 Based on http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll, via programming historian.
 {% endcomment %}
 <figure{% if include.class %} class="{{include.class }}"{% endif %}>
-	<a href="{{ include.src }}">
-		<img src="{{ include.src }}" alt="{{ include.caption }}">
+    <a href="{% if include.link %}{{ include.link }}{% else %}{{ include.src }}{% endif %}">
+		<img src="{{ include.src }}"
+            {% if include.alt %}alt="{{ include.alt }}"{% else %}alt="{{ include.caption }}"{% endif %}
+            {% if include.title %}title="{{ include.title }}"{% endif %}/>
 	</a>
 <figcaption>
     {{ include.caption }}
