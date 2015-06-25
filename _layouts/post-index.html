@@ -48,7 +48,11 @@
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
-          <h2><a property="schema:url" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><span property="schema:name">{{ post.title }}</span></a></h2>
+          <h2><a property="schema:url" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+            {% if post.image.thumb %}
+            <img class="post-thumb" src="{% if post.image.thumb contains 'http' %}{{ post.image.thumb }}{% else %}{{ site.url }}/images/{{ post.image.thumb }}{% endif %}"/>
+            {% endif %}
+            <span property="schema:name">{{ post.title }}</span></a></h2>
           <p property="schema:description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
       </article>

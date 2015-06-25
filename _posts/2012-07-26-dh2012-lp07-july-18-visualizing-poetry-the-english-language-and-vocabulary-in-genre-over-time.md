@@ -9,6 +9,7 @@ original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/26/dh2
 permalink: /2012/07/26/dh2012-LP07-july-18-visualizing-poetry-english-language-and-diction/
 image:
     feature: posts/tkh/patchwork-banner.png
+    thumb: posts/tkh/english-language_thumb.png
 ---
 
 This session included three very different approaches to visualizing aspects of English language and literature - a visualization tool for poetry, surprisingly beautiful tree-maps of the history of the English language, and vocabulary trends in English literature over the 18th and 19th Century.

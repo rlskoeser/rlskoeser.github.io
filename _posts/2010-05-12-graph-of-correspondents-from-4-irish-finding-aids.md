@@ -7,7 +7,7 @@ permalink: /2010/05/12/graph-correspondents-4-irish-finding-aids/
 excerpt: Correspondent graph of four Irish authors based on FOAF generated from Finding Aids.
 image:
     feature: posts/tkh/foaf_graph_banner.png
-    thumb: posts/tkh/thumb_foaf_gaph_subset.png
+    thumb: posts/tkh/thumb_foaf_graph_subset.png
 ---
 
 ![Correspondents graph thumbnail](/images/posts/tkh/thumb_foaf_graph_subset.png){: .callout-left}

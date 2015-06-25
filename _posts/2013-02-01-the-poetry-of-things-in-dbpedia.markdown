@@ -1,15 +1,15 @@
 ---
 layout: post
 title: The Poetry of Things (in DBpedia)
-date: 2013-02-01
+date: 2013-02-20
 tags:
 - networking belfast
 - experiments
 original_url: http://disc.library.emory.edu/networkingbelfast/poetry-of-things-in-dbpedia/
 excerpt: An experiment with namedropper, DBpedia Spotlight, and poetry.
-#image:
+image:
 #    feature: posts/networking-belfast/80days_map_banner.png
-#    thumb: posts/networking-belfast/80days_map_thumb.png
+    thumb: http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Saxifraga_cochlearis1.jpg/120px-Saxifraga_cochlearis1.jpg
 ---
 
 {% include figure.html src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Saxifraga_cochlearis1.jpg/120px-Saxifraga_cochlearis1.jpg" caption="Saxifraga cochlearis" class="callout" link="http://en.wikipedia.org/wiki/Saxifraga" %}

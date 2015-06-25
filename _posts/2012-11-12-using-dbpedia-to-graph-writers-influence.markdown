@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using DBpedia to graph writer's influence
+title: Using DBpedia to graph writers influence
 date: 2012-11-12
 tags:
 - networking belfast

@@ -6,6 +6,8 @@ tags:
 - dh2012
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/31/dh2012-lp15-3d-archeology-ptolemys-geography-and-neatline
 permalink: /2012/07/31/dh2012-lp15-3d-archeology-ptolemys-geography-and-neatline/
+image:
+    thumb: http://www.dh2012.uni-hamburg.de/wp-content/uploads/2012/07/img344-3.jpg
 ---
 
 A session on three different geographical or otherwise map-related projects: applying 3D technologies to archaeology, investigating the precision of Ptolemy's maps, and the new map-making tool Neatline from UVA Scholar's Lab.
