@@ -18,5 +18,6 @@
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.png{% endif %}">
+{% comment %} suppressing, because publication dates are accurate but times are not...
 {% if page.date %}<meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}"/>
-{% elsif page.created %}<meta property="article:published_time" content="{{ page.created | date: "%Y-%m-%d" }}"/>{% endif %}
+{% elsif page.created %}<meta property="article:published_time" content="{{ page.created | date: "%Y-%m-%d" }}"/>{% endif %} {% endcomment %}
