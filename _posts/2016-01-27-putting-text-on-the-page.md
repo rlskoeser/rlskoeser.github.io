@@ -54,8 +54,14 @@ the text on the page, users can take advantage of all the normal text
 functions, like a web browser's search on the page function, or
 highlighting text, e.g. to copy it for pasting elsewhere, or for
 annotation.
-
 {% include figure.html src="/images/posts/rdx/osh-textselect_preview.png" data-alt="/images/posts/rdx/osh-textselect.gif" caption="Text selection from the [preface](http://readux.library.emory.edu/books/emory:r8qzb/pages/emory:r8r6d/) of the [1911 Original Sacred Harp](http://readux.library.emory.edu/books/emory:r8qzb/) in [Readux](http://readux.library.emory.edu/) in [Readux](http://readux.library.emory.edu/). *(click to view animation)*" class="callout" %}
+
+I recently learned about
+[Project Naptha](https://projectnaptha.com/), a new browser-based tool to
+identify and expose text within images, and the result actually seems
+remarkably similar to what we're doing in Readux-- except that, instead of
+trying to find the text in the image after the fact and on the fly,
+we're providing access to the text data that has already been generated.
 
 
 ## How it works
