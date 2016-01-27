@@ -33,7 +33,7 @@ h6 {
    ========================================================================== */
 
 a {
-/*	text-decoration: none;*/
+	text-decoration: none;
 	color: $link-color;
 	&:visited {
 		color: $linkcolorvisited;
@@ -51,8 +51,8 @@ a {
 	}
 }
 
-a[rel=bookmark] {
-    text-decoration: none;
+.image-credit a, figcaption a, .caption a {
+    text-decoration: underline;
 }
 
 
