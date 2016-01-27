@@ -6,9 +6,10 @@ Based on http://stackoverflow.com/questions/19331362/using-an-image-caption-in-m
     <a href="{% if include.link %}{{ include.link }}{% else %}{{ include.src }}{% endif %}">
 		<img src="{{ include.src }}"
             {% if include.alt %}alt="{{ include.alt }}"{% else %}alt="{{ include.caption }}"{% endif %}
+            {% if include.data-alt %}data-alt="{{ include.data-alt }}"{% endif %}
             {% if include.title %}title="{{ include.title }}"{% endif %}/>
 	</a>
 <figcaption>
-    {{ include.caption }}
+    {{ include.caption|markdownify }}
 </figcaption>
 </figure>
