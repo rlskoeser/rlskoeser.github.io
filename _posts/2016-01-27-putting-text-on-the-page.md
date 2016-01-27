@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Putting Text on the Page'
-date: 2016-01-27T09:40:34-05:00
+date: 2016-01-27T12:15:00-05:00
 excerpt: Discussion of Readux’s invisible OCR text placement over page images for selection and annotation.
 tags:
 - readux
