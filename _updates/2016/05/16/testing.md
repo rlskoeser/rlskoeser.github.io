@@ -1,5 +1,5 @@
 ---
-date: 2016-05-16 21:01:00 -500
+date: 2016-05-16 21:01:00 -05:00
 twitter_url: https://twitter.com/suttonkoeser/status/732408440488763392
 ---
 
