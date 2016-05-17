@@ -1,14 +1,20 @@
-{% assign page=include.page %}
+{% assign post=include.post %}
 <div class="h-entry">
-    {% if page.in_reply_to %}
+    {% if post.in_reply_to %}
     <div class="in-reply-to"><i class="fa fa-reply" aria-hidden="true"></i>
-    In reply to <a class="u-in-reply-to" href="{{ page.in_reply_to }}">{{ page.in_reply_to }}</a></div>
+    In reply to <a class="u-in-reply-to" href="{{ post.in_reply_to }}">{{ post.in_reply_to }}</a></div>
     {% endif %}
-    <div class="e-content">{{ page.content }}</div>
-    <div class="small"><a href="{{ site.url }}{{ page.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y %r" }}</time></a>
-    {% if page.twitter_url %}
-    | <a rel="external syndication" class="u-syndication small" href="{{ page.twitter_url }}">view on Twitter
+    <div class="e-content">{{ post.content }}</div>
+    <div class="small"><a href="{{ site.url }}{{ post.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y %r" }}</time></a>
+    {% if post.twitter_url %}
+    | <a rel="external syndication" class="u-syndication small" href="{{ post.twitter_url }}">view on Twitter
     <i class="fa fa-twitter"></i></a>
     {% endif %}
     </div>
 </div>
+
+{% comment %} webmention brid.gy publish to automate publication;
+only if configured and on individual update page {% endcomment %}
+{% if post.publish_to_twitter and post.url == page.url %}
+    <a href="https://brid.gy/publish/twitter"></a>
+{% endif %}
