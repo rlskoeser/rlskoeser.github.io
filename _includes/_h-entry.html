@@ -5,6 +5,10 @@
     In reply to <a class="u-in-reply-to" href="{{ post.in_reply_to }}">{{ post.in_reply_to }}</a></div>
     {% endif %}
     <div class="e-content">{{ post.content }}</div>
+    {% if post.url == page.url %}
+    {% comment %}explicitly set bridgy twitter content, without formatting {% endcomment %}
+    <div class="p-bridgy-twitter-content" style="display:none">{{ post.content|strip_html }}</p>
+    {% endif %}
     <div class="small"><a href="{{ site.url }}{{ post.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y %r" }}</time></a>
     {% if post.twitter_url %}
     | <a rel="external syndication" class="u-syndication small" href="{{ post.twitter_url }}">view on Twitter
@@ -17,4 +21,6 @@
 only if configured and on individual update page {% endcomment %}
 {% if post.publish_to_twitter and post.url == page.url %}
     <a href="https://brid.gy/publish/twitter"></a>
+    {% comment %} Only link to site if tweet must be shortened {% endcomment %}
+    <data class="p-bridgy-omit-link" value="maybe" />
 {% endif %}
