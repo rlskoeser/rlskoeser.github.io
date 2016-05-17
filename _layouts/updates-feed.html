@@ -5,10 +5,9 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
-<link rel="feed" href="{{ site.url }}/updates/">
 </head>
 
-<body class="home">
+<body class="post-index" typeof="schema:Blog">
 
 {% include _browser-upgrade.html %}
 
@@ -33,26 +32,15 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}
-    <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      {% else %}
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-          {% if post.image.thumb %}
-          <img class="post-thumb" src="{% if post.image.thumb contains 'http' %}{{ post.image.thumb }}{% else %}{{ site.url }}/images/{{ post.image.thumb }}{% endif %}"/>
-          {% endif %}
-          <h2>{{ post.title }}</h2>
-        </a>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}
-          <span class="dateline">{{ post.date | date_to_string }}</span>
-        </p>
-      {% endif %}
-    </article>
+  <div class="h-feed">
+    <h1>{{ page.title }}</h1>
+    {% for post in site.updates %}
+
+      {% include _h-entry.html page=post %}
+
     {% endfor %}
-  </div><!-- /#index -->
+
+  </div><!-- /.h-feed -->
 </div><!-- /#main -->
 
 <div class="footer-wrap">
