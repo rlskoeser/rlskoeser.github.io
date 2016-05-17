@@ -1,10 +1,10 @@
 {% assign page=include.page %}
 <div class="h-entry">
-    <p class="e-content">{{ page.content }}</p>
-    <p class="small"><a href="{{ site.url }}{{ page.url }}"><time property="schema:datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y %r" }}</time></a>
+    <div class="e-content">{{ page.content }}</div>
+    <div class="small"><a href="{{ site.url }}{{ page.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y %r" }}</time></a>
     {% if page.twitter_url %}
     | <a rel="external syndication" class="u-syndication small" href="{{ page.twitter_url }}">view on Twitter
     <i class="fa fa-twitter"></i></a>
     {% endif %}
-    </p>
+    </div>
 </div>
