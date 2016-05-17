@@ -1,8 +1,6 @@
 ---
 date: 2016-05-17 16:24:09 -04:00
 twitter_url:
-in_reply_to:
-repost_of: https://twitter.com/Kurt_Vonnegut/status/732602339400388608
 publish_to_twitter: true
 ---
 
@@ -10,8 +8,7 @@ May be why most developers would rather start fresh rather than maintain & upate
 
 via [@StewartVarner](https://twitter.com/StewartVarner)
 
-<a class="u-repost-of" href="https://twitter.com/Kurt_Vonnegut/status/732602339400388608"></a>
-
+<a  href="https://twitter.com/Kurt_Vonnegut/status/732602339400388608"></a>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.</p>&mdash; Kurt Vonnegut (@Kurt_Vonnegut) <a href="https://twitter.com/Kurt_Vonnegut/status/732602339400388608">May 17, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
