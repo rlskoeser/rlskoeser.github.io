@@ -1,11 +1,10 @@
 {% assign post=include.post %}
 <div class="h-entry">
     <div class="e-content">{{ post.content }}</div>
-    {% comment %} NOTE: could explicitly set bridgy twitter content, e.g. without formatting
+    {% comment %} explicitly set bridgy twitter content, e.g. without formatting {% endcomment %}
     {% if post.url == page.url %}
     <div class="p-bridgy-twitter-content" style="display:none">{{ post.content|strip_html }}</div>
     {% endif %}
-    {% endcomment %}
     {% if post.in_reply_to %}
     <div class="in-reply-to">
         <i class="fa fa-reply" aria-hidden="true"></i>
