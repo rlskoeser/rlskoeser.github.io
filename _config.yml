@@ -11,7 +11,7 @@ url:              http://rlskoeser.github.io
 # NOTE: "pretty" permalink = /:categories/:year/:month/:day/:title/
 permalink:   pretty
 markdown:    kramdown
-highlighter: rouge
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
@@ -25,6 +25,17 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+collections:
+  updates:
+    output: true
+    permalink: /updates/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: updates
+    values:
+      layout: update
 
 # Site owner
 owner:
