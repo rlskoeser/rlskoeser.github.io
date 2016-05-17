@@ -11,6 +11,9 @@
         In reply to <a class="u-in-reply-to" href="{{ post.in_reply_to }}">{{ post.in_reply_to }}</a>
     </div>
     {% endif %}
+    {% if post.repost_of %}
+        <a class="u-repost-of" href="{{ post.repost_of }}"></a>
+    {% endif %}
     <div class="small">
         <a href="{{ site.url }}{{ post.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y %r" }}</time></a>
         {% if post.twitter_url %}
