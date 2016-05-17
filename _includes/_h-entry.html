@@ -1,19 +1,23 @@
 {% assign post=include.post %}
 <div class="h-entry">
-    {% if post.in_reply_to %}
-    <div class="in-reply-to"><i class="fa fa-reply" aria-hidden="true"></i>
-    In reply to <a class="u-in-reply-to" href="{{ post.in_reply_to }}">{{ post.in_reply_to }}</a></div>
-    {% endif %}
     <div class="e-content">{{ post.content }}</div>
+    {% comment %} NOTE: could explicitly set bridgy twitter content, e.g. without formatting
     {% if post.url == page.url %}
-    {% comment %}explicitly set bridgy twitter content, without formatting {% endcomment %}
-    <div class="p-bridgy-twitter-content" style="display:none">{{ post.content|strip_html }}</p>
+    <div class="p-bridgy-twitter-content" style="display:none">{{ post.content|strip_html }}</div>
     {% endif %}
-    <div class="small"><a href="{{ site.url }}{{ post.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y %r" }}</time></a>
-    {% if post.twitter_url %}
-    | <a rel="external syndication" class="u-syndication small" href="{{ post.twitter_url }}">view on Twitter
-    <i class="fa fa-twitter"></i></a>
+    {% endcomment %}
+    {% if post.in_reply_to %}
+    <div class="in-reply-to">
+        <i class="fa fa-reply" aria-hidden="true"></i>
+        In reply to <a class="u-in-reply-to" href="{{ post.in_reply_to }}">{{ post.in_reply_to }}</a>
+    </div>
     {% endif %}
+    <div class="small">
+        <a href="{{ site.url }}{{ post.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y %r" }}</time></a>
+        {% if post.twitter_url %}
+        | <a rel="external syndication" class="u-syndication small" href="{{ post.twitter_url }}">view on Twitter
+        <i class="fa fa-twitter"></i></a>
+        {% endif %}
     </div>
 </div>
 
