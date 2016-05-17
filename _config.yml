@@ -3,6 +3,7 @@
 title:            Rebecca Sutton Koeser
 locale:           en_US
 url:              http://rlskoeser.github.io
+timezone: "America/New_York"
 
 
 # Jekyll configuration
@@ -36,6 +37,12 @@ defaults:
       type: updates
     values:
       layout: update
+
+# rake task configuration
+update:
+  template: rake_templates/update.md
+  extension: md
+editor: subl
 
 # Site owner
 owner:
@@ -71,4 +78,7 @@ owner:
   flickr: #username
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile",
+  "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace",
+  "test", "spec", "Gruntfile.js", "package.json", "node_modules",
+  "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "rake_templates"]

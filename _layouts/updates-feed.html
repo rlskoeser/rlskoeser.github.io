@@ -34,9 +34,14 @@
   </div>
   <div class="h-feed post">
     <h1>{{ page.title }}</h1>
-    {% for post in site.updates %}
+    {% comment %} show most recent updates first {% endcomment %}
+    {% comment %} TODO: paginate or limit the number of updates shown here {% endcomment %}
+    {% assign updates = site.updates | sort:'date' | reverse %}
+    {% for post in updates %}
 
+    <div>
       {% include _h-entry.html page=post %}
+    </div>
 
     {% endfor %}
 

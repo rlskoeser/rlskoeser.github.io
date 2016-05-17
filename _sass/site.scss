@@ -144,3 +144,20 @@ img.post-thumb {
 .image-credit a, figcaption a, .caption a {
     text-decoration: underline;
 }
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+/* update entries */
+
+.h-entry {
+  margin-bottom: 3em;
+}
+.in-reply-to {
+  background-color: #efefef;
+  border: 1px solid grey;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 1em;
+}
