@@ -36,7 +36,7 @@
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
     {% for post in site.posts limit:5 %}
-    <article>
+    <article>  {% comment %} TODO: consolidate with post index via include {% endcomment %}
       {% if post.link %}
         <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
@@ -49,9 +49,18 @@
         <p>{{ post.excerpt | strip_html | truncate: 160 }}
           <span class="dateline">{{ post.date | date_to_string }}</span>
         </p>
+        {% if post.tags %}
+          <div class="tags text-muted small align-right">
+          {% for tag in post.tags %}<span property="schema:keywords">{{ tag }}</span>{% endfor %}
+          </div>
+        {% endif %}
       {% endif %}
     </article>
     {% endfor %}
+
+    <hr/>
+    <div class="webmentions"></div>
+
   </div><!-- /#index -->
 </div><!-- /#main -->
 

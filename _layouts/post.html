@@ -57,6 +57,9 @@
         {% if page.original_url %}
         <div class="byline">Originally published at <a href="{{ page.original_url }}" rel="alternate">{{ page.original_url }}</a></div>
         {% endif %}
+
+        <div class="webmentions"></div>
+
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}

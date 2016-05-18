@@ -54,6 +54,11 @@
             {% endif %}
             <span property="schema:name">{{ post.title }}</span></a></h2>
           <p property="schema:description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+          {% if post.tags %}
+          <div class="tags text-muted small align-right">
+          {% for tag in post.tags %}<span property="schema:keywords">{{ tag }}</span>{% endfor %}
+          </div>
+          {% endif %}
         {% endif %}
       </article>
     {% endfor %}

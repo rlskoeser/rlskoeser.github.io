@@ -149,6 +149,20 @@ img.post-thumb {
   white-space: nowrap;
 }
 
+.tags {
+  font-size: 85%;
+  color: gray;
+  text-align: right;
+  clear: right;
+  margin-top: -15px;
+}
+.tags span {
+  padding-left: 5px;
+}
+.tags span:before {
+  content: "#";
+}
+
 /* update entries */
 
 .h-entry {
@@ -161,4 +175,52 @@ img.post-thumb {
   padding: 5px;
   border-radius: 5px;
   margin: 5px 5px 15px;
+}
+
+/* mentions */
+
+.webmentions .repost:before {
+    content: "\f079";  /* retweet */
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    padding-right: 5px;
+}
+
+.webmentions .like:before {
+    content: "\f005";  /* star */
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    padding-right: 5px;
+}
+
+.webmentions .reply:before {
+    content: "\f112";  /* reply */
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    padding-right: 5px;
+}
+
+.webmentions .link:before {
+    content: "\f0c1";  /* link */
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    padding-right: 5px;
+}
+
+.mention-details {
+  margin-top: 10px;
+  text-indent: -22px;
+  margin-left: 22px;
+}
+
+.webmentions a {
+  text-decoration: underline;
 }
