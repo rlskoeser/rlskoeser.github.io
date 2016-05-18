@@ -28,5 +28,5 @@ only if configured and on individual update page {% endcomment %}
 {% if post.publish_to_twitter and post.url == page.url %}
     <a href="https://brid.gy/publish/twitter"></a>
     {% comment %} Only link to site if tweet must be shortened {% endcomment %}
-    <data class="p-bridgy-omit-link" value="maybe" />
+    <data class="p-bridgy-omit-link" />
 {% endif %}
