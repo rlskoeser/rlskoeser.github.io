@@ -60,9 +60,9 @@ def create_file(directory, filename, content, title, editor)
       execute("git add #{directory}/#{filename}")
       execute("git commit #{directory}/#{filename}")
       execute("git push")
-      sleep 3   # is this enough for github pages to build the site?
+      sleep 10   # is this enough for github pages to build the site?
       published_url = public_update_url(directory, title)
-      puts "published_url = ", published_url
+      puts "published_url = #{published_url}"
 
       # publish on twitter
       twitter_url = publish_to_twitter(published_url)
@@ -74,7 +74,7 @@ def create_file(directory, filename, content, title, editor)
 end
 
 def public_update_url(directory, title)
-   "#{CONFIG["update"]["site_url"]}/#{String(directory).gsub('_', '')}/#{transform_to_slug(title)}/"
+   "#{CONFIG["public_url"]}/#{String(directory).gsub('_', '')}/#{transform_to_slug(title)}/"
 end
 
 
@@ -82,11 +82,23 @@ def publish_to_twitter(source_url)
   # publish to twitter via bridgy web mention
   # parse the response and return the created twitter url
   publish_url = 'https://brid.gy/publish/webmention'
-  r = RestClient.post(publish_url, {
-    source: source_url,
-    target: 'http://brid.gy/publish/twitter',
-    bridgy_omit_link: CONFIG["update"]["bridgy_omit_link"]})
-  # TODO: check status code for success
+begin
+  RestClient.get 'http://example.com/resource'
+rescue => e
+  e.response
+end
+
+  begin
+    r = RestClient.post(publish_url, {
+      source: source_url,
+      target: 'http://brid.gy/publish/twitter',
+      bridgy_omit_link: CONFIG["update"]["bridgy_omit_link"]})
+  rescue => e
+    puts JSON.parse(e.response)["error"]
+    puts 'Bridgy publish failed'
+    exit 1
+  end
+
   twitter_url = JSON.parse(r.body)["url"]
   puts "Published tweet url is #{twitter_url}"
   return twitter_url
@@ -150,7 +162,7 @@ task :publish do |args|
     options = {}
     OptionParser.new(args) do |opts|
       opts.banner = "Usage: rake update [options]"
-      opts.on("-t", "--title {title}","Post short title for update filename", String) do |title|
+      opts.on("-t", "--title {title}","Short title or label filename", String) do |title|
         options[:title] = title
       end
     end.parse!
@@ -179,3 +191,48 @@ end
 # retweet command? create the template, grab the o-embed and insert
 # into the template
 
+task :repost do |args|
+    options = {}
+
+    # hack: shift argv to ignore task name and -- needed
+    # to pass args
+    ARGV.shift
+    ARGV.shift
+
+    OptionParser.new(args) do |opts|
+      opts.banner = "Usage: rake update [options]"
+      opts.on("-t", "--title {title}","Short title or label for filename", String) do |title|
+        options[:title] = title
+      end
+      opts.on("-u", "--url {url}","URL of item to repost", String) do |url|
+        options[:url] = url
+      end
+    end.parse!
+    # title is required
+    check_title(options[:title])
+    template = CONFIG["update"]["template"]
+    extension = CONFIG["update"]["extension"]
+    editor = CONFIG["editor"]
+    filename = "#{transform_to_slug(options[:title])}.#{extension}"
+    content = read_file(template)
+    # add the url to the yaml front matter
+    content = content.gsub(/^repost_of:/, "repost_of: #{options[:url]}")
+
+    twitter_oembed_url = 'https://api.twitter.com/1/statuses/oembed.json'
+    # if repost is a tweet, fetch it and embed
+    if options[:url].include? 'twitter.com'
+        begin
+            r = RestClient.get twitter_oembed_url,
+                {:params => {:url => options[:url]}}
+            # r = RestClient.get(twitter_oembed_url, {:params => {url: options[:url]}})
+            content += "\n" + JSON.parse(r.body)["html"]
+        rescue => e
+            puts 'Twitter oembed API request error'
+            puts e
+            exit 1
+        end
+    end
+
+    directory = UPDATES.join(TODAY.strftime('%Y'), TODAY.strftime('%m'), TODAY.strftime('%d'))
+    create_file(directory, filename, content, options[:title], editor)
+end
