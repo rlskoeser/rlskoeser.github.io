@@ -1,6 +1,6 @@
 ---
 date: 2016-05-19 15:41:03 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/733382210137513985
 in_reply_to:
 repost_of: https://twitter.com/jpkarlsberg/status/733352756354928640
 publish_to_twitter: true
