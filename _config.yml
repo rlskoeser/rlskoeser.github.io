@@ -3,6 +3,8 @@
 title:            Rebecca Sutton Koeser
 locale:           en_US
 url:              http://rlskoeser.github.io
+# url to use for finding mentions, even when running in development
+public_url:       http://rlskoeser.github.io
 timezone: "America/New_York"
 
 
@@ -42,7 +44,6 @@ defaults:
 update:
   template: rake_templates/update.md
   extension: md
-  site_url: http://rlskoeser.github.io
   bridgy_omit_link: true
 editor: subl -n -w
 

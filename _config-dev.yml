@@ -1,0 +1,2 @@
+# override production site url to use local assets
+url:  ''

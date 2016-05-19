@@ -22,5 +22,5 @@
   {% include _disqus_comments.html %}
 {% endif %}
 <script> /* display web mentions via mentions.io */
-  web_mentions("{{ site.url }}{{ page.url }}");
+  webmentions("{{ site.public_url }}{{ page.url }}");
 </script>
