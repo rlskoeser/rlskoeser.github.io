@@ -42,7 +42,9 @@ defaults:
 update:
   template: rake_templates/update.md
   extension: md
-editor: subl
+  site_url: http://rlskoeser.github.io
+  bridgy_omit_link: true
+editor: subl -n -w
 
 # Site owner
 owner:

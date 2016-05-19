@@ -8,6 +8,8 @@ require 'yaml'
 require 'fileutils'
 require 'pathname'
 require 'optparse'
+require 'rest-client'
+require 'json'
 
 
 # Load the configuration file
@@ -51,9 +53,50 @@ def create_file(directory, filename, content, title, editor)
     write_file(content, title, directory, filename)
     if editor && !editor.nil?
       sleep 1
+      # open file in configured editor
       execute("#{editor} #{directory}/#{filename}")
+
+      # add to git, commit, and push
+      execute("git add #{directory}/#{filename}")
+      execute("git commit #{directory}/#{filename}")
+      execute("git push")
+      sleep 3   # is this enough for github pages to build the site?
+      published_url = public_update_url(directory, title)
+      puts "published_url = ", published_url
+
+      # publish on twitter
+      twitter_url = publish_to_twitter(published_url)
+      # add twitter url to update file front matter
+      add_twitter_url("#{directory}/#{filename}", twitter_url)
+      execute("git commit #{directory}/#{filename} -m 'Added published twitter url'")
     end
   end
+end
+
+def public_update_url(directory, title)
+   "#{CONFIG["update"]["site_url"]}/#{String(directory).gsub('_', '')}/#{transform_to_slug(title)}/"
+end
+
+
+def publish_to_twitter(source_url)
+  # publish to twitter via bridgy web mention
+  # parse the response and return the created twitter url
+  publish_url = 'https://brid.gy/publish/webmention'
+  r = RestClient.post(publish_url, {
+    source: source_url,
+    target: 'http://brid.gy/publish/twitter',
+    bridgy_omit_link: CONFIG["update"]["bridgy_omit_link"]})
+  # TODO: check status code for success
+  twitter_url = JSON.parse(r.body)["url"]
+  puts "Published tweet url is #{twitter_url}"
+  return twitter_url
+end
+
+def add_twitter_url(filename, url)
+  text = File.read(filename)
+  updated_text = text.gsub(/^twitter_url:/, "twitter_url: #{url}")
+  # To write changes to the file, use:
+  File.open(filename, "w") {|file| file.puts updated_text }
 end
 
 # Read the template file
@@ -69,10 +112,10 @@ def check_title(title)
 end
 
 # Transform the filename and date to a slug
-def transform_to_slug(title, extension)
+def transform_to_slug(title)
   characters = /("|'|!|\?|:|\s\z)/
   whitespace = /\s/
-  "#{title.gsub(characters,"").gsub(whitespace,"-").downcase}.#{extension}"
+  title.gsub(characters,"").gsub(whitespace,"-").downcase
 end
 
 # == Tasks =====================================================================
@@ -94,10 +137,45 @@ task :update do |args|
     template = CONFIG["update"]["template"]
     extension = CONFIG["update"]["extension"]
     editor = CONFIG["editor"]
-    filename = "#{transform_to_slug(options[:title], extension)}"
+    filename = "#{transform_to_slug(options[:title])}.#{extension}"
     content = read_file(template)
     directory = UPDATES.join(TODAY.strftime('%Y'), TODAY.strftime('%m'), TODAY.strftime('%d'))
     create_file(directory, filename, content, options[:title], editor)
     # quit so rake doesn't try to do something else with the -t option
     exit 0
 end
+
+desc 'Publish an existing update (for now, assumes update is from today)'
+task :publish do |args|
+    options = {}
+    OptionParser.new(args) do |opts|
+      opts.banner = "Usage: rake update [options]"
+      opts.on("-t", "--title {title}","Post short title for update filename", String) do |title|
+        options[:title] = title
+      end
+    end.parse!
+    # title is required
+    check_title(options[:title])
+
+    extension = CONFIG["update"]["extension"]
+    filename = "#{transform_to_slug(options[:title])}.#{extension}"
+    # for now, assume today
+    directory = UPDATES.join(TODAY.strftime('%Y'), TODAY.strftime('%m'), TODAY.strftime('%d'))
+
+    # TODO: consolidate with logic in create_file
+
+    # calculate published url
+    published_url = public_update_url(directory, options[:title])
+    # publish on twitter
+    twitter_url = publish_to_twitter(published_url)
+    # add twitter url to update file front matter & commit to git
+    add_twitter_url("#{directory}/#{filename}", twitter_url)
+    execute("git commit #{directory}/#{filename} -m 'Added published twitter url'")
+
+    # quit so rake doesn't try to do something else with the -t option
+    exit 0
+end
+
+# retweet command? create the template, grab the o-embed and insert
+# into the template
+
