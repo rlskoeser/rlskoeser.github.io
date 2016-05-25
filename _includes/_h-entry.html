@@ -4,10 +4,10 @@
         <i class="fa fa-retweet"></i> retweeted
         <a class="u-repost-of" href="{{ post.repost_of }}">{{ post.repost_of }}</a>
     {% endif %}
-    <div class="e-content">{{ post.content }}</div>
+    <div class="e-content">{{ post.excerpt }}</div>
     {% comment %} explicitly set bridgy twitter content, e.g. without formatting {% endcomment %}
     {% if post.url == page.url %}
-    <div class="p-bridgy-twitter-content" style="display:none">{{ post.content|strip_html }}</div>
+    <div class="p-bridgy-twitter-content" style="display:none">{{ post.excerpt|strip_html }}</div>
     {% endif %}
     {% if post.in_reply_to %}
     <div class="in-reply-to">
@@ -15,6 +15,14 @@
         In reply to <a class="u-in-reply-to" href="{{ post.in_reply_to }}">{{ post.in_reply_to }}</a>
     </div>
     {% endif %}
+    {% if post.quote %}
+    <article class="h-cite">
+        <a class="u-url" href="{{ post.quote }}"/>
+    </article>
+    {% endif %}
+    {% comment %} display additional content outside of update content text {% endcomment %}
+    {{ post.content | remove: post.excerpt }}
+
     <div class="small">
         <a href="{{ site.url }}{{ post.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y %r" }}</time></a>
         {% if post.twitter_url %}
