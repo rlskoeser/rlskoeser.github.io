@@ -1,6 +1,6 @@
 ---
 date: 2016-05-25 14:47:38 -04:00
-twitter_url:
+twitter_url: https://twitter.com/tla/status/735538216627998720
 like_of: https://twitter.com/tla/status/735538216627998720
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
