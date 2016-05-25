@@ -4,6 +4,10 @@
         <i class="fa fa-retweet"></i> retweeted
         <a class="u-repost-of" href="{{ post.repost_of }}">{{ post.repost_of }}</a>
     {% endif %}
+    {% if post.like_of %}
+        <i class="fa fa-star" aria-hidden="true"></i> liked
+        <a class="u-like-of" href="{{ post.like_of }}">{{ post.like_of }}</a>
+    {% endif %}
     <div class="e-content">{{ post.excerpt }} </div>
     {% comment %} explicitly set bridgy twitter content, e.g. without formatting {% endcomment %}
     {% if post.url == page.url %}
