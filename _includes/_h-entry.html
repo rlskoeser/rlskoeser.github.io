@@ -4,10 +4,11 @@
         <i class="fa fa-retweet"></i> retweeted
         <a class="u-repost-of" href="{{ post.repost_of }}">{{ post.repost_of }}</a>
     {% endif %}
-    <div class="e-content">{{ post.excerpt }}</div>
+    <div class="e-content">{{ post.excerpt }} </div>
     {% comment %} explicitly set bridgy twitter content, e.g. without formatting {% endcomment %}
     {% if post.url == page.url %}
-    <div class="p-bridgy-twitter-content" style="display:none">{{ post.excerpt|strip_html }}</div>
+    <div class="p-bridgy-twitter-content" style="display:none">{{ post.excerpt|strip_html }}
+    {% if post.quote %}<a class="u-url" href="{{ post.quote }}"/>{% endif %}</div>
     {% endif %}
     {% if post.in_reply_to %}
     <div class="in-reply-to">
