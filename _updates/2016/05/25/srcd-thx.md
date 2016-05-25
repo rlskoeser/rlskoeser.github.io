@@ -1,6 +1,6 @@
 ---
 date: 2016-05-25 14:57:22 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/735545646342508544
 in_reply_to: https://twitter.com/srcd_/status/735544629471240192
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
