@@ -36,11 +36,15 @@ function webmentions(url) {
       details.append(mention);
     }
 
-    var types = Object.keys(activity), type;
+    var types = Object.keys(activity), type, count;
     for (var i = 0; i < types.length; i++) {
       type = types[i];
-      plural = activity[type] == 1 ? '' : 's';
-      div.append($('<span>' + activity[type] + ' ' + type + plural + '</span>').attr('class', types[i]));
+      count = activity[type];
+      plural = (count == 1 ? '' : 's');
+      if (type == 'reply' && count != 1) {
+        type = 'replie';
+      }
+      div.append($('<span>' + count + ' ' + type + plural + '</span>').attr('class', types[i]));
 
       if (i != types.length -1 ) {
         div.append(', ');
