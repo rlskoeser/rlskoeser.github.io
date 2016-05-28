@@ -3,7 +3,7 @@ layout: post
 title: 'OR09: aDORe djatoka'
 created: 1247581406
 tags:
-- open repositories
+- open-repositories
 - fedora
 - jpeg2000
 original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2009/07/14/or09-adore-djatoka

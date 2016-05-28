@@ -3,7 +3,7 @@ layout: post
 title: 'Networking Belfast Proposal for DH 2013'
 date: 2012-11-12
 tags:
-- networking belfast
+- networking-belfast
 original_url: http://disc.library.emory.edu/networkingbelfast/proposal-for-dh-2013/
 excerpt: "A poster proposal for the 2013 Digital Humanities conference co-written with Brian Croxall."
 image:

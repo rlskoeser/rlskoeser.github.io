@@ -3,7 +3,7 @@ layout: post
 title: The Poetry of Things (in DBpedia)
 date: 2013-02-20
 tags:
-- networking belfast
+- networking-belfast
 - experiments
 original_url: http://disc.library.emory.edu/networkingbelfast/poetry-of-things-in-dbpedia/
 excerpt: An experiment with namedropper, DBpedia Spotlight, and poetry.

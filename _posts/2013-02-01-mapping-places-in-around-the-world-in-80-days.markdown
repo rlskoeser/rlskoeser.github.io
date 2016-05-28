@@ -3,7 +3,7 @@ layout: post
 title: Mapping places in “Around the World in 80 Days”
 date: 2013-02-01
 tags:
-- networking belfast
+- networking-belfast
 - experiments
 original_url: http://disc.library.emory.edu/networkingbelfast/places-in-around-the-world-in-80-days/
 excerpt: Generating a map of places mentioned in Jules Verne’s Around the World in 80 Days.

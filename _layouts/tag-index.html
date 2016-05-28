@@ -5,10 +5,9 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
-<link rel="feed" href="{{ site.url }}/updates/">
 </head>
 
-<body class="home">
+<body class="tag-index"> <!-- ??  typeof="schema:Blog"> -->
 
 {% include _browser-upgrade.html %}
 
@@ -33,16 +32,27 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}
-      {% include list-post.html %}
+  <div id="index" class="tag-index">
+    <h1>{{ page.title }}</h1>
+    {% for tag_posts in site.tags %}
+    <div class="collapsible-content">
+      {% assign tag=tag_posts[0] %} {% assign posts=tag_posts[1] %} {% assign tag_data=site.data.tags[tag] %}
+      <input id="{{ tag }}-toggle" type="checkbox" class="checkbox-toggle" />
+      <label for="{{ tag }}-toggle">
+      <a name="{{ tag }}"><h2 class="tag">{% if tag_data.name %}{{ tag_data.name }}{% else %}{{ tag }}{% endif %}</h2></a>
+      <span class="count">({{ posts.size }})</span>
+      <a class="headerlink" href="#{{ tag }}" title="permalink to {{ tag }}"><span class="fa fa-link"></span></a>
+      </label>
+      {% if tag_data.description %}
+        <p class="description">{{ tag_data.description %}}</p>
+      {% endif %}
+      <div class="content">
+        {% for post in posts %}
+           {% include list-post.html %}
+        {% endfor %}
+      </div>
+    </div>
     {% endfor %}
-
-    <hr/>
-    <p class="description">View: <a href="{{ site.url }}/posts/">all posts</a> |
-      <a href="{{ site.url }}/posts/tags/">posts by tag</a></p>
-
   </div><!-- /#index -->
 </div><!-- /#main -->
 

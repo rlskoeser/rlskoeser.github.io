@@ -221,6 +221,86 @@ img.post-thumb {
   margin-left: 22px;
 }
 
-.webmentions a {
+.webmentions a, .description a {
   text-decoration: underline;
+}
+
+.e-content a, .e-content a:visited {
+  color: rgb(43, 123, 185);
+}
+
+.tag-index h2.tag {
+  display: inline-block;
+}
+
+.count {
+  padding-left: 5px;
+  font-weight: normal;
+  color: gray;
+}
+.description {
+  margin-bottom: 5px;
+  font-size: 90%;
+}
+
+.collapsible-content .content {
+    display: none;
+}
+
+.collapsible-content input.checkbox-toggle {
+  display: none;
+}
+
+input.checkbox-toggle ~ label h2 {
+  margin-bottom: 10px;
+}
+
+input.checkbox-toggle ~ label {
+  /*padding: .7em;*/
+  cursor: pointer;
+  width: 100%;
+  border-bottom: 1px solid #ababab;
+}
+
+input.checkbox-toggle + label::after {
+  font-family: FontAwesome;
+  content: "\f078";
+  /* chevron down */
+  margin-right: 25px;
+  margin-top: 25px;
+  float: right;
+  color: #ababab;
+
+}
+
+input.checkbox-toggle:checked + label::after {
+  content: "\f077";
+  /* chevron up */
+}
+
+.collapsible-content input.checkbox-toggle ~ label {
+  display: block;
+}
+
+.collapsible-content input.checkbox-toggle ~ .content {
+  display: none;
+}
+
+.collapsible-content input.checkbox-toggle:checked ~ .content {
+  display: block;
+}
+
+.headerlink {
+    opacity: 0;
+    padding-left: 10px;
+    font-size: 0.8em;
+    position: relative;
+    top: -0.17em;
+    font-weight: 700;
+    text-decoration: none;
+    -webkit-transition: opacity 200ms ease-in-out;
+    transition: opacity 200ms ease-in-out;
+}
+label:hover>.headerlink {
+    opacity: 1;
 }

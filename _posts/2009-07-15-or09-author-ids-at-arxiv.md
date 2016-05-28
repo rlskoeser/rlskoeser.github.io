@@ -3,7 +3,7 @@ layout: post
 title: 'OR09: Author IDs at arXiv'
 created: 1247674431
 tags:
-- open repositories
+- open-repositories
 original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2009/07/15/or09-author-ids-arxiv
 permalink: /2009/07/15/or09-author-ids-arxiv/
 ---

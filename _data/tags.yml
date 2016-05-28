@@ -1,0 +1,30 @@
+# tag description and metadata
+# name can be specified here, to be shown instead of slug
+
+readux:
+  description: "<a href='https://readux.library.emory.edu/'>Readux</a> project or
+  <a href='https://github.com/emory-libraries/readux'>codebase</a> for display,
+  annotation, and export of digitized books"
+networking-belfast:
+  name: networking belfast
+  description: "
+  <a href='http://digitalscholarship.emory.edu/projects/project-networking-belfast.html'>Networking the Belfast Group</a>
+  project sponsored by the
+  <a href='http://digitalscholarship.emory.edu/'>Emory Center for Digital Scholarship</a>,
+  which resulted in the <a href='http://belfastgroup.digitalscholarship.emory.edu/'>Belfast
+  Group Poetry|<i>Networks</i></a> website."
+open-repositories:
+  description: Notes from Open Repositories conferences I've attended over the years
+or11:
+  name: OR2011
+  description: "Notes from <a href='https://conferences.tdl.org/or2011/'>Open
+  Repositories 2011</a> conference in Austin, Texas"
+dh2012:
+  description: "Notes from <a href='http://www.dh2012.uni-hamburg.de/'>Digital
+  Humanities 2012</a> conference in Hamburg, Germany"
+fedora:
+  description: <a href="http://fedorarepository.org/">Fedora Commons repository</a>
+fuse:
+  description: <a href="https://en.wikipedia.org/wiki/Filesystem_in_Userspace">Filesystem in User Space</a>
+exist:
+  description: <a href="http://exist-db.org/">eXist-db</a> XML Database

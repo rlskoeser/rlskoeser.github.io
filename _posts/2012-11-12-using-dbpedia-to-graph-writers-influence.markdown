@@ -3,7 +3,7 @@ layout: post
 title: Using DBpedia to graph writers influence
 date: 2012-11-12
 tags:
-- networking belfast
+- networking-belfast
 - experiments
 original_url: http://disc.library.emory.edu/networkingbelfast/dbpedia-writers-influence/
 excerpt: "A technical discussion of the process of generating a network graph of authorial influence using DBpedia, SPARQL, and Gephi."

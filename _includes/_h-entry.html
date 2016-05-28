@@ -28,6 +28,7 @@
     {% comment %} display additional content outside of update content text {% endcomment %}
     {{ post.content | remove: post.excerpt }}
 
+    {% include tags.html tags=post.tags %}
     <div class="small">
         <a href="{{ site.url }}{{ post.url }}" class="u-url"><time class="dt-published" property="schema:datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y %r" }}</time></a>
         {% if post.twitter_url %}
