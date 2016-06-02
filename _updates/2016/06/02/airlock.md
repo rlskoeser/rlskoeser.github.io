@@ -1,6 +1,6 @@
 ---
 date: 2016-06-02 14:31:22 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/738439765989588992
 publish_to_twitter: true
 tags:
   - eulfedora
