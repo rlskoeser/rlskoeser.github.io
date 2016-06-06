@@ -309,6 +309,8 @@ label:hover>.headerlink {
   display: none;
 }
 
-.h-entry img {
+.h-entry img.u-photo {
   max-width: 100%;
+  margin-top: -15px;
+  padding-bottom: 15px;
 }

@@ -9,22 +9,19 @@
         <i class="fa fa-star" aria-hidden="true"></i> liked
         <a class="u-like-of" href="{{ post.like_of }}">{{ post.like_of }}</a>
     {% endif %}
-    <div class="e-content">{{ post.excerpt }} </div>
+    <div class="e-content">{{ post.excerpt }}
+    {% if post.image %}<img class="u-photo" src="{{ site.url }}{{ post.image.url }}" alt="{{ post.image.url }}"/>{% endif %}
+    </div>
     {% comment %} explicitly set bridgy twitter content, e.g. without formatting {% endcomment %}
     {% if post.url == page.url %}
-    <div class="p-bridgy-twitter-content" style="display:none">{{ post.excerpt|strip_html }}
-    {% if post.quote %}<a class="u-url" href="{{ post.quote }}"/>{% endif %}</div>
+      <div class="p-bridgy-twitter-content" style="display:none">{{ post.excerpt|strip_html }}
+         {% if post.image %}<img class="u-photo" src="{{ site.url }}{{ post.image.url }}"/>{% endif %}</div>
     {% endif %}
     {% if post.in_reply_to %}
     <div class="in-reply-to">
         <i class="fa fa-reply" aria-hidden="true"></i>
         In reply to <a class="u-in-reply-to" href="{{ post.in_reply_to }}">{{ post.in_reply_to }}</a>
     </div>
-    {% endif %}
-    {% if post.quote %}
-    <article class="h-cite">
-        <a class="u-url" href="{{ post.quote }}"/>
-    </article>
     {% endif %}
     {% comment %} display additional content outside of update content text {% endcomment %}
     {% if post.content != post.excerpt %}
