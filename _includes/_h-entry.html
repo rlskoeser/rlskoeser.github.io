@@ -14,7 +14,7 @@
     </div>
     {% comment %} explicitly set bridgy twitter content, e.g. without formatting {% endcomment %}
     {% if post.url == page.url %}
-      <div class="p-bridgy-twitter-content" style="display:none">{{ post.excerpt|strip_html }}
+      <div class="p-bridgy-twitter-content" style="display:none">{{ post.excerpt|strip_html }}</div>
     {% endif %}
     {% if post.in_reply_to %}
     <div class="in-reply-to">
