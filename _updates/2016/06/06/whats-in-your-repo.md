@@ -1,6 +1,6 @@
 ---
 date: 2016-06-06 14:20:52 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/739890671138406400
 publish_to_twitter: true
 tags:
     - fedora
