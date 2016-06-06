@@ -1,4 +1,5 @@
 {% assign post=include.post %}
+{% comment %} todo: handle post images here too? {% endcomment %}
 <div class="h-entry">
     {% if post.repost_of %}
         <i class="fa fa-retweet"></i> retweeted
@@ -26,7 +27,9 @@
     </article>
     {% endif %}
     {% comment %} display additional content outside of update content text {% endcomment %}
+    {% if post.content != post.excerpt %}
     {{ post.content | remove: post.excerpt }}
+    {% endif %}
 
     {% include tags.html tags=post.tags %}
     <div class="small">

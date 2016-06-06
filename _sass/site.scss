@@ -304,3 +304,11 @@ input.checkbox-toggle:checked + label::after {
 label:hover>.headerlink {
     opacity: 1;
 }
+
+.hidden {
+  display: none;
+}
+
+.h-entry img {
+  max-width: 100%;
+}
