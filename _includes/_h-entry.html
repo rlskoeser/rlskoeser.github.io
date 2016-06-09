@@ -23,7 +23,7 @@
     </div>
     {% endif %}
     {% comment %} display additional content outside of update content text {% endcomment %}
-    {% if post.content != post.excerpt %}
+    {% if post.content|strip != post.excerpt|strip %}
     {{ post.content | remove: post.excerpt }}
     {% endif %}
 
