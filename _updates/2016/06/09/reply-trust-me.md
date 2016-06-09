@@ -1,6 +1,6 @@
 ---
 date: 2016-06-09 14:16:18 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/740996735300829184
 in_reply_to: https://twitter.com/dmimno/status/740911022026825728
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
