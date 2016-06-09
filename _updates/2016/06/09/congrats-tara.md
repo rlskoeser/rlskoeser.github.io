@@ -1,6 +1,6 @@
 ---
 date: 2016-06-09 16:00:02 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/741003846227349505
 publish_to_twitter: true
 ---
 
