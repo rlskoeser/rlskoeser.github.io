@@ -1,6 +1,6 @@
 ---
 date: 2016-06-09 10:02:53 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/740907247035813890
 repost_of: https://twitter.com/briancroxall/status/740906696021807104
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
