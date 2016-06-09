@@ -6,7 +6,7 @@ excerpt_separator: <!-- more -->
 publish_to_twitter: true
 ---
 
-<a href="https://twitter.com/dmimno">@dmimno</a> <a href="https://twitter.com/briancroxall" rel="mention">@briancroxall</a> The exact line from wasn't in my notes, but Blei's reference to it was.  Obviously, the idea kind of stuck with me.
+<a href="https://twitter.com/dmimno">@dmimno</a> <a href="https://twitter.com/briancroxall" rel="mention">@briancroxall</a> The exact line wasn't in my notes, but Blei's reference to it was.  Obviously, the idea kind of stuck with me.
 
 <!-- more -->
 
