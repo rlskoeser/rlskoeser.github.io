@@ -66,3 +66,6 @@
 
 <link rel="pingback" href="https://webmention.io/rlskoeser.github.io/xmlrpc" />
 <link rel="webmention" href="https://webmention.io/rlskoeser.github.io/webmention" />
+{% for js in page.extra_js %}
+<script src="{{ js }}"></script>
+{% endfor %}

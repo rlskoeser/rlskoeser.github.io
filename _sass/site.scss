@@ -72,6 +72,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
 }
 
 /* local customizations */
+
 .callout {
     float: right;
     clear: right;
@@ -92,6 +93,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
 
 .threeqtrwidth {
     width: 75%;
+}
+
+.two-up {
+  float: left;
+  width: 45%;
+  padding: 10px;
 }
 
 figure {
