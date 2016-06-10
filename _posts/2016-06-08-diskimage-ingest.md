@@ -8,6 +8,9 @@ tags:
 - poster
 extra_js:
 - https://cdn.plot.ly/plotly-latest.min.js
+#additional_authors:
+#- elizabeth_roke
+#- dorothy_waugh
 ---
 
 {% include _toc.html %}
@@ -96,7 +99,7 @@ Scale:
 
 ## Credits
 
-Disk Image workflow designed and refined by Dorothy Waugh; software implementation in our [curation application, "The Keep"](https://github.com/emory-libraries/TheKeep) by Rebecca Sutton Koeser; python-bagit update to support SHA-1 and multiple checksum types in the manifest by Rebecca Sutton Koeser.
+Disk Image workflow designed and refined by Dorothy Waugh, Elizabeth Russey Roke, and Rebecca Sutton Koeser; software implementation in our [curation application, "The Keep"](https://github.com/emory-libraries/TheKeep) by Rebecca Sutton Koeser; python-bagit update to support SHA-1 and multiple checksum types in the manifest by Rebecca Sutton Koeser.
 
 Thanks to Rob O'Reilly for assistance with statistical analysis and advice on the file sizes and for generating the box and violin plot images.
 

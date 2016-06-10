@@ -9,7 +9,8 @@ excerpt: "A poster proposal for the 2013 Digital Humanities conference co-writte
 image:
     feature: posts/networking-belfast/dhabstract_hubs_banner.png
     thumb: posts/networking-belfast/prelim_degree_hub.png
-second_author: brian_croxall
+additional_authors:
+- brian_croxall
 ---
 What follow is a poster proposal for the [2013 Digital Humanities conference](http://dh2013.unl.edu/) that Brian Croxall and I wrote as project manager and lead scholar/developer, respectively. Our fingers are crossed, and we'll know more around 1 February 2013.
 
