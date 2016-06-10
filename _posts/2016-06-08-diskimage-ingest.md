@@ -63,9 +63,19 @@ The capture of forensic disk images at Emory is not always possible. In conversa
 
 ## File Size Distribution
 
-{% include figure.html src="/images/posts/or/Fedora-file-sizes_comparative.png" caption="File size distribution by content type for current Emory reposited content." class="two-up" %}
+One of the complexities we had to deal with to support disk image ingest was the wide range of file sizes.  The majority of our disk images are quite small, but a  handful of them are quite large, and disk images include the single largest file currently in our repository.
 
-{% include figure.html src="/images/posts/or/Fedora-file-sizes_comparative_logarithmic.png" caption="File size distribution by content type, logarithmic scale." class="two-up" %}
+The difference in scale of file sizes makes it difficult to compare images, audio, video, and disk image content.  The linear box plot makes it clear how many outer values we have for disk images, and how they are fewer but much larger than video content.  The logarthmic scale makes it easier to compare the relative sizes of the smaller range of files, but makes it harder to grasp the true difference in scale at the higher end of the sizes.
+
+{% include figure.html src="/images/posts/or/Fedora-file-sizes_comparative.png" caption="Box plot of file size distribution by content type for current Emory reposited content." class="two-up" %}
+
+{% include figure.html src="/images/posts/or/Fedora-file-sizes_comparative_logarithmic.png" caption="Box plot of file size distribution by content type, logarithmic scale." class="two-up" %}
+
+{% include figure.html src="/images/posts/or/Fedora-file-sizes_comparative_violin.png" caption="Violin plot of file size distribution by content type, logarithmic scale." class="callout halfwidth" %}
+
+The violin plot is an alternate way of  visualizing the same data, and it also makes it quite clear that the distribution of the disk image sizes are quite different from the other content we typically handle.
+
+The presence of very large files, even though they are not the norm, meant we had to design a workflow that could handle them.  We addressed time out issues in the ingest process by using BagIt to generate MD5 and SHA-1 checksums ahead of time, using fast BagIt validation at the application level, storing both checksums in the PREMIS metadata and passing the MD5 checksum on to Fedora for verification.   That way, the checksum is only recalculated once during the ingest process (since checksumming a large file takes a correspondingly long time).  We also use file URIs and a shared network drive space accessible to staff curators, the web application managing ingest, and Fedora in order to transfer the content as efficiently as possible.
 
 * * *
 
@@ -77,9 +87,18 @@ Scale:
 </div>
 
 
+## Tools and Resources
+
+* [FTKImager](http://accessdata.com/product-download/digital-forensics/ftk-imager-version-3.2.0), used to capture disk images; CLI version used to migrate AFF content to E01
+* [BitCurator](https://www.bitcuratorconsortium.org/), used to capture disk images; includes BagIt
+* [PREMIS](http://www.loc.gov/standards/premis/), for object technical metadata and history/provenance
+* [BagIt](https://en.wikipedia.org/wiki/BagIt);  [bagit-python](https://github.com/LibraryOfCongress/bagit-python)
+
 ## Credits
 
-*todo*
+Disk Image workflow designed and refined by Dorothy Waugh; software implementation in our [curation application, "The Keep"](https://github.com/emory-libraries/TheKeep) by Rebecca Sutton Koeser; python-bagit update to support SHA-1 and multiple checksum types in the manifest by Rebecca Sutton Koeser.
+
+Thanks to Rob O'Reilly for assistance with statistical analysis and advice on the file sizes and for generating the box and violin plot images.
 
 <script>
 $.getJSON( "{{ site.url }}/assets/json/repository_content_sizes.json", function( data ) {
