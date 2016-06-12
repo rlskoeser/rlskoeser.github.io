@@ -1,3 +1,4 @@
+---
 # Authors
 
 scott_turnbull:
@@ -19,14 +20,16 @@ brian_croxall:
 
 elizabeth_roke:
   name: Elizabeth Russey Roke
-  avatar:
+  avatar: elizabeth_roke_lg.png
+  bio: Digital Archivist at Stuart A. Rose Manuscript, Archives, and Rare Book Library at Emory University
   twitter:
   google:
     plus:
 
 dorothy_waugh:
   name: Dorothy Waugh
-  avatar:
+  avatar: dorothy_waugh.jpeg
+  bio: Digital Archivist at Stuart A. Rose Manuscript, Archives, and Rare Book Library at Emory University
   twitter: DoraWaugh
   google:
     plus:

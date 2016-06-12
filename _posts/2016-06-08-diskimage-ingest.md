@@ -8,9 +8,8 @@ tags:
 - poster
 extra_js:
 - https://cdn.plot.ly/plotly-latest.min.js
-#additional_authors:
-#- elizabeth_roke
-#- dorothy_waugh
+second_author: elizabeth_roke
+third_author: dorothy_waugh
 ---
 
 {% include _toc.html %}
