@@ -20,6 +20,9 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-mentions
+
+jekyll-mentions: https://twitter.com
 
 kramdown:
   auto_ids: true
