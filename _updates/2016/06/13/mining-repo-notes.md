@@ -6,5 +6,5 @@ tags:
     - OR2016
 ---
 
-My notes from the #OR2016 #tdm text & data mining session this morning: http://rlskoeser.github.io/2016/06/13/mining-repositories/
+My notes from the #OR2016 #tdm text & data mining session this morning: [http://rlskoeser.github.io/2016/06/13/mining-repositories/](http://rlskoeser.github.io/2016/06/13/mining-repositories/)
 

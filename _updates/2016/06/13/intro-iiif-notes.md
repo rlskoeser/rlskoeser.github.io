@@ -7,4 +7,4 @@ tags:
     - IIIF
 ---
 
-My notes from the #OR2016 #IIIF session this afternoon: http://rlskoeser.github.io/2016/06/13/intro-to-iiif/
+My notes from the #OR2016 #IIIF session this afternoon: [http://rlskoeser.github.io/2016/06/13/intro-to-iiif/](http://rlskoeser.github.io/2016/06/13/intro-to-iiif/)
