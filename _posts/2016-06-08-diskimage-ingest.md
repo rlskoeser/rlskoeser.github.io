@@ -137,7 +137,7 @@ $.getJSON( "{{ site.url }}/assets/json/repository_content_sizes.json", function(
     var layout = {
     title: 'Distribution of File Sizes by Content Type',
     yaxis: {
-        title: 'File size in bytes',
+        title: 'File size in GB',
         autorange: true,
         zeroline: true,
         type: 'linear',
