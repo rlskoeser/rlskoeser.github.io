@@ -22,6 +22,10 @@ The following is content associated with a poster to be presented at [Open Repos
 
 **Born-digital material is archival material, not a surrogate** for archival material (in the way that a digitized copy of a handwritten letter would be, for example). As such, the *archival principles of provenance, authenticity, and context apply* to born-digital materials.
 
+*  **PROVENANCE:** Documenting the history and context of an object
+*  **AUTHENTICITY:** Establishing that the object is indeed what we say it is
+*  **CONTEXT:** Representing the relationships between objects and the way in which they were created and used
+
 Borrowing from techniques used in digital forensics, many archivists choose to capture forensic disk images of born-digital material as a way of adhering to these three important principles. This creates an **exact replica of the digital artifact at the bitstream level, thereby ensuring no inadvertent change or loss of data** during transfer. The creation of checksums can then be used to verify that the capture of a disk image has been successful, which helps to authenticate the data. Furthermore, disk imaging preserves filesystem metadata and, in cases where software is stored on the disk in question, associated representation information that can help identify and render files. Taken together, these benefits help archivists establish and document the provenance, authenticity, and context of born-digital archival material.
 
 ## Disk Image ingest workflow
@@ -40,19 +44,21 @@ Borrowing from techniques used in digital forensics, many archivists choose to c
 436 disk images, 1.2 TB total *(includes migrated content)*
 
 Average 2.8 GB, largest 298GB *(see charts below for more detail)*<br/>
-E01, ISO, IMG, DD, TAR[*](#why-create-tar-files), AFF[†](#note-migrated), AD1[†](#note-migrated)
+E01, ISO, IMG, DD, TAR[*](#why-create-tar-files){: .fn}, AFF[†](#note-migrated){: .fn}, AD1[†](#note-migrated){: .fn}
 
-<a name="note-migrated">†</a>: migrated format
+<a name="note-migrated" class="fn">†</a>: migrated format
 
 
 5% of all Rose Library manuscript collections contain some form of born digital content.  
 <table>
-<tr><td>Acquired Pre-2000</td><td>1%</td></tr>
-<tr><td>Acquired 2000-2010</td><td>10%</td></tr>
-<tr><td>Acquired 2010-2016</td><td>13%</td></tr>
+<tr style="background-color: #d1e7f6"><td>Acquired Pre-2000</td><td>1%</td></tr>
+<tr style="background-color: #a3ceed"><td>Acquired 2000-2010</td><td>10%</td></tr>
+<tr style="background-color: #1cade4; color: white"><td>Acquired 2010-2016</td><td>13%</td></tr>
 </table>
 
-## * Why Create TAR Files?
+<a name="why-create-tar-files"></a>
+
+## <span class="fn">*</span> Why Create TAR Files?
 
 The capture of forensic disk images at Emory is not always possible. In conversations with donors, Rose Library archivists aim to be transparent about transfer methods and the fact that forensic disk imaging captures a complete replica of data can cause some anxiety for donors. In these instances, we capture specific files and directories using the TAR utility.
 

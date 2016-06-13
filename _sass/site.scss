@@ -321,3 +321,8 @@ label:hover>.headerlink {
   margin-top: -15px;
   padding-bottom: 15px;
 }
+
+a.fn, a.fn:visited, span.fn {
+  text-decoration: none !important;
+  color: #1cade4;
+}
