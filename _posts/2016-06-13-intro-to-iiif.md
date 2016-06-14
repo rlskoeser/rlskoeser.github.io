@@ -5,6 +5,8 @@ date: 2016-06-13T18:11:05-04:00
 tags:
     - OR2016
     - IIIF
+image:
+    thumb: posts/or/iiif_logo.png
 ---
 
 Notes and thoughts on Open Repositories workshop session on [IIIF](http://iiif.io).
@@ -24,15 +26,16 @@ My biggest takeaway from this session is a much clearer understanding of the sco
 Started with manuscripts and then expanded to newspapers, sheet music, etc.
 
 Also addresses a lot of common complaints and concerns:
--  locked into image delivery software, applications built on top of them, local code
-- want a fast, inexpensive (or free) image server
-- want deep zoom
-- visual comparison
-- make it easy for images to be cited (get credit for your images)
-- annotate images online
-- embed, with citation, without losing control
 
-@azaroth42 has a lovely statement about IIIF that boils down to community → api → software → content.  (He later revisited to add a "secret" third line that IIIF builds on open web standards.)
+ *  locked into image delivery software, applications built on top of them, local code
+ * want a fast, inexpensive (or free) image server
+ * want deep zoom
+ * visual comparison
+ * make it easy for images to be cited (get credit for your images)
+ * annotate images online
+ * embed, with citation, without losing control
+
+@azaroth42 has a lovely statement about IIIF that boils down to **community** → **api** → **software** → **content**.  (He later revisited to add a "secret" third line that IIIF builds on open web standards.)
 
 The IIIF Presentation API makes it possible to stitching documents back together when they are fragmented and not stored in the same place (e.g. an ilustration from an illuminated manuscript that has been cut out and separated from the rest of the text);  can also be used to associate OCR text or transcription.  Because it is backed by linked data, allows importing and using other content - e.g., georeferencing.
 
@@ -40,7 +43,7 @@ The IIIF Presentation API makes it possible to stitching documents back together
 
 ## Why APIs?
 
-@jpstroop addresses the question, "Why APIs?"
+@jpstroop addressed the question, "Why APIs?"
 
 The what:  for IIIF, an API is a protocol described by a specification that is technology independent (except that it assumes HTTP).  It provides a common interface - for images: image size/orientation, formats, page order, accessible - you don't have to worry about about specific format, size, etc
 
@@ -81,9 +84,10 @@ Search API searches annotations; and every association of content on the canvas 
 ## Authentication API
 
 Authentication API is still being finalized, but adds support for use cases such as:
-- denying content except to authorized users
-- provide degraded access (e.g., lower resolution image or a watermarked image)
-- restrict to specific software clients (e.g., a kiosk or machine in the reading room, where logging in doesn't make sense)
+
+ - denying content except to authorized users
+ - provide degraded access (e.g., lower resolution image or a watermarked image)
+ - restrict to specific software clients (e.g., a kiosk or machine in the reading room, where logging in doesn't make sense)
 
 The role of this API is to provide a pattern for authentication, and its focus is on the Image API.  It does not address or prescribe how authorization or login is implemented - those can be server specific.  Authentication is driven by services; uses both cookie and HTTP token to support both secure requests for images over HTTP and cross-domain javascript.
 
@@ -100,10 +104,11 @@ Brief overview of some of the web standards that IIIF builds on.  Linked data, J
 This session was so packed that I didn't get the chance to ask all of my questions (although I did ask a couple of things, and there were some other good questions and conversations from other attendeees).  I guess I may have to join the IIIF google group (and help in their goal -- according to @azaroth42 -- of doubling membership every year).
 
 Some questions and thoughts:
-- Is there a best practice about whether to expose IIIF image urls directly to the user or to mediate through software?  (I'm currently mediating in [Readux](http://readux.library.emory.edu), due in part to a now-resolved miscommunication with a system administrator and firewall configuration, but I'm not certain which solution is best.)
-- Where and how should annotations be attached / associated? (I suspect this will become clearer once I get more familiar with the Presentation API, but it's on my mind because I'm trying to connect it with how I've implemented annotation in [Readux](http://readux.library.emory.edu)).
-- More than one presenter emphasized the fact that JSON-LD is so much more developer-friendly than other serializations of linked data; this makes me think that perhaps I should start serializing this as another option on the web applications where we're providing RDF, as an alternative to RDFXML. It looks like [rdflib](https://github.com/RDFLib) already has an implementation for [rdflib-jsonld](https://github.com/RDFLib/rdflib-jsonld).
-- I was unaware of the notion of a static implementation of the Image API; this looks like an excellent way to support our planned feature of bundling images with the Readux exported volume (and seems preferable to generating DZI).    Presenters mentioned [Zimeon's demo-static implementation](https://github.com/zimeon/iiif/tree/master/demo-static), which I'll likely be looking at later.
-- Glad to know there are Image API and Presentation API validators, to check for compliance (either in third-party tools, or in locally developed work).
-- The presenters provided an overview of IIIF viewers, but there wasn't as much said about software for other portions - e.g., what kind of tools are available for generating Presentation manifests?  What does the roadmap look like for implementing the Auth API?
-- [https://github.com/IIIF/awesome-iiif](https://github.com/IIIF/awesome-iiif) lots of good resources to check out later
+
+ - Is there a best practice about whether to expose IIIF image urls directly to the user or to mediate through software?  (I'm currently mediating in [Readux](http://readux.library.emory.edu), due in part to a now-resolved miscommunication with a system administrator and firewall configuration, but I'm not certain which solution is best.)
+ - Where and how should annotations be attached / associated? (I suspect this will become clearer once I get more familiar with the Presentation API, but it's on my mind because I'm trying to connect it with how I've implemented annotation in [Readux](http://readux.library.emory.edu)).
+ - More than one presenter emphasized the fact that JSON-LD is so much more developer-friendly than other serializations of linked data; this makes me think that perhaps I should start serializing this as another option on the web applications where we're providing RDF, as an alternative to RDFXML. It looks like [rdflib](https://github.com/RDFLib) already has an implementation for [rdflib-jsonld](https://github.com/RDFLib/rdflib-jsonld).
+ - I was unaware of the notion of a static implementation of the Image API; this looks like an excellent way to support our planned feature of bundling images with the Readux exported volume (and seems preferable to generating DZI).    Presenters mentioned [Zimeon's demo-static implementation](https://github.com/zimeon/iiif/tree/master/demo-static), which I'll likely be looking at later.
+ - Glad to know there are Image API and Presentation API validators, to check for compliance (either in third-party tools, or in locally developed work).
+ - The presenters provided an overview of IIIF viewers, but there wasn't as much said about software for other portions - e.g., what kind of tools are available for generating Presentation manifests?  What does the roadmap look like for implementing the Auth API?
+ - [https://github.com/IIIF/awesome-iiif](https://github.com/IIIF/awesome-iiif) lots of good resources to check out later
