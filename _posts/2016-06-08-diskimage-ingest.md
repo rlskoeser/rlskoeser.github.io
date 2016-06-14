@@ -10,6 +10,8 @@ extra_js:
 - https://cdn.plot.ly/plotly-latest.min.js
 second_author: elizabeth_roke
 third_author: dorothy_waugh
+image:
+    thumb: posts/or/diskimage-ingest-workflow-thumb.png
 ---
 
 {% include _toc.html %}
