@@ -14,6 +14,8 @@ Notes on developer prack presentations; highlights include open research evaluat
 
 ## Mining Open Access publications in CORE
 
+**Matteo Cancellieri, Lucas Anastasiou, Samuel Pearce, Nancy Pontika**
+
 *Using a nice [Jupyter notebook](https://ipython.org/notebook.html) to present the API and interaction with it using Python.*
 
 [CORE](https://core.ac.uk/) [API](https://core.ac.uk/services#api);  includes data dumps for text mining; other APIs provide analytics, etc.
@@ -26,6 +28,8 @@ Search is powered by elasticsearch, so all of the lucene query syntax is availab
 Aggregation makes it possible to look at broad trends, e.g. how many papers on a given topic in different repositories from different parts of the world-- although hard to know how to adjust for coverage (better for some places than others), or for repositories that are much lager and therefore have higher total numbers.
 
 ## Oxford vs Cambridge Contest: Collecting Open Research Evaluation Metrics for University Ranking
+
+**Petr Knoth, Matteo Cancellieri, Drahomira Herrmannova**
 
 *Another presentation using a nice ipython/jupyter notebook to present the API queries and data munging along with the results.*
 
@@ -40,6 +44,8 @@ For [Mendeley](https://www.mendeley.com/), use the DOI as the identifier, and re
 Conclusion: we can easily make these kinds of insights and statistics freely available without paying for expensive, proprietary alt-metrics; working on creating dashboards to display information about these metrics.   (Building a tool to provide a dashboard like this for free, will be presented later at OR2016.)
 
 ## #iCanHazRobot?
+
+**Joseph W. Greene**
 
 Usage statistics as a way to market the service and attract more deposits, as well as a reporting metric to show return on investigation.  But accuracy is a problem, and filtering the robots is a problem.  DSpacea nd EPrints have native robot detection, but these techniques can be improved.
 
@@ -58,6 +64,8 @@ Minho has manual checking that allows you to identify spikes in traffic, to inve
 Porting Minho robot detection to other systems could be very effective; manual intervention, or tuning the double-click behavior could make huge differences.
 
 ## Beyond the Dashboard: Customized Analytics Reporting with Google APIs
+
+**Elizabeth Krznarich**
 
 Custom reports by mixing Google APIs with other sources.
 

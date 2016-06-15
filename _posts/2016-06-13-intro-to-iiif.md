@@ -15,7 +15,7 @@ Notes and thoughts on Open Repositories workshop session on [IIIF](http://iiif.i
 
 * * *
 
-Session [agenda](http://bit.ly/iiif-or2016) available online.  Thanks to the presenters Jon Stroop, Robert Sanderson, Tom Crane, and Michael Appleby, who were all very engaging and knowledgeable.
+Session [agenda](http://bit.ly/iiif-or2016) available online.  Thanks to the presenters Robert Sanderson (@azaroth42), Jon Stroop (@jpstroop), Tom Crane (@tomofhernehill), and Michael Appleby (@mikeapps) who were all very engaging and knowledgeable.
 
 My biggest takeaway from this session is a much clearer understanding of the scope and aim of the IIIF APIs -  they aren't meant to replace any descriptive metadata standards, but are intended to allow developers (who need not know and understand library/archive specific metadata standards) to create  interfaces to the content that provides a rich, rewarding user experience.
 
