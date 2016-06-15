@@ -8,7 +8,7 @@ tags:
     - OR2016
 ---
 
-@PaulineDataWord oh neat! His wikipedia has the pronunciation as well: [https://en.wikipedia.org/wiki/John_Lighton_Synge](https://en.wikipedia.org/wiki/John_Lighton_Synge)
+@PaulineDataWard oh neat! His wikipedia has the pronunciation as well: [https://en.wikipedia.org/wiki/John_Lighton_Synge](https://en.wikipedia.org/wiki/John_Lighton_Synge)
 
 
 <!-- more -->
