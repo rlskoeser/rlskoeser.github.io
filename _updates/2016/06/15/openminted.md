@@ -1,6 +1,6 @@
 ---
 date: 2016-06-15 13:48:49 +01:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/743063090279768064
 repost_of: https://twitter.com/openminted_eu/status/743059252688883713
 like_of: https://twitter.com/openminted_eu/status/743059252688883713
 excerpt_separator: <!-- more -->
