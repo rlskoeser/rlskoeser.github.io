@@ -1,6 +1,6 @@
 ---
 date: 2016-06-15 09:26:13 +01:00
-twitter_url:
+twitter_url: https://twitter.com/grantdenkinson/status/742989793160798208
 like_of: https://twitter.com/grantdenkinson/status/742989793160798208
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
