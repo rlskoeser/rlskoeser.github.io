@@ -1,6 +1,6 @@
 ---
 date: 2016-06-15 19:55:05 +01:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/743155838836056064
 publish_to_twitter: true
 tags:
     - OR2016
