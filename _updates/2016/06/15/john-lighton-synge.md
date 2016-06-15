@@ -1,6 +1,6 @@
 ---
 date: 2016-06-15 09:17:04 +01:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/742994989987311616
 in_reply_to: https://twitter.com/paulinedataward/status/742979712486637568
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
