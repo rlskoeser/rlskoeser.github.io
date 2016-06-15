@@ -10,6 +10,8 @@ Notes on developer prack presentations; highlights include open research evaluat
 
 [Conference session description & abstracts](https://www.conftool.com/or2016/index.php?page=browseSessions&form_session=113)
 
+{% include _toc.html %}
+
 ## Mining Open Access publications in CORE
 
 *Using a nice [Jupyter notebook](https://ipython.org/notebook.html) to present the API and interaction with it using Python.*
