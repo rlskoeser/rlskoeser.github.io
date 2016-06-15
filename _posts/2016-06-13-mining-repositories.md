@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mining Repositories
+title: "OR2016: Mining Repositories"
 date: 2016-06-13T18:10:08-04:00
 tags:
 - OR2016

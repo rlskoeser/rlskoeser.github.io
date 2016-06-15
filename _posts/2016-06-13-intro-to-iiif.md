@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to IIIF
+title: "OR2016: Introduction to IIIF"
 date: 2016-06-13T18:11:05-04:00
 tags:
     - OR2016
