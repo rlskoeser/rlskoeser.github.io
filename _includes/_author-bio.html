@@ -15,15 +15,15 @@
     {% assign rel = 'rel="me" ' %}
 {% endif %}
 
-<div property="schema:author" typeof="schema:Person" {% if author.uri %}resource="{{ author.uri }}"{% endif %}>
+<div property="schema:author" typeof="schema:Person" {% if author.uri %}resource="{{ author.uri }}"{% endif %}{% if rel %} class="h-card"{% endif %}>
 
 {% if author.avatar contains 'http' %}
 	<img property="schema:image" src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
 {% else %}
-	<img property="schema:image" src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+	<img property="schema:image" src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"{% if rel %} class="u-photo"{% endif %}>
 {% endif %}
 
-  <h3 property="schema:name">{{ author.name }}</h3>
+  <h3 property="schema:name"{% if rel %} class="p-name"{% endif %}>{{ author.name }}</h3>
   {% if author.bio %}<p property="schema:description">{{ author.bio }}</p>{% endif %}
   {% if author.email %}<a property="schema:email" href="mailto:{{ author.email }}" class="author-social"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.web %}<a href="{{ author.web }}" class="author-social"><i class="fa fa-fw fa-home"></i> Website</a>{% endif %}
