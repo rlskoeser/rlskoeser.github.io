@@ -2,6 +2,10 @@
 layout: post
 title: "OR2016 Keynote: Knowledge Inequalities, Laura Czerniewicz"
 date: 2016-06-15T06:59:35-04:00
+image:
+    feature: posts/or/scaled-world-wos.png
+    thumb: posts/or/scaled-world-thumb.png
+    caption: "A selection from [World scaled by number of documents in Web of Science by Authors Living There](http://jalperin.github.io/d3-cartogram/), a [d3.js](http://d3js.org) visualization by Juan Pablo Alperin"
 tags:
 - OR2016
 ---
