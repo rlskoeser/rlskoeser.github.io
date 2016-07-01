@@ -23,8 +23,17 @@ dh2012:
   description: "Notes from <a href='http://www.dh2012.uni-hamburg.de/'>Digital
   Humanities 2012</a> conference in Hamburg, Germany"
 fedora:
-  description: <a href="http://fedorarepository.org/">Fedora Commons repository</a>
+  description: Posts relating to the <a href="http://fedorarepository.org/">Fedora Commons repository</a>
 fuse:
   description: <a href="https://en.wikipedia.org/wiki/Filesystem_in_Userspace">Filesystem in User Space</a>
 exist:
   description: <a href="http://exist-db.org/">eXist-db</a> XML Database
+Fedora4:
+  description: "
+  Posts relating to the <a href='http://fedorarepository.org/'>Fedora Commons
+  repository</a> version 4.x, a Linked Data Platform"
+OR2016:
+  description: "
+  Notes from <a href='http://or2016.net/'>Open Repositories 2016</a>
+  conference in Dublin, Ireland"
+  thumbnail: https://pbs.twimg.com/profile_images/598083803832279041/zIwJl76R_400x400.png
