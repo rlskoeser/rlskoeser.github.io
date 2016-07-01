@@ -10,7 +10,7 @@ tags:
 - OR2016
 ---
 
-Though-provoking keynote talk from Laura Czerniewicz (@czernie).
+Though-provoking keynote talk from Laura Czerniewicz (@czernie) about the uneven distribution of "open" knowledge.
 
 Take a look at the [slides](http://www.slideshare.net/laura_Cz/laura-czerniewicz-open-repositories-conference-2016-dublin), which include a number of fascinating maps that make different aspects of these global inequalities more visible and striking.
 
