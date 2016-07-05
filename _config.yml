@@ -35,13 +35,23 @@ collections:
   updates:
     output: true
     permalink: /updates/:path/
+  tag_pages:
+    output: true
+    permalink: /tags/:path/
+
 
 defaults:
-  - scope:
-      path: ""
-      type: updates
-    values:
-      layout: update
+- scope:
+    path: ""
+    type: updates
+  values:
+    layout: update
+- scope:
+    path: ""
+    type: tag_pages
+  values:
+    layout: tag
+
 
 # rake task configuration
 update:
@@ -83,6 +93,8 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
+
+post_extension: md
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile",

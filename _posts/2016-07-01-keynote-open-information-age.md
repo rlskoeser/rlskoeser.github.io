@@ -4,6 +4,7 @@ title: "OR2016 Keynote: Making an Open Information Age: Power, Freedom and Inequ
 date: 2016-07-01T19:48:04-04:00
 tags:
 - OR2016
+- open-repositories
 ---
 
 

@@ -34,22 +34,27 @@
   </div>
   <div id="index" class="tag-index">
     <h1>{{ page.title }}</h1>
-    {% for tag_posts in site.tags %}
-    <div class="collapsible-content">
-      {% assign tag=tag_posts[0] %} {% assign posts=tag_posts[1] %} {% assign tag_data=site.data.tags[tag] %}
-      <input id="{{ tag }}-toggle" type="checkbox" class="checkbox-toggle" />
-      <label for="{{ tag }}-toggle">
-      <a name="{{ tag }}"><h2 class="tag">{% if tag_data.name %}{{ tag_data.name }}{% else %}{{ tag }}{% endif %}</h2></a>
-      <span class="count">({{ posts.size }})</span>
-      <a class="headerlink" href="#{{ tag }}" title="permalink to {{ tag }}"><span class="fa fa-link"></span></a>
-      </label>
-      {% if tag_data.description %}
-        <p class="description">{{ tag_data.description %}}</p>
+    {% for tag_page in site.tag_pages %}
+    <div>
+      <a href="{{ site.url }}{{ tag_page.url }}" title="Posts by Tag: {{ tag_page.tag }}">
+      {% if tag_page.image.thumb %}
+      <img class="post-thumb" src=
+        {% if tag_page.image.thumb contains 'http' %}
+          "{{ tag_page.image.thumb }}"
+        {% else %}
+          "{{ site.url }}/images/{{ tag_page.image.thumb }}"
+        {% endif %}
+        alt="{{ tag_page.tag }} thumbnail image">
       {% endif %}
-      <div class="content">
-        {% for post in posts %}
-           {% include list-post.html %}
-        {% endfor %}
+      <h2>{% if tag_page.tagname %}{{ tag_page.tagname }}{% else %}{{ tag_page.tag }}{% endif %}</h2>
+      </a>
+      {% assign post_count=site.tags[tag_page.tag]|size %}
+      <div class="description">
+      {% assign excerpt_size = tag_page.excerpt|size %}
+        {% if excerpt_size > 1 %}
+          {{ tag_page.excerpt }}
+        {% else %}<p>Posts tagged with <span class="tags text-muted">#{{ tag_page.tag }}</span>.</p>{% endif %}
+        {{ post_count }} post{% if post_count != 1 %}s{% endif %}
       </div>
     </div>
     {% endfor %}

@@ -1,0 +1,88 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% capture page_title %}Posts by Tag: {% if page.tagname %}{{ page.tagname }}{% else %}{{ page.tag }}{% endif %}{% endcapture %}
+
+{% capture excerpt %}{% if content.size > 1 %}{{ page.excerpt }}{% else %}Posts tagged with {{ page.tag}}.{% endif %}{% endcapture %}
+
+{% include _head.html page_title=page_title og_type='website' excerpt=excerpt %}
+</head>
+
+<body class="tag">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page_title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+    <article class="page">
+    <h1>{{ page_title }}</h1>
+    {% if page.image.thumb %}
+    <img class="post-thumb" src=
+      {% if page.image.thumb contains 'http' %}
+        "{{ page.image.thumb }}"
+      {% else %}
+        "{{ site.url }}/images/{{ page.image.thumb }}"
+      {% endif %}
+    alt="{{ page_title }} thumbnail image">
+    {% endif %}
+    <div class="article-wrap">
+
+    <div>
+      {% comment %}page should include tag description, if any {% endcomment %}
+      {% if content.size > 1 %}
+        {{ content }}
+      {% else %}
+        <p>Posts tagged with <span class="tags text-muted">#{{ page.tag }}</span>.</p>
+      {% endif %}
+      {% for post in site.tags[page.tag] %}
+      {% if forloop.first %}
+        <h3>{{ post.date | date: '%Y' }}</h3>
+      {% else %}
+        {% assign prev_i = forloop.index0 | minus: 1 %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture prevyear %}{{ site.tags[page.tag][prev_i].date | date: '%Y' }}{% endcapture %}
+        {% if year != prevyear %}
+          <h3>{{ post.date | date: '%Y' }}</h3>
+        {% endif %}
+      {% endif %}
+      {% include list-post.html %}
+      </article>
+    {% endfor %}
+  </div><!-- /#index -->
+  </div>
+  </article>
+</div><!-- /#main -->
+
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+
+</body>
+</html>

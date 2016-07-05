@@ -3,8 +3,9 @@ layout: post
 title: "OR2016: Dive into Fedora4"
 date: 2016-06-15T16:16:05-04:00
 tags:
-    - OR2014
-    - Fedora4
+    - OR2016
+    - fedora4
+    - open-repositories
 ---
 
 Presentations on Fedora 4 current state as praxis rather than just software, history of the Fedora approach, API-X extension architecture, and a whirlwind view of migration considerations to preserve structure and metadata but take advantage of Fedora 4 and linked data.

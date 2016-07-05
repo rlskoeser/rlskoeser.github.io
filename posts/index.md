@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: All Posts by Date
+excerpt: "Archive of all posts, most recent first"
 ---

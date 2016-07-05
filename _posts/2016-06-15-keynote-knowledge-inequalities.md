@@ -8,6 +8,7 @@ image:
     caption: "A selection from [World scaled by number of documents in Web of Science by Authors Living There](http://jalperin.github.io/d3-cartogram/), a [d3.js](http://d3js.org) visualization by Juan Pablo Alperin"
 tags:
 - OR2016
+- open-repositories
 ---
 
 Though-provoking keynote talk from Laura Czerniewicz (@czernie) about the uneven distribution of "open" knowledge.

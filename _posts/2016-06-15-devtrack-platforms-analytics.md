@@ -4,6 +4,7 @@ title: "OR2016 Developer Track 1: Platforms and Analytics"
 date: 2016-06-15T07:31:31-04:00
 tags:
     - OR2016
+    - open-repositories
 ---
 
 Notes on developer prack presentations; highlights include open research evaluation metrics and robot usage statistics accuracy on repository content.

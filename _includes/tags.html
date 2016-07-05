@@ -1,9 +1,9 @@
 {% if include.tags.size %}
     <div class="tags text-muted small align-right">
     {% for tag in include.tags %}
-    {% comment %} TODO: different url for posts vs. updates {% endcomment %}
+    {% comment %} TODO: include updates in tag page? ? {% endcomment %}
     {% if include.is_post %}
-    <a href="{{ site.url }}/posts/tags/#{{ tag }}"><span property="schema:keywords">{{ tag }}</span></a>
+    <a href="{{ site.url }}/tags/{{ tag }}/"><span property="schema:keywords">{{ tag }}</span></a>
     {% else %}
         <span property="schema:keywords">{{ tag }}</span>
     {% endif %}

@@ -4,6 +4,7 @@ title: 'OR11: notes and quotes'
 created: 1308078910
 tags:
 - or11
+- open-repositories
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/14/or11-notes-and-quotes
 permalink: /2011/06/14/or11-notes-and-quotes/
 ---

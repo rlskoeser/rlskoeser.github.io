@@ -5,6 +5,7 @@ date: 2016-06-13T18:11:05-04:00
 tags:
     - OR2016
     - IIIF
+    - open-repositories
 image:
     thumb: posts/or/iiif_logo.png
 ---
