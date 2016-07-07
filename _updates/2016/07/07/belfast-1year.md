@@ -1,6 +1,6 @@
 ---
 date: 2016-07-07 15:00:48 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/751129353778450432
 repost_of: https://twitter.com/briancroxall/status/751097050037649408
 like_of: https://twitter.com/briancroxall/status/751097050037649408
 excerpt_separator: <!-- more -->
