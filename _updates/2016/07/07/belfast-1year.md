@@ -5,9 +5,6 @@ repost_of: https://twitter.com/briancroxall/status/751097050037649408
 like_of: https://twitter.com/briancroxall/status/751097050037649408
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
-image:
-    url:
-    alt:
 tags:
     - belfastgroup
 ---
