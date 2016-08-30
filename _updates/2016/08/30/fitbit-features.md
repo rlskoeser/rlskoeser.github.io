@@ -1,6 +1,6 @@
 ---
 date: 2016-08-30 12:50:08 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/770688842571526145
 publish_to_twitter: true
 tags:
     - fitbit
