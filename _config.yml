@@ -2,9 +2,9 @@
 
 title:            Rebecca Sutton Koeser
 locale:           en_US
-url:              http://rlskoeser.github.io
+url:              https://rlskoeser.github.io
 # url to use for finding mentions, even when running in development
-public_url:       http://rlskoeser.github.io
+public_url:       https://rlskoeser.github.io
 timezone: "America/New_York"
 
 
@@ -81,6 +81,7 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: rebeccasuttonkoeser
   orcid: 0000-0002-8762-8057
+  keybase: suttonkoeser
   xing: #username
   instagram: #username
   lastfm: #username
