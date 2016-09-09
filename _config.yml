@@ -64,7 +64,7 @@ editor: subl -n -w
 owner:
   name: Rebecca Sutton Koeser
   avatar: bec.png
-  uri: 'http://rlskoeser.github.io/#rsk'
+  uri: 'https://rlskoeser.github.io/#rsk'
   bio: "Software Engineer at Emory University Libraries, PhD in English Literature."
   email:
   disqus-shortname:

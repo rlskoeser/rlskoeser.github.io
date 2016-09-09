@@ -1,6 +1,6 @@
 /* fetch and display web mentions for a specified url (i.e., current page) */
 function webmentions(url) {
-  $.getJSON("http://webmention.io/api/mentions?jsonp=?", {
+  $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
     target: url
   }, function(data){
     // if there are no links, nothing to do
