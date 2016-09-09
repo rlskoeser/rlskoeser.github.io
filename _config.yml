@@ -4,7 +4,7 @@ title:            Rebecca Sutton Koeser
 locale:           en_US
 url:              https://rlskoeser.github.io
 # url to use for finding mentions, even when running in development
-public_url:       https://rlskoeser.github.io
+public_url:       http://rlskoeser.github.io
 timezone: "America/New_York"
 
 
