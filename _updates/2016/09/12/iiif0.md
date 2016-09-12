@@ -1,6 +1,6 @@
 ---
 date: 2016-09-12 15:40:34 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/775422640249069568
 in_reply_to: https://twitter.com/azaroth42/status/774410137683439616
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
