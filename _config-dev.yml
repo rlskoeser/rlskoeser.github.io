@@ -1,2 +1,2 @@
 # override production site url to use local assets
-url:  ''
+url:  'http://localhost:4000'

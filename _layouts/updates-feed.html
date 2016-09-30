@@ -37,15 +37,34 @@
     {% comment %} show most recent updates first {% endcomment %}
     {% comment %} TODO: paginate or limit the number of updates shown here {% endcomment %}
     {% assign updates = site.updates | sort:'date' | reverse %}
-    {% for post in updates %}
+    {% for post in updates limit:20 %}
 
     <div>
       {% include _h-entry.html post=post %}
+
+{% comment %}maybe just use site json and same webmention javascript?{% endcomment %}
+    {% assign mentions = site.data.webmentions[post.url] %}
+    {% if mentions %}
+    <div class="webmentions">
+    {% for mention_info in mentions.count %}
+      {% assign action = mention_info[0] %} {% assign count = mention_info[1] %}
+      {% assign label = action %}
+      {% if count > 1 %}
+        {% if action == 'reply' % }{% assign label = 'replies' %}
+        {% else %}{% assign label = action|append:'s' %}{% endif %}
+      {% endif %}
+      <span class="{{ action }}">{{ count }} {{ label }}</span>
+    {% endfor %}
+    </div>
+    {% endif %}<!-- mentions -->
+
     </div>
 
     {% endfor %}
 
   </div><!-- /.h-feed -->
+
+  {{ site.data.mentions.links }}
 </div><!-- /#main -->
 
 <div class="footer-wrap">

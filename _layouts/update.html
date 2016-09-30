@@ -39,6 +39,13 @@
 
   {% include _h-entry.html post=page %}
 
+   mentions
+   {{ site.data.mentions }}
+   {% assign mentions = site.data.mentions[page.url] %}
+    {{ mentions }}
+    <p>replies= {{ mentions.replies }}</p>
+    likes {{ mentions.likes }}
+
       <hr/>
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
