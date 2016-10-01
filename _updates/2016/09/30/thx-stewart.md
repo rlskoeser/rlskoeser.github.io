@@ -8,7 +8,7 @@ excerpt_separator: <!-- more -->
 publish_to_twitter: true
 ---
 
-Thanks @stewartvarner !   Glad to hear it.
+Thanks @stewartvarner !   That's nice to hear.
 
 <!-- more -->
 
