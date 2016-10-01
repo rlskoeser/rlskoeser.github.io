@@ -1,8 +1,7 @@
 ---
 date: 2016-09-30 15:54:14 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/782204967369060352
 in_reply_to: https://twitter.com/StewartVarner/status/781927023577010176
-repost_of:
 like_of: https://twitter.com/StewartVarner/status/781927023577010176
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
