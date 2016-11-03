@@ -1,6 +1,6 @@
 ---
 date: 2016-11-03 12:31:59 -04:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/794219909844594688
 publish_to_twitter: true
 tags:
     - CDH
