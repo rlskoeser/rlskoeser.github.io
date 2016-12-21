@@ -1,6 +1,6 @@
 ---
 date: 2016-12-21 10:47:32 -05:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/811601187183194112
 in_reply_to:
 repost_of: https://twitter.com/humcommons/status/811573500783788032
 like_of: https://twitter.com/humcommons/status/811573500783788032
