@@ -1,8 +1,8 @@
 ---
 date: 2016-12-21 10:47:32 -05:00
 twitter_url:
-in_reply_to: https://twitter.com/humcommons/status/811573500783788032
-repost_of:
+in_reply_to:
+repost_of: https://twitter.com/humcommons/status/811573500783788032
 like_of: https://twitter.com/humcommons/status/811573500783788032
 excerpt_separator: <!-- more -->
 publish_to_twitter: true
