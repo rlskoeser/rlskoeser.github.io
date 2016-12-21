@@ -1,6 +1,6 @@
 ---
 date: 2016-12-21 14:09:21 -05:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/811650298334875648
 in_reply_to: https://twitter.com/leahwg/status/811643452282863616
 repost_of:
 excerpt_separator: <!-- more -->
