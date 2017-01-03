@@ -1,6 +1,6 @@
 ---
 date: 2017-01-03 10:19:25 -05:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/816304058617229312
 repost_of: https://twitter.com/mikejonesmelb/status/816064286342557696
 like_of: https://twitter.com/mikejonesmelb/status/816064286342557696
 excerpt_separator: <!-- more -->
