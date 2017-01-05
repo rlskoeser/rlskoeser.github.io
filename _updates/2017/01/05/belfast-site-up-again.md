@@ -1,6 +1,6 @@
 ---
 date: 2017-01-05 10:46:56 -05:00
-twitter_url:
+twitter_url: https://twitter.com/suttonkoeser/status/817058543077642241
 publish_to_twitter: true
 tags:
     - networking-belfast
