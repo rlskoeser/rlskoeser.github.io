@@ -1,5 +1,48 @@
 /* fetch and display web mentions for a specified url (i.e., current page) */
 function webmentions(url) {
+  var current_url = window.location.href;  // or use just path ?
+  var site_section = window.location.pathname.split('/')[1];
+  console.log('site section ' + site_section);
+  console.log(current_url);
+
+  // add content to the webmentions div on post & update pages
+  var div = $(".webmentions");
+  var details = $('<div class="mention-details"/>');
+  div.append(details);
+
+  function display_mention(data) {
+      var type = data.activity.type;
+      // create a div for each mention
+      mention = $('<div/>').attr('class', type);
+      content = $(data.activity.sentence_html);
+      $.each(content, function(i, el) {
+        // sentence description often includes full url to this page
+        // strip it out if present, but add other pieces to a detail div
+        if (type != 'link' && $(el).attr('href') == "{{ site.url }}{{ page.url }}") {
+          return;
+        }
+        mention.append(el);
+      })
+      details.append(mention);
+  }
+
+
+  // get local json
+  $.getJSON("/assets/json/webmentions/" + site_section + ".json",
+    function(data) {
+      console.log('loaded local json');
+      // console.log(data);
+      for (var i = 0; i < data.length; i++) {
+        console.log(data[i]);
+        console.log(data[i].target);
+        if (data[i].target.endsWith(window.location.pathname)) {
+          console.log(data[i]);
+          display_mention(data[i]);
+        }
+      }
+
+  });
+
   $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
     target: url
   }, function(data){
