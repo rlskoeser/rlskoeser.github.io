@@ -6,7 +6,8 @@ tags:
     - aigaconverge
 ---
 
-*Notes from a long paper session at [AIGA Converge Design Educators Conference](http://converge.aiga.org/) on
+*Data as a medium, design collaboration with scientists.
+Notes from a long paper session at [AIGA Converge Design Educators Conference](http://converge.aiga.org/) on
 June 2, 2017.*
 
 {% include _toc.html %}

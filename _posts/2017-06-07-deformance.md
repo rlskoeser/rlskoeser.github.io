@@ -6,7 +6,7 @@ tags:
 - aigaconverge
 ---
 
-*Notes from a panel session at [AIGA Converge Design Educators Conference](http://converge.aiga.org/) on June 3, 2017.*
+*Notes from a panel session on designed text deformation at [AIGA Converge Design Educators Conference](http://converge.aiga.org/) on June 3, 2017.*
 
 * * *
 

@@ -3,13 +3,13 @@ layout: post
 title: "AIGA Converge: Print to Digital"
 date: 2017-06-07T06:41:51-04:00
 tags:
-    - aigaconverge
+   - aigaconverge
 ---
 
 
-*Notes from a long paper session at [AIGA Converge Design Educators Conference](http://converge.aiga.org/) on
-June 2, 2017.  Digital Scholarly monographs, different modes of arrangement and access to books in libraries,
-and experimental scholarly/artistic book-making.*
+*Digital Scholarly monographs, modes of arrangement and access to books in libraries,
+and experimental scholarly/artistic book-making. Notes from a long paper session at [AIGA Converge Design Educators Conference](http://converge.aiga.org/) on June 2, 2017.*
+
 
 {% include _toc.html %}
 
