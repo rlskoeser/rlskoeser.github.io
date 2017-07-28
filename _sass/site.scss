@@ -225,6 +225,11 @@ img.post-thumb {
     padding-right: 5px;
 }
 
+.mention-summary {
+  border-bottom: 1px solid #bcbcbc;
+  padding-bottom: 5px;
+}
+
 .mention-summary .link::after, .mention-summary .reply::after, .mention-summary .like::after,
   .mention-summary .repost::after {
     content: ", ";

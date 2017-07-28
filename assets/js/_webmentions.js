@@ -19,9 +19,13 @@ function webmentions(url) {
 
   function summarize_mentions() {
       var activity = {}, type,
-        mentions = details.find('div');
+        mentions = details.children('div');
         summary.children().remove();
-      summary.append($('<span>' + mentions.length + ' mentions:</span>').attr('class', 'total'));
+      if (! mentions.length) {
+        return;
+      }
+      summary.append($('<span>' + mentions.length + ' mentions.</span>').attr('class', 'total'));
+
 
       $.each(mentions, function(i, el) {
         type = $(el).attr('class');
