@@ -185,6 +185,10 @@ img.post-thumb {
 
 /* mentions */
 
+.webmentions .total {
+  padding-right: 5px;
+}
+
 .webmentions .repost:before {
     content: "\f079";  /* retweet */
     font-family: FontAwesome;
@@ -218,6 +222,32 @@ img.post-thumb {
     font-style: normal;
     font-weight: normal;
     text-decoration: inherit;
+    padding-right: 5px;
+}
+
+.mention-summary {
+  border-bottom: 1px solid #bcbcbc;
+  padding-bottom: 5px;
+}
+
+.mention-summary .link::after, .mention-summary .reply::after, .mention-summary .like::after,
+  .mention-summary .repost::after {
+    content: ", ";
+}
+.mention-summary span:last-child::after {
+    content: "";
+}
+
+.webmentions .source {
+  margin-left: 22px;
+}
+
+.webmentions .source::before {
+    content: "\f08e";  /* external link fa-external-link [&#xf08e;]; could also use [&#xf14c;] */
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
     padding-right: 5px;
 }
 
