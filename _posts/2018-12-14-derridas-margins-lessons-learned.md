@@ -6,6 +6,10 @@ tags:
 - software-development
 - lessons-learned
 original_url: https://cdh.princeton.edu/updates/2018/12/14/lessons-learned-building-derridas-margins/
+image:
+    feature: https://derridas-margins.princeton.edu/static/img/banner/derrida-banner-home-L@2x.png
+    thumb: https://derridas-margins.princeton.edu/static/img/derrida_VI_logo_arrow.svg
+    caption: "Banner image from [Derrida's Margins](https://derridas-margins.princeton.edu) home page. Designed by [Xinyi Li](https://cdh.princeton.edu/people/xinyi-li/)."
 ---
 
 The Digital Humanities community and Agile software development process both encourage reflection and retrospection, taking time to learn from successes and failures.
