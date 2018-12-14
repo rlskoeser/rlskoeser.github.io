@@ -3,9 +3,8 @@ layout: post
 title: Why and How We Test Software
 date: 2017-10-02T00:00:00-04:00
 tags:
-- software development
+- software-development
 - testing
-- fallibility
 original_url: https://cdh.princeton.edu/updates/2017/10/02/why-and-how-we-test-software/
 ---
 

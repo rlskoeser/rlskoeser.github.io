@@ -43,4 +43,10 @@ aigaconverge:
 dh2017:
   description: "Notes from <a href='https://dh2017.adho.org/'>Digital
   Humanities 2017</a> conference in Montreal, Quebec"
+software-development:
+  description: Posts related to software development.
+testing:
+  description: Posts on software testing.
+lessons-learned:
+  descriptions: Reflections on mistakes made and lessons learned.
 

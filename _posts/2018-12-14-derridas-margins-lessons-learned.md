@@ -3,11 +3,8 @@ layout: post
 title: Lessons learned from building “Derrida’s Margins”
 date: 2018-12-14T16:07:13-05:00
 tags:
-- software development
-- lessons learned
-- mistakes
-- derrida's Margins
-- process
+- software-development
+- lessons-learned
 original_url: https://cdh.princeton.edu/updates/2018/12/14/lessons-learned-building-derridas-margins/
 ---
 
