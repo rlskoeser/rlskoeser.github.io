@@ -49,4 +49,7 @@ testing:
   description: Posts on software testing.
 lessons-learned:
   descriptions: Reflections on mistakes made and lessons learned.
+ach2019:
+  description: "Content related to <a href='https://ach2019.ach.org/'>ACH2019
+  </a> conference in Pittsburgh"
 
