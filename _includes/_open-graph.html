@@ -1,5 +1,5 @@
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="{% if include.page_title %}{{ include.page_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:title" content="{% if include.page_title %}{{ include.page_title }}{% elsif page.title %}{{ page.title|markdownify|strip_html|strip_newlines }}{% else %}{{ site.title }}{% endif %}">
 {% if include.excerpt %}<meta name="twitter:description" content="{{ include.excerpt | strip_html }}">
 {% elsif page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">{% endif %}
 {% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
@@ -14,7 +14,7 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ site.locale }}">
 <meta property="og:type" content="{% if include.og_type %}{{ include.og_type }}{% else %}article{% endif %}">
-<meta property="og:title" content="{% if include.page_title %}{{ include.page_title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:title" content="{% if include.page_title %}{{ include.page_title }}{% elsif page.title %}{{ page.title|markdownify|strip_html|strip_newlines }}{% else %}{{ site.title }}{% endif %}">
 {% if include.excerpt %}<meta name="og:description" content="{{ include.excerpt | strip_html }}">
 {% elsif page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
