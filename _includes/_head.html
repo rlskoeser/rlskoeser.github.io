@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title>{% if include.page_title %}{{ include.page_title }} &#8211; {% elsif page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<title>{% if include.page_title %}{{ include.page_title }} &#8211; {% elsif page.title %}{{ page.title|markdownify|strip_html }} &#8211; {% endif %}{{ site.title }}</title>
 {% if include.excerpt %}<meta name="description" content="{{ include.excerpt | strip_html }}">
 {% elsif page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">

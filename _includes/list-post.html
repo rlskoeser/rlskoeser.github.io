@@ -7,7 +7,13 @@
       {% if post.image.thumb %}
       <img class="post-thumb" src="{% if post.image.thumb contains 'http' %}{{ post.image.thumb }}{% else %}{{ site.url }}/images/{{ post.image.thumb }}{% endif %}"/>
       {% endif %}
-      <h2>{{ post.title }}</h2>
+
+      {% if post.id %}
+        {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+      {% else %}
+        {% assign title = post.title %}
+      {% endif %}
+      <h2>{{ title }}</h2>
     </a>
     <p>{{ post.excerpt | strip_html | truncate: 160 }}
       <span class="dateline">{{ post.date | date_to_string }}</span>
