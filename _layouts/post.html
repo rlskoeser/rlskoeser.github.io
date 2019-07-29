@@ -57,7 +57,7 @@
       <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time property="schema:datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time property="schema:dateModified" datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+        <p class="byline"><strong>{{ page.title|markdownify|strip_html  }}</strong> was published on <time property="schema:datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time property="schema:dateModified" datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
         {% if page.original_url %}
         <div class="byline">Originally published at <a href="{{ page.original_url }}" rel="alternate">{{ page.original_url }}</a></div>
         {% endif %}
