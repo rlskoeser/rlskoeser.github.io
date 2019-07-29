@@ -8,7 +8,7 @@ tags:
 image:
     feature: posts/ach2019/planning-poker-banner.jpg
     thumb: posts/ach2019/planning-poker-thumb.jpg
-    caption: "Planning Poker cards for estimation. Photo by [Nick Budak](https://cdh.princeton.edu/people/nick-budak/)."
+    caption: "Planning Poker cards for estimation. Banner image from a photo by [Nick Budak](https://cdh.princeton.edu/people/nick-budak/), [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
 excerpt: Software development "best" practices and how they work (or don't) for Digital Humanities research.
 ---
 
@@ -76,7 +76,7 @@ Here is an actual velocity chart I generated and shared with my team at an itera
 
 It's typical to use the Fibonacci sequence for estimates: the bigger something is, the less we know, and it's not worth quibbling over whether something is an 8 or a 9: it's just big. For me, an estimate over 5 is a sign that the task is too big and should be broken down into smaller parts.
 
-{% include figure.html src="/images/posts/ach2019/planning-poker-cards.jpg" caption="Planning poker cards. Photo by Nick Budak" alt="photo of planning poker cards showing numbers from the Fibonacci sequence" %}
+{% include figure.html src="/images/posts/ach2019/planning-poker-cards.jpg" caption="Planning poker cards. Photo by Nick Budak, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)" alt="photo of planning poker cards showing numbers from the Fibonacci sequence" %}
 
 A few months ago I read about an alternate estimation scale that ranges from “everything is known” to “complete ignorance”:
 
