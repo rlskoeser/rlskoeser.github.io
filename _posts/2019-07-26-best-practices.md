@@ -5,6 +5,7 @@ date: 2019-07-26T08:13:39-04:00
 tags:
   - ach2019
   - software-development
+  - RSE
 image:
     feature: posts/ach2019/planning-poker-banner.jpg
     thumb: posts/ach2019/planning-poker-thumb.jpg
