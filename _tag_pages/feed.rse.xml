@@ -9,8 +9,8 @@ layout: none
   <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ page.url | absolute_url | xml_escape }}</id>
-  <title>{{ site.title | xml_escape }} - RSE posts</title>
-  <subtitle>Posts tagged 'RSE' (Research Software Engineer)</subtitle>
+  <title>{{ site.title | xml_escape }}</title>
+  <subtitle>RSE (Research Software Engineer) posts</subtitle>
 
   {% if site.author %}
     <author>
