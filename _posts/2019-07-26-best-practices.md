@@ -13,7 +13,7 @@ image:
 excerpt: Software development "best" practices and how they work (or don't) for Digital Humanities research.
 ---
 
-*Text of a talk given as part of a [roundtable on the state of Digital Humanities Software Development](https://www.conftool.org/ach2019/index.php?page=browseSessions&form_session=139&presentations=show) at [ACH2019](http://ach2019.ach.org/) with @matthewdlincoln, [@Zoe_LeBlanc](https://twitter.com/Zoe_LeBlanc), and @jamiefolsom.*
+*Text of a talk given as part of a [roundtable on the state of Digital Humanities Software Development](https://www.conftool.org/ach2019/index.php?page=browseSessions&form_session=139&presentations=show) at [ACH2019](http://ach2019.ach.org/) with [Matthew Lincoln](https://matthewlincoln.net/), [Zoe LeBlanc](https://twitter.com/Zoe_LeBlanc), and [Jamie Folsom](https://twitter.com/jamiefolsom).*
 
 I'm going to talk a bit about software development best practices (as they are called), how I'm using them, and some of my questions and concerns about them.
 
@@ -137,4 +137,8 @@ On the technical side:
 ## Community & career paths
 
 Software development best practices are difficult, if not impossible, to implement without a team or community. One possibility we might be able to leverage is the [US Research Software Engineer Community (US-RSE)](https://us-rse.org/). There are established RSE groups elsewhere that are much farther along, and I know the DH community is well-represented in the [UK equivalent](https://rse.ac.uk/). The US organization is still getting started, which means DH developers have a chance to get involved, help shape the group, and ensure that it includes us.
+
+***
+
+See also Matthew Lincoln’s remarks from the same session:  [‘What’s in a name?’ Transitioning from implicit to explicit software dev](https://matthewlincoln.net/2019/07/27/whats-in-a-name.html) and the Twitter hashtag for the a wonderful audience [live-tweeting the panel, including Q&A](https://twitter.com/search?q=%23ACH2019%20%23SI5).
 
