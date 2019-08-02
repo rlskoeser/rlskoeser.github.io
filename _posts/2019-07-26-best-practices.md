@@ -30,8 +30,7 @@ Many of the processes I've put in place come from **Agile** software development
 I'm certainly not the first to point out that the 17 authors of the Agile Manifesto are all white men (for instance, see [Agile is Fragile](https://medium.com/@sarahtamarakaur/agile-is-fragile-32b42e6e54b4) by Sarah Kaur in 2018).
 But not only that: they all worked in industry, and at least ten of them were consultants (many running their own firms) based on the brief [author biographies](https://agilemanifesto.org/authors.html) on [AgileManifesto.org](https://agilemanifesto.org/).
 
-{% include figure.html src="/images/posts/ach2019/agile-manifesto-founders.png" caption="Agile Manifesto authors. Image used in  [“Agile is Fragile” by Sarah Kaur (2018)](https://medium.com/@sarahtamarakaur/agile-is-fragile-32b42e6e54b4) with no credits; earliest use I could find is in a slide from a [2016 talk by Craig Smith, “40 Agile Methods in 40 Minutes”](https://fr.slideshare.net/smithcdau/40-agile-methods-in-40-minutes-56693089
-)" alt="Headshots of all Agile Manifesto authors, showing they are all men" %}
+{% include figure.html src="/images/posts/ach2019/agile-manifesto-founders.png" caption="Agile Manifesto authors. Image used in  [“Agile is Fragile” by Sarah Kaur (2018)](https://medium.com/@sarahtamarakaur/agile-is-fragile-32b42e6e54b4) with no credits; earliest use I could find is in a slide from a [2016 talk by Craig Smith, “40 Agile Methods in 40 Minutes”](https://fr.slideshare.net/smithcdau/40-agile-methods-in-40-minutes-56693089)" alt="Headshots of all Agile Manifesto authors, showing they are all men" %}
 
 The Agile Manifesto website has a list of the nearly 20,000 [independent signatories](https://agilemanifesto.org/display/index.html) who signed on as supporters of the manifesto from 2002 to 2016, when they stopped accepting signatures. Roughly half of those signatures include email addresses, but the emails listed on the site are overwhelmingly commercial (.com) addresses. Of course, this includes email providers like GMail and Yahoo, but it seems telling that there are more signatories from several individual countries than there are .edu emails.
 
@@ -142,3 +141,6 @@ Software development best practices are difficult, if not impossible, to impleme
 
 See also Matthew Lincoln’s remarks from the same session:  [‘What’s in a name?’ Transitioning from implicit to explicit software dev](https://matthewlincoln.net/2019/07/27/whats-in-a-name.html) and the Twitter hashtag for the a wonderful audience [live-tweeting the panel, including Q&A](https://twitter.com/search?q=%23ACH2019%20%23SI5).
 
+***
+
+Cross-posted on the [Center for Digital Humanities at Princeton website](https://cdh.princeton.edu/updates/2019/07/29/best-practices/) and [US RSE community blog](https://us-rse.org/blog/2019/rsk/best-practices/).
