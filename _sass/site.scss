@@ -359,3 +359,13 @@ a.fn, a.fn:visited, span.fn {
   text-decoration: none !important;
   color: #1cade4;
 }
+
+.footnotes {
+  margin-top: 65px;
+  border-top: 1px solid #ccc;
+
+  blockquote {
+    margin-left: 15px;
+  }
+
+}
