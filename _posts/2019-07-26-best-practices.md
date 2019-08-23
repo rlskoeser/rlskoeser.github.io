@@ -121,12 +121,14 @@ Other kinds of scholarship have drafts and revisions, deadlines. Are there other
 There are plenty of other software development "best" practices I haven't touched on that are worth discussing and thinking more about.
 
 One the process side:
+
 * Code review
 * Time-boxed development (iterations or sprints)
 * Retrospective meetings
 * Acceptance testing
 
 On the technical side:
+
 * Unit tests
 * Documentation
 * Continuous integration
