@@ -9,9 +9,9 @@ image:
 excerpt: Experimenting with sonification and reference data from Derrida's Margins
 ---
 
-Experimentation and play is valuable and important. It's good for your brain, and you never know where it will lead, or what fruitful new path you might discover. It's also incredibly valuable to [share](http://localhost:4000/2013/02/20/the-poetry-of-things-in-dbpedia/)
-[our](http://localhost:4000/2013/02/01/mapping-places-in-around-the-world-in-80-days/)
-[experiments](http://localhost:4000/2010/05/12/graph-correspondents-4-irish-finding-aids/),
+Experimentation and play is valuable and important. It's good for your brain, and you never know where it will lead, or what fruitful new path you might discover. It's also incredibly valuable to [share](/2013/02/20/the-poetry-of-things-in-dbpedia/)
+[our](/2013/02/01/mapping-places-in-around-the-world-in-80-days/)
+[experiments](/2010/05/12/graph-correspondents-4-irish-finding-aids/),
 even if they are incomplete. You never know what connection someone
 else will make, what unexpected results might arise. With that in mind, here's
 a little experiment of mine. It's not new, and I sort of thought the time had
