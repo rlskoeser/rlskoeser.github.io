@@ -19,7 +19,7 @@ passed to share it, but I've been encouraged to post this.
 
 A couple of years ago, I took some R&D time to work through a [tutorial on data sonification](https://programminghistorian.org/en/lessons/sonification) from [The Programming Historian](https://programminghistorian.org/).[^1] I've been interested in accessibility and different
 modes of sharing and analyzing data for a while[^2], so I wanted first-hand
-experience with sonification.  I decided to work with data from the [Derrida's Margins](https://derridas-margins.princeton.edu/) project: in particular, the references in
+experience with sonification.  I decided to work with data from the [Derrida's Margins](https://derridas-margins.princeton.edu/) project: in particular, the [references](https://derridas-margins.princeton.edu/references/) in
 Derrida's _Of Grammatology_[^3].
 
 I took the reference data, ordered by page number, and used different pitches
