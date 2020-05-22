@@ -1,5 +1,5 @@
 ---
-title: On the release of Shakespeare and Company Project 1.0
+title: On the release of the Shakespeare and Company Project 1.0
 date: 2020-05-22T15:19:51-04:00
 layout: post
 image:
