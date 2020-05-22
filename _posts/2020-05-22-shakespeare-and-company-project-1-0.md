@@ -2,6 +2,9 @@
 title: On the release of the Shakespeare and Company Project 1.0
 date: 2020-05-22T15:19:51-04:00
 layout: post
+tags:
+  - software-development
+  - RSE
 image:
     feature: posts/shakespeareandco/cards_data_banner.jpg
     thumb: posts/shakespeareandco/SCo_logo.svg
