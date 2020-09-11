@@ -69,7 +69,7 @@ text data that has already been generated.
 
 To start with, we wanted the text and position data in a common format.
 So we wrote [XSLT](https://github.com/emory-
-libraries/readux/blob/master/readux/books/ocr_to_teifacsimile.xsl) to
+libraries/readux/blob/1.8.3/readux/books/ocr_to_teifacsimile.xsl) to
 convert our OCR XML to [TEI facsimile](http://www.tei-c.org/release/do
 c/tei-p5-doc/en/html/PH.html#PHFAX).   Because it’s intended to document
 digital images of source materials,  TEI facsimile includes tags and
@@ -116,8 +116,8 @@ This volume has one METS/ALTO XML file for each page, with word-level position i
 [*Ladies First!*](http://readux.library.emory.edu/books/emory:7sr72/).  This volume has one Abbyy OCR XML for the entire volume, with line-level position information.
   - [Abbyy OCR](http://readux.library.emory.edu/books/emory:7sr72/ocr/) for the entire volume
   - [TEI facsimile](http://readux.library.emory.edu/books/emory:7sr72/pages/emory:mtrp9/tei/) generated from the appropriate page of the Abbyy OCR
-- [Custom Django template tag code](https://github.com/emory-libraries/readux/blob/master/readux/books/templatetags/teifacsimile.py) that does the majority of the position and size calculations
-- [Custom Javascript with textwidth and relativeFontHeight functions](https://github.com/emory-libraries/readux/blob/master/readux/books/static/js/page.js)
+- [Custom Django template tag code](https://github.com/emory-libraries/readux/blob/1.8.3/readux/books/templatetags/teifacsimile.py) that does the majority of the position and size calculations
+- [Custom Javascript with textwidth and relativeFontHeight functions](https://github.com/emory-libraries/readux/blob/1.8.3/readux/books/static/js/page.js)
 
 
 * * *
