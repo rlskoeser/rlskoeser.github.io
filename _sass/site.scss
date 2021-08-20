@@ -369,3 +369,7 @@ a.fn, a.fn:visited, span.fn {
   }
 
 }
+
+.article-wrap em > a {
+  text-decoration: underline;
+}
