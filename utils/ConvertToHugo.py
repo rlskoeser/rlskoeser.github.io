@@ -47,7 +47,12 @@ def convert_front_matter(front_data, post_date, url, show_toc=False):
         front_data['slug'] = front_data['url']
         del front_data['url']
 
-    # TODO: convert images (feature, thumb, and caption)
+    # excerpt in jekyll is summary in hugo
+    if 'excerpt' in front_data:
+        front_data['summary'] = front_data['excerpt']
+        del front_data['excerpt']
+
+    # convert images (feature, thumb, and caption)
     if 'image' in front_data:
         if 'feature' in front_data['image']:
             imgurl = front_data['image']['feature']
@@ -67,6 +72,10 @@ def convert_front_matter(front_data, post_date, url, show_toc=False):
         if 'caption' in front_data['image']:
             front_data['featured_image_caption'] = front_data['image']['caption']
             del front_data['image']['caption']
+
+        # if image dict is empty now, remove it
+        if not front_data['image']:
+            del front_data['image']
 
 
 replace_regex_list = [
