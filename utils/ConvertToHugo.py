@@ -86,6 +86,7 @@ replace_regex_list = [
     (re.compile(r'\{%\sinclude\s_toc\.html\s%\}'), r''),
     (re.compile(r'\{%\shighlight\s(.*)%\}'), r'{{< highlight \1 >}}'),
     (re.compile(r'\{%\sendhighlight\s%\}'), r'{{< / highlight >}}'),
+    (re.compile(r'\{: .([^}]*)\}'), r'{.\1}'),
 ]
 
 
