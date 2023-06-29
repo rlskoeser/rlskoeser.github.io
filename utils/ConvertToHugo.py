@@ -33,6 +33,11 @@ content_regex = re.compile(r'---([\s\S]*?)---([\s\S]*)')
 def convert_front_matter(front_data, post_date, url, show_toc=False):
     front_data['url'] = url
 
+    # if permalink is set, it should override url
+    if 'permalink' in front_data:
+        front_data['url'] = front_data['permalink']
+        del front_data['permalink']
+
     if 'layout' in front_data:
         del front_data['layout']
 
@@ -158,7 +163,6 @@ def convert_post(file_path, out_dir):
     # out_dir is _base_ outdir; one directory for post so we can use bundles
     base_out_dir = out_dir
     out_dir = os.path.join(out_dir, os.path.splitext(filename)[0])
-    print('out_dir ', out_dir)
 
     content = ''
     with open(file_path, 'r') as f:
@@ -238,6 +242,7 @@ def convert_post(file_path, out_dir):
                 thumbnail_dest = "%s_thumbnail%s" % (base, ext)  # ext includes .
         thumbnail_dest = os.path.join(out_dir, thumbnail_dest)
         print("** thumbnail image dest %s" % thumbnail_dest)
+
 
         # for local images, copy from image to post bundle dir
         if thumbnail_img.startswith("/"):
