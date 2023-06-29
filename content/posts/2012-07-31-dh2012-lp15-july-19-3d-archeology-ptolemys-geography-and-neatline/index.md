@@ -2,13 +2,12 @@
 created: 1343776855
 date: '2012-07-31T19:20:55'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/31/dh2012-lp15-3d-archeology-ptolemys-geography-and-neatline
-permalink: /2012/07/31/dh2012-lp15-3d-archeology-ptolemys-geography-and-neatline/
 showTableOfContents: true
 tags:
   - dh2012
 thumbnail_image: http://www.dh2012.uni-hamburg.de/wp-content/uploads/2012/07/img344-3.jpg
 title: 'DH2012: LP15, July 19 - 3D Archeology, Ptolemy''s geography, and Neatline'
-url: /2012/07/31/dh2012-lp15-july-19-3d-archeology-ptolemys-geography-and-neatline/
+url: /2012/07/31/dh2012-lp15-3d-archeology-ptolemys-geography-and-neatline/
 ---
 
 

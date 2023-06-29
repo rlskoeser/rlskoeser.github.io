@@ -2,12 +2,11 @@
 created: 1270483728
 date: '2010-04-05T12:08:48'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2010/04/05/pdf-generation-pythondjango
-permalink: /2010/04/05/pdf-generation-pythondjango/
 tags:
   - python
   - django
 title: PDF generation in python/django
-url: /2010/04/05/pdf-generation-in-python-django/
+url: /2010/04/05/pdf-generation-pythondjango/
 ---
 
 

@@ -2,12 +2,11 @@
 created: 1247179804
 date: '2009-07-09T18:50:04'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/09/totals-etd-fedora-datastreams-missing-checksums
-permalink: /2009/07/09/totals-etd-fedora-datastreams-missing-checksums/
 tags:
   - fedora
   - etd
 title: Totals for ETD Fedora datastreams missing checksums
-url: /2009/07/09/totals-for-etd-fedora-datastreams-missing-checksums/
+url: /2009/07/09/totals-etd-fedora-datastreams-missing-checksums/
 ---
 
 

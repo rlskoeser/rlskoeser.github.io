@@ -2,13 +2,12 @@
 created: 1232132308
 date: '2009-01-16T13:58:28'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/16/fedorafs-python-fuse
-permalink: /2009/01/16/fedorafs-python-fuse/
 tags:
   - python
   - fuse
   - fedora
 title: FedoraFS in python FUSE
-url: /2009/01/16/fedorafs-in-python-fuse/
+url: /2009/01/16/fedorafs-python-fuse/
 ---
 
 

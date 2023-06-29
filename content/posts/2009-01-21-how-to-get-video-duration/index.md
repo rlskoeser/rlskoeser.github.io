@@ -2,12 +2,11 @@
 created: 1232557600
 date: '2009-01-21T12:06:40'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/21/how-get-video-duration
-permalink: /2009/01/21/how-get-video-duration/
 tags:
   - video
   - linux
 title: how to get video duration
-url: /2009/01/21/how-to-get-video-duration/
+url: /2009/01/21/how-get-video-duration/
 ---
 
 

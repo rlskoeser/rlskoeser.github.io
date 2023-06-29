@@ -3,13 +3,12 @@ created: 1343319564
 date: '2012-07-26T12:19:24'
 featured_image: /images/posts/tkh/patchwork-banner.png
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/26/dh2012-LP07-july-18-visualizing-poetry-english-language-and-diction
-permalink: /2012/07/26/dh2012-LP07-july-18-visualizing-poetry-english-language-and-diction/
 showTableOfContents: true
 tags:
   - dh2012
 thumbnail_image: /images/posts/tkh/english-language_thumb.png
 title: 'DH2012: LP07, July 18 - visualizing poetry, the English language, and vocabulary in genre over time'
-url: /2012/07/26/dh2012-lp07-july-18-visualizing-poetry-the-english-language-and-vocabulary-in-genre-over-time/
+url: /2012/07/26/dh2012-LP07-july-18-visualizing-poetry-english-language-and-diction/
 ---
 
 

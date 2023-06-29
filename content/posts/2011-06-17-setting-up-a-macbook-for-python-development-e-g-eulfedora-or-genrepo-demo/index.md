@@ -2,9 +2,8 @@
 created: 1308336575
 date: '2011-06-17T14:49:35'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/17/setting-macbook-python-development-eg-eulfedora-or-genrepo-demo
-permalink: /2011/06/17/setting-macbook-python-development-eg-eulfedora-or-genrepo-demo/
 title: Setting up a MacBook for python development (e.g., eulfedora or genrepo-demo)
-url: /2011/06/17/setting-up-a-macbook-for-python-development-e-g-eulfedora-or-genrepo-demo/
+url: /2011/06/17/setting-macbook-python-development-eg-eulfedora-or-genrepo-demo/
 ---
 
 

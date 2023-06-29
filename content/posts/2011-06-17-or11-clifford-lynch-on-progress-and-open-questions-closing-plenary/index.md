@@ -2,12 +2,11 @@
 created: 1308343643
 date: '2011-06-17T16:47:23'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/17/or11-clifford-lynch-progress-and-open-questions-closing-plenary
-permalink: /2011/06/17/or11-clifford-lynch-progress-and-open-questions-closing-plenary/
 tags:
   - or11
   - open-repositories
 title: 'OR11: Clifford Lynch on Progress and Open Questions (closing plenary)'
-url: /2011/06/17/or11-clifford-lynch-on-progress-and-open-questions-closing-plenary/
+url: /2011/06/17/or11-clifford-lynch-progress-and-open-questions-closing-plenary/
 ---
 
 

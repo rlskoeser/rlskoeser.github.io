@@ -2,13 +2,12 @@
 created: 1343325302
 date: '2012-07-26T13:55:02'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/26/dh2012-lp10-july-19-culpeper-title-pages-dickens-random-forests-literary-genome
-permalink: /2012/07/26/dh2012-lp10-july-19-culpeper-title-pages-dickens-random-forests-literary-genome/
 showTableOfContents: true
 tags:
   - dh2012
 thumbnail_image: http://www.dh2012.uni-hamburg.de/wp-content/uploads/2012/07/img154-2.jpg
 title: 'DH2012: LP10, July 19 - Culpeper title pages, Dickens and "random forests", and visualizing a literary genome'
-url: /2012/07/26/dh2012-lp10-july-19-culpeper-title-pages-dickens-and-random-forests-and-visualizing-a-literary-genome/
+url: /2012/07/26/dh2012-lp10-july-19-culpeper-title-pages-dickens-random-forests-literary-genome/
 ---
 
 

@@ -2,12 +2,11 @@
 created: 1248455249
 date: '2009-07-24T13:07:29'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/24/using-hudson-php-simpletest
-permalink: /2009/07/24/using-hudson-php-simpletest/
 tags:
   - testing
   - etd
 title: Using Hudson with PHP SimpleTest
-url: /2009/07/24/using-hudson-with-php-simpletest/
+url: /2009/07/24/using-hudson-php-simpletest/
 ---
 
 

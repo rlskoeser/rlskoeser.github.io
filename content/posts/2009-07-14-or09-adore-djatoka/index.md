@@ -2,7 +2,6 @@
 created: 1247581406
 date: '2009-07-14T10:23:26'
 original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2009/07/14/or09-adore-djatoka
-permalink: /2009/07/14/or09-adore-djatoka/
 tags:
   - open-repositories
   - fedora

@@ -2,14 +2,13 @@
 created: 1247607725
 date: '2009-07-14T17:42:05'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/14/adding-coins-and-unapi-your-site
-permalink: /2009/07/14/adding-coins-and-unapi-your-site/
 summary: Notes and resources for implementing COinS and unAPI for Electronic Thesis and Dissertation records.
 tags:
   - coins
   - unapi
   - zotero
 title: adding COinS and unAPI to your site
-url: /2009/07/14/adding-coins-and-unapi-to-your-site/
+url: /2009/07/14/adding-coins-and-unapi-your-site/
 ---
 
 

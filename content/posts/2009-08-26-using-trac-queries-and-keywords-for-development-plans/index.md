@@ -2,11 +2,10 @@
 created: 1251318378
 date: '2009-08-26T16:26:18'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/08/26/using-trac-queries-and-keywords-development-plans
-permalink: /2009/08/26/using-trac-queries-and-keywords-development-plans/
 tags:
   - trac
 title: Using Trac queries and keywords for development plans
-url: /2009/08/26/using-trac-queries-and-keywords-for-development-plans/
+url: /2009/08/26/using-trac-queries-and-keywords-development-plans/
 ---
 
 I figured out how to use keywords on Trac tickets and the TracQuery wiki macro so that a Development plan can be more dynamically updated if we add new tickets to a user story.  Here's how.

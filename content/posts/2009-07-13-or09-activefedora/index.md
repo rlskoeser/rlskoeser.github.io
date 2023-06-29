@@ -2,7 +2,6 @@
 created: 1247493943
 date: '2009-07-13T10:05:43'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/13/or09-activefedora
-permalink: /2009/07/13/or09-activefedora/
 summary: 'When Ruby Met Fedora: presentation on ActiveFedora by Matt Zumwalt of MediaShelf'
 tags:
   - fedora

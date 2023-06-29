@@ -2,12 +2,11 @@
 created: 1234808663
 date: '2009-02-16T13:24:23'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/02/16/how-get-phps-configured-maximum-file-upload-size
-permalink: /2009/02/16/how-get-phps-configured-maximum-file-upload-size/
 tags:
   - php
   - file upload
 title: How to get PHP's configured maximum file upload size
-url: /2009/02/16/how-to-get-phps-configured-maximum-file-upload-size/
+url: /2009/02/16/how-get-phps-configured-maximum-file-upload-size/
 ---
 
 

@@ -2,11 +2,10 @@
 created: 1342632597
 date: '2012-07-18T13:29:57'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/18/dh2012-nedimah-workshop-ontology-based-annotation-pre-conference
-permalink: /2012/07/18/dh2012-nedimah-workshop-ontology-based-annotation-pre-conference/
 tags:
   - dh2012
 title: 'DH2012: NeDiMaH workshop on ontology based annotation (pre-conference)'
-url: /2012/07/18/dh2012-nedimah-workshop-on-ontology-based-annotation-pre-conference/
+url: /2012/07/18/dh2012-nedimah-workshop-ontology-based-annotation-pre-conference/
 ---
 
 

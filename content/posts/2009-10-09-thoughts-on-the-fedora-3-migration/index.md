@@ -2,7 +2,6 @@
 created: 1255093429
 date: '2009-10-09T09:03:49'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/10/09/thoughts-fedora-3-migration
-permalink: /2009/10/09/thoughts-fedora-3-migration/
 showTableOfContents: true
 summary: Thoughts and lessons learned after migrating from Fedora 2.x to 3.
 tags:
@@ -10,7 +9,7 @@ tags:
   - etd
   - smallpox
 title: thoughts on the Fedora 3 migration
-url: /2009/10/09/thoughts-on-the-fedora-3-migration/
+url: /2009/10/09/thoughts-fedora-3-migration/
 ---
 
 

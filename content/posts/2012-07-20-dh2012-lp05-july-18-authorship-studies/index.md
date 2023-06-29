@@ -2,7 +2,6 @@
 created: 1342765652
 date: '2012-07-20T02:27:32'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/20/dh2012-lp05-july-18-authorship-studies
-permalink: /2012/07/20/dh2012-lp05-july-18-authorship-studies/
 showTableOfContents: true
 tags:
   - dh2012

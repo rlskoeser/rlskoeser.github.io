@@ -2,13 +2,12 @@
 created: 1344628306
 date: '2012-08-10T15:51:46'
 original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2012/08/10/dh2012-lp20-image-networks-information-extraction-historical-cultural-change
-permalink: /2012/08/10/dh2012-lp20-image-networks-information-extraction-historical-cultural-change/
 showTableOfContents: true
 tags:
   - dh2012
 thumbnail_image: /images/posts/tkh/deviantART-resources-network.png
 title: 'DH2012: LP 20, July 19 - image networks, information extraction for historical research, and cultural complexity '
-url: /2012/08/10/dh2012-lp-20-july-19-image-networks-information-extraction-for-historical-research-and-cultural-complexity/
+url: /2012/08/10/dh2012-lp20-image-networks-information-extraction-historical-cultural-change/
 ---
 
 

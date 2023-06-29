@@ -3,7 +3,6 @@ created: 1244231902
 date: '2009-06-05T15:58:22'
 featured_image: /images/posts/tkh/ocropus-banner.png
 original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2009/06/05/ocropus
-permalink: /2009/06/05/ocropus/
 thumbnail_image: /images/posts/tkh/ocropus.png
 title: OCRopus
 url: /2009/06/05/ocropus/

@@ -2,7 +2,6 @@
 created: 1308078910
 date: '2011-06-14T15:15:10'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/14/or11-notes-and-quotes
-permalink: /2011/06/14/or11-notes-and-quotes/
 tags:
   - or11
   - open-repositories

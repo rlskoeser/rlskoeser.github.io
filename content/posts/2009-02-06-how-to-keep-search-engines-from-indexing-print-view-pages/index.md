@@ -2,11 +2,10 @@
 created: 1233959180
 date: '2009-02-06T17:26:20'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/02/06/how-keep-search-engines-indexing-print-view-pages
-permalink: /2009/02/06/how-keep-search-engines-indexing-print-view-pages/
 tags:
   - web
 title: How to keep search engines from indexing print-view pages
-url: /2009/02/06/how-to-keep-search-engines-from-indexing-print-view-pages/
+url: /2009/02/06/how-keep-search-engines-indexing-print-view-pages/
 ---
 
 

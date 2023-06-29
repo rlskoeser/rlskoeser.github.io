@@ -2,11 +2,10 @@
 created: 1241126056
 date: '2009-04-30T17:14:16'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/04/30/suggested-best-practice-displaying-permanent-urls
-permalink: /2009/04/30/suggested-best-practice-displaying-permanent-urls/
 tags:
   - web
 title: Suggested best practice for displaying permanent urls
-url: /2009/04/30/suggested-best-practice-for-displaying-permanent-urls/
+url: /2009/04/30/suggested-best-practice-displaying-permanent-urls/
 ---
 
 

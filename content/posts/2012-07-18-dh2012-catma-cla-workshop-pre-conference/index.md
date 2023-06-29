@@ -2,11 +2,10 @@
 created: 1342625096
 date: '2012-07-18T11:24:56'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/18/dh2012-catma-clea-workshop-pre-conference
-permalink: /2012/07/18/dh2012-catma-clea-workshop-pre-conference/
 tags:
   - dh2012
 title: 'DH2012: CATMA/CLÉA workshop (pre-conference)'
-url: /2012/07/18/dh2012-catma-cla-workshop-pre-conference/
+url: /2012/07/18/dh2012-catma-clea-workshop-pre-conference/
 ---
 
 

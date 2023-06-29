@@ -2,7 +2,6 @@
 created: 1342645936
 date: '2012-07-18T17:12:16'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/07/18/dh2012-free-your-metadata-tutorial-pre-conference
-permalink: /2012/07/18/dh2012-free-your-metadata-tutorial-pre-conference/
 tags:
   - dh2012
 title: 'DH2012: Free Your Metadata tutorial (pre-conference)'

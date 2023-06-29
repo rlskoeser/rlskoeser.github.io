@@ -2,11 +2,10 @@
 created: 1246569532
 date: '2009-07-02T17:18:52'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/02/change-exist-highlighting-126
-permalink: /2009/07/02/change-exist-highlighting-126/
 tags:
   - exist
 title: change in eXist highlighting in 1.2.6
-url: /2009/07/02/change-in-exist-highlighting-in-1-2-6/
+url: /2009/07/02/change-exist-highlighting-126/
 ---
 
 

@@ -2,7 +2,6 @@
 created: 1246919458
 date: '2009-07-06T18:30:58'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/07/06/fedora-3-test-migration-notes
-permalink: /2009/07/06/fedora-3-test-migration-notes/
 showTableOfContents: true
 tags:
   - fedora

@@ -2,13 +2,12 @@
 created: 1232137046
 date: '2009-01-16T15:17:26'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/16/implementing-symbolic-links-python-fuse
-permalink: /2009/01/16/implementing-symbolic-links-python-fuse/
 tags:
   - python
   - fuse
   - fedora
 title: implementing symbolic links in python-fuse
-url: /2009/01/16/implementing-symbolic-links-in-python-fuse/
+url: /2009/01/16/implementing-symbolic-links-python-fuse/
 ---
 
 

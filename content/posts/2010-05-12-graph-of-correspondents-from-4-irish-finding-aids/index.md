@@ -3,11 +3,10 @@ created: 1273699926
 date: '2010-05-12T17:32:06'
 featured_image: /images/posts/tkh/foaf_graph_banner.png
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2010/05/12/graph-correspondents-4-irish-finding-aids
-permalink: /2010/05/12/graph-correspondents-4-irish-finding-aids/
 summary: Correspondent graph of four Irish authors based on FOAF generated from Finding Aids.
 thumbnail_image: /images/posts/tkh/thumb_foaf_graph_subset.png
 title: Graph of correspondents from 4 Irish Finding Aids
-url: /2010/05/12/graph-of-correspondents-from-4-irish-finding-aids/
+url: /2010/05/12/graph-correspondents-4-irish-finding-aids/
 ---
 
 

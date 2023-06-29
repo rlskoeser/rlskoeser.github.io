@@ -2,13 +2,12 @@
 created: 1345220247
 date: '2012-08-17T12:17:27'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2012/08/17/dh2012-lp28-email-archives-recognizing-thought-representation-author-analysis
-permalink: /2012/08/17/dh2012-lp28-email-archives-recognizing-thought-representation-author-analysis/
 showTableOfContents: true
 summary: A tool to work with email archives, and two papers on text analysis.
 tags:
   - dh2012
 title: 'DH2012: LP 28, July 20 - Email Archives, Recognizing Thought and Speech Representation, and Author Analysis'
-url: /2012/08/17/dh2012-lp-28-july-20-email-archives-recognizing-thought-and-speech-representation-and-author-analysis/
+url: /2012/08/17/dh2012-lp28-email-archives-recognizing-thought-representation-author-analysis/
 ---
 
 

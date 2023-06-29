@@ -2,12 +2,11 @@
 created: 1307547219
 date: '2011-06-08T11:33:39'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2011/06/08/or11-jim-jagielski-open-source-communities-processes-opening-plenary
-permalink: /2011/06/08/or11-jim-jagielski-open-source-communities-processes-opening-plenary/
 tags:
   - or11
   - open-repositories
 title: 'OR11: Jim Jagielski on Open Source communities & processes (opening plenary)'
-url: /2011/06/08/or11-jim-jagielski-on-open-source-communities-and-processes-opening-plenary/
+url: /2011/06/08/or11-jim-jagielski-open-source-communities-processes-opening-plenary/
 ---
 
 

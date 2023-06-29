@@ -2,9 +2,8 @@
 created: 1271176412
 date: '2010-04-13T12:33:32'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2010/04/13/emory-etd-cited-slatecom-article
-permalink: /2010/04/13/emory-etd-cited-slatecom-article/
 title: Emory ETD cited in a Slate.com article
-url: /2010/04/13/emory-etd-cited-in-a-slate-com-article/
+url: /2010/04/13/emory-etd-cited-slatecom-article/
 ---
 
 

@@ -2,7 +2,6 @@
 created: 1232135575
 date: '2009-01-16T14:52:55'
 original_url: https://techknowhow.library.emory.edu/blogs/rsutton/2009/01/16/python-fuse-command-line-arguments
-permalink: /2009/01/16/python-fuse-command-line-arguments/
 tags:
   - python
   - fuse

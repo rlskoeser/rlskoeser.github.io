@@ -2,11 +2,10 @@
 created: 1247674431
 date: '2009-07-15T12:13:51'
 original_url: http://techknowhow.library.emory.edu/blogs/rsutton/2009/07/15/or09-author-ids-arxiv
-permalink: /2009/07/15/or09-author-ids-arxiv/
 tags:
   - open-repositories
 title: 'OR09: Author IDs at arXiv'
-url: /2009/07/15/or09-author-ids-at-arxiv/
+url: /2009/07/15/or09-author-ids-arxiv/
 ---
 
 
