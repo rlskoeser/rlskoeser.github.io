@@ -144,4 +144,8 @@
   </script>
   {{ end }}
   {{ end }}
+  {{/* load any page-specific javascript */}}
+  {{ range .Params.extra_js }}
+  <script src="{{ . }}" defer></script>
+  {{ end }}
 </head>
