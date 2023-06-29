@@ -93,11 +93,11 @@ The presence of very large files, even though they are not the norm, meant we ha
 * * *
 
 <div id="box-plot" style="width:650px;height:450px;"></div>
-<div class="form-inline">
+<form id="box-plot-controls">
 Scale:
-<input type='radio' name='plot-scale' id="scale-linear" value='linear' checked="checked" /> <label for="scale-linear"> Linear</label>
-<input type='radio' name='plot-scale' id="scale-log" value='log' /> <label for="scale-log"> Logarithmic</label>
-</div>
+<label><input type='radio' name='plot-scale' value='linear' checked="checked" /> Linear</label>
+<label><input type='radio' name='plot-scale' value='log' /> Logarithmic</label>
+</form>
 
 
 ## Tools and Resources
@@ -114,61 +114,66 @@ Disk Image workflow designed and refined by Dorothy Waugh, Elizabeth Russey Roke
 Thanks to Rob O'Reilly for assistance with statistical analysis and advice on the file sizes and for generating the box and violin plot images.
 
 <script>
-$.getJSON( "/json/repository_content_sizes.json", function( data ) {
-    // data is structured for plotly box plot
-/*    var plot_data = [
+window.addEventListener("DOMContentLoaded", (event) => {
+
+    fetch( "/assets/json/repository_content_sizes.json").then(response => response.json()).then(
+    function( data ) {
+        // data is structured for plotly box plot
+    /*    var plot_data = [
+            {
+                y: data['images'],
+                name: 'Images',
+                type: 'box',
+            },
         {
-            y: data['images'],
-            name: 'Images',
-            type: 'box',
-        },
-       {
-            y: data['audio'],
-            name: 'Audio',
-            type: 'box',
-        },
-       {
-            y: data['video'],
-            name: 'Video',
-            type: 'box',
-        },
-       {
-            y: data['diskimage'],
-            name: 'Disk Images',
-            type: 'box',
-        },
-    ]; */
+                y: data['audio'],
+                name: 'Audio',
+                type: 'box',
+            },
+        {
+                y: data['video'],
+                name: 'Video',
+                type: 'box',
+            },
+        {
+                y: data['diskimage'],
+                name: 'Disk Images',
+                type: 'box',
+            },
+        ]; */
 
-    var layout = {
-    title: 'Distribution of File Sizes by Content Type',
-    yaxis: {
-        title: 'File size in GB',
-        autorange: true,
-        zeroline: true,
-        type: 'linear',
-    },
-    margin: {
-        l: 50,
-        r: 30,
-        b: 30,
-        t: 70
-    },
-    showlegend: true
-};
-
-
-    Plotly.newPlot('box-plot', data, layout);
-});
-
-
-$('input[name=plot-scale]').change(function(){
-    // update y axis layout
-    Plotly.relayout('box-plot', {
+        var layout = {
+        title: 'Distribution of File Sizes by Content Type',
         yaxis: {
-            type: $( 'input[name=plot-scale]:checked' ).val()
-        }});
-    // redraw to adjust to the new scale and display properly
-    Plotly.redraw('box-plot');
-});
+            title: 'File size in GB',
+            autorange: true,
+            zeroline: true,
+            type: 'linear',
+        },
+        margin: {
+            l: 50,
+            r: 30,
+            b: 30,
+            t: 70
+        },
+        showlegend: true
+    };
 
+
+        Plotly.newPlot('box-plot', data, layout);
+    });
+
+    const scaleInput = document.querySelectorAll('input[name=plot-scale]');
+    scaleInput.forEach(el => {
+        el.addEventListener("change", (event) => {
+        // update y axis layout
+        Plotly.relayout('box-plot', {
+            yaxis: {
+                type: event.target.value
+            }});
+        // redraw to adjust to the new scale and display properly
+        Plotly.redraw('box-plot');
+    });
+    });
+});
 </script>
