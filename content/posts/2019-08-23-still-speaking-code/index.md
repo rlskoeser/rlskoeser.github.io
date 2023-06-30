@@ -8,6 +8,13 @@ tags:
 thumbnail_image: /images/posts/TI99-thumb.jpg
 title: Still speaking in Code
 url: /2019/08/23/still-speaking-code/
+cross_posted:
+  - alt:
+    title: "Center for Digital Humanities at Princeton"
+    url: https://cdh.princeton.edu/updates/2019/08/23/still-speaking-code/
+  - alt:
+    title: US RSE community blog
+    url: https://us-rse.org/blog/2019/rsk/still-speaking-code/
 ---
 
 
@@ -60,8 +67,6 @@ Here is my encouragement to anyone trying to figure out how to start or if you b
 
 *Thanks to my parents, who helped me with the details for several of these stories and gave me feedback on a draft. <br/>
 Thanks also to my new colleague [Grant Wythoff](https://wythoff.net/) who read a draft and prompted me to clarify a few things.*
-
-Cross-posted on [Center for Digital Humanities at Princeton](https://cdh.princeton.edu/updates/2019/08/23/still-speaking-code/) and [US RSE community blog](https://us-rse.org/blog/2019/rsk/still-speaking-code/).
 
 
 [^1]: At the time it was such a small department that there was no standalone Computer Science degree; the CS department split off from the Math department the year I graduated.

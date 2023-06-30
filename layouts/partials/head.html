@@ -31,7 +31,11 @@
   {{ printf `
   <link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink ($.Site.Title | emojify) |
   safeHTML }}
-  {{ end -}}
+  {{ end }}
+  {{/* cross-posted alternates */}}
+  {{- range .Params.cross_posted -}}
+  <link rel="alternate" href="{{ .url }}"/>
+  {{- end -}}
   {{/* Asset bundles */}}
   {{ $assets := newScratch }}
   {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (.Site.Params.colorScheme | default "blowfish")) }}
