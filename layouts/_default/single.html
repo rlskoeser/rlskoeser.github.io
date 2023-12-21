@@ -66,8 +66,9 @@
 
     </section>
     <footer class="pt-8 max-w-prose print:hidden">
-
+        {{ if (default 1 .Page.Params.showAuthor) }}
         {{ partial "author.html" . }}
+        {{ end }}
 
         {{ $authorsData := .Site.Data.authors }}
         {{ $taxonomies := .Site.Taxonomies.authors }}

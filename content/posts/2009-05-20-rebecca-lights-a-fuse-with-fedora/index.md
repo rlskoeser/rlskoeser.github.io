@@ -1,4 +1,5 @@
 ---
+showAuthor: false
 authors:
   - scott_turnbull
 created: 1242818150
