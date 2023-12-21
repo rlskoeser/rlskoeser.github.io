@@ -11,15 +11,14 @@ summary: Disk image ingest workflow and rationale.  Content associated with a po
 tags:
   - OR2016
   - poster
-thumbnail_image: /images/posts/or/diskimage-ingest-workflow-thumb.png
+thumbnail_image: /images/posts/or/diskimage-ingest-workflow.png
+featured_image: /images/posts/or/diskimage-ingest-workflow-banner.png
 title: 'Sipping from a Bag: Ingesting Disk Images with BagIt'
 url: /2016/06/08/diskimage-ingest/
 ---
 
 
-
-
-The following is content associated with a poster to be presented at [Open Repositories 2016.](http://or2016.net/)
+The following is content associated with a [poster presentation](https://pid.emory.edu/ark:/25593/rpff8) for [Open Repositories 2016.](http://or2016.net/)
 
 * * *
 
