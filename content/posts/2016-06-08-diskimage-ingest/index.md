@@ -4,7 +4,7 @@ authors:
   - dorothy_waugh
 date: 2016-06-08 18:00:00-04:00
 extra_js:
-  - https://cdn.plot.ly/plotly-latest.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/plotly.js/1.33.1/plotly.min.js
 showAuthor: true
 showTableOfContents: true
 summary: Disk image ingest workflow and rationale.  Content associated with a poster for OR2016.
@@ -116,7 +116,7 @@ Thanks to Rob O'Reilly for assistance with statistical analysis and advice on th
 <script>
 window.addEventListener("DOMContentLoaded", (event) => {
 
-    fetch( "/assets/json/repository_content_sizes.json").then(response => response.json()).then(
+    fetch( "/json/repository_content_sizes.json").then(response => response.json()).then(
     function( data ) {
         // data is structured for plotly box plot
     /*    var plot_data = [
