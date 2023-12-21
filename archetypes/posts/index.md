@@ -13,9 +13,9 @@ summary:
 tags:
   - tag1
   - tag2
-thumbnail_image: 
-featured_image: 
-featured_image_caption:
+# thumbnail_image: add image in post bundle; include "thumbnail" in filename
+# featured_image: add image in post bundle; include "featured" in filename
+featured_image_caption:   # not yet supported
 original_url:   # link to original if cross-posted from another site
 url: # relative url for current site; only specify when needs to be customized
 ---
