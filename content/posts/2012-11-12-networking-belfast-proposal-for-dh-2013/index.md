@@ -35,7 +35,7 @@ Providing not only this new analysis of the Belfast Group’s network and a repo
 
 ## References
 
-{.references}
+{{<wrap class="references">}}
 
 - Akdag Salah, Alkim Almila et al. “Exploring Originality in User-Generated Content with Network and Image Analysis Tools.” Digital Humanities 2012. University of Hamburg. 19 July 2012.
 - Blanke, Tobias et al. “Information Extraction on Noisy Texts for Historical Research.” Digital Humanities 2012. University of Hamburg. 19 July 2012.
@@ -49,3 +49,5 @@ Providing not only this new analysis of the Belfast Group’s network and a repo
 - Pitti, Daniel, et al. “The Social Networks and ARchival Context Project.” Digital Humanities 2011 Stanford University. 22 June 2011.
 - Pitti, Daniel, et al. SNAC: The Social Networks and Archival Context Project. Web. 29 October 2012. [http://socialarchive.iath.virginia.edu/](http://socialarchive.iath.virginia.edu/).
 - Visconti, Amanda. View DHQ: Citation Network Visualization for Digital Humanities Quarterly. Web. 1 November 2012. [http://digitalliterature.net/viewDHQ/](http://digitalliterature.net/viewDHQ/)
+
+{{</wrap>}}
