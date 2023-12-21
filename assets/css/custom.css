@@ -8,3 +8,18 @@
 .references ul {
 	padding-left: 0;
 }
+
+/* invert svg logo colors for light mode */
+img.logo {
+    filter: invert(1);
+}
+html.dark img.logo {
+    filter: none;
+}
+/* mini logo is the reverse */
+img.minilogo {
+   filter: none;	
+}
+html.dark img.minilogo {
+    filter: invert(1);	
+}

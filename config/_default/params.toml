@@ -10,6 +10,9 @@ defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 # showBreadcrumbs = true # maybe not useful?
 
+logo = "images/suttonkoeser.svg"
+miniLogo = "images/rsk.png"
+disableTextInHeader = true
 
 enableSearch = false
 enableCodeCopy = true
