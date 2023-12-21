@@ -1,6 +1,7 @@
 # -- Site Configuration --
 baseURL = "https://rlskoeser.github.io/"
 defaultContentLanguage = "en"
+title = "Rebecca Sutton Koeser"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
