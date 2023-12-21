@@ -1,16 +1,17 @@
 languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
-weight = 1
-rtl = false
+[languages]
+  [languages.en]
+    [languages.en.params]
+      dateFormat = "2 January 2006"
+      languageName = "English"
+      displayName = "EN"
+      isoCode = "en"
+      weight = 1
+      rtl = false
 
 title = "Rebecca Sutton Koeser"
 # logo = "img/logo.png"
-# description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
-
-dateFormat = "2 January 2006"
 
 [author]
   name = "Rebecca Sutton Koeser"
@@ -60,4 +61,5 @@ dateFormat = "2 January 2006"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
+    { blueskey = "https://bsky.app/profile/suttonkoeser.bsky.social" },
   ]

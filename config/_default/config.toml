@@ -1,8 +1,4 @@
 # -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/getting-started/
-
-theme = "blowfish"
 baseURL = "https://rlskoeser.github.io/"
 defaultContentLanguage = "en"
 
@@ -15,7 +11,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+#googleAnalytics = "G-XXXXXXXXX"
 
 [imaging]
   anchor = 'Center'
