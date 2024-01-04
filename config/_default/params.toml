@@ -7,7 +7,7 @@
 
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false  # always use dark mode
 # showBreadcrumbs = true # maybe not useful?
 
 logo = "images/suttonkoeser.svg"
@@ -22,7 +22,8 @@ mainSections = ["posts"]
 
 disableImageOptimization = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
+# doesn't work at current size
+#defaultBackgroundImage = "images/typing_fingers.png"    # used as default for background images
 
 # highlightCurrentMenuArea = true
 # smartTOCHideUnfocusedChildren = true
