@@ -14,7 +14,7 @@ logo = "images/suttonkoeser.svg"
 miniLogo = "images/rsk.png"
 disableTextInHeader = true
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = true
 
 mainSections = ["posts"]
