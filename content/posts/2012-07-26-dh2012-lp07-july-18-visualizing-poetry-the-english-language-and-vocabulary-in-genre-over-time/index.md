@@ -57,6 +57,6 @@ When asked about the dataset, Marc Alexander replied that is not currently avail
 
 Ted Underwood (view [abstract](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/the-differentiation-of-genres-in-eighteenth--and-nineteenth-century-english-literature/), [video of the presentation](http://lecture2go.uni-hamburg.de/konferenzen/-/k/13933))
 
-![graph of pre-1150/post-1149 words across genres](http://www.dh2012.uni-hamburg.de/wp-content/uploads/2012/07/img289-1.jpg){.callout}
+![graph of pre-1150/post-1149 words across genres](http://www.dh2012.uni-hamburg.de/wp-content/uploads/2012/07/img289-1.jpg)
 
 According to Ted Underwood, the general strategy of corpus comparison can be hard to interpret, and it is often easier to interpret a series of comparisons over time.  So, working with a metric of the ratio of pre- and post- 1150 words, Underwood and his collaborators graphed the language use across multiple categories, and discovered a noticeable change that parallels the emergence of literature as a category.  The graph for poetry shows the strongest differentiation - providing some basis for the claims of Wordsworth and the other Romantic poets about using the spoken language of the middle and lower classes rather than the learned, erudite, Latinate language more commonly in use previously.  Underwood also noted an increase in the terminology of personal experience, suggesting that the informal language may also be driven by certain thematic concerns relating to subjectivity and personal experience.

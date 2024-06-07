@@ -13,7 +13,7 @@ url: /2013/02/01/mapping-places-in-around-the-world-in-80-days/
 
 
 
-[ ![Jules Verne's 'Around the World in 80 Days'](http://covers.openlibrary.org/b/id/6946042-S.jpg "Cover of Jules Verne's 'Around the World in 80 Days") ](http://openlibrary.org/books/OL24938416M/Around_the_world_in_80_days "Jules Verne's 'Around the World in 80 Days'"){.callout}
+[ ![Jules Verne's 'Around the World in 80 Days'](http://covers.openlibrary.org/b/id/6946042-S.jpg "Cover of Jules Verne's 'Around the World in 80 Days") ](http://openlibrary.org/books/OL24938416M/Around_the_world_in_80_days "Jules Verne's 'Around the World in 80 Days'")
 
 The last time I re-read
 <span property="schema:about" resource="http://openlibrary.org/works/OL16036612W/" typeof="schema:Book">
@@ -29,7 +29,6 @@ Here is a Google map I’ve created using some of the tools and technologies we�
 
 <iframe width="575" height="275" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=213428359614288492782.0004d4afde682a04c0c05&amp;start=0&amp;num=200&amp;t=m&amp;ll=30.145127,18.28125&amp;spn=132.078103,43.59375&amp;z=1&amp;output=embed"></iframe>
 
-{.info}
 View [Places in “Around the World in 80 Days”](https://maps.google.com/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=213428359614288492782.0004d4afde682a04c0c05&start=0&num=200&t=m&ll=30.145127,18.28125&spn=132.078103,43.59375&z=1&source=embed) in a larger map
 
 After I finished reading the book, it occurred to me that currently available technologies should make it pretty easy to extract and map place names from the text, and since geographical location is so significant in the work it might be an interesting experiment. I went looking for maps of Phileas Fogg’s great trip and was surprised to find not much.

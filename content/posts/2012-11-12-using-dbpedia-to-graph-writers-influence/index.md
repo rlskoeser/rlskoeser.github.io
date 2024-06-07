@@ -12,7 +12,6 @@ url: /2012/11/12/using-dbpedia-to-graph-writers-influence/
 ---
 
 
-{.info}
 A technical discussion of the process of generating a network graph of authorial influence using DBpedia, SPARQL, and Gephi.
 
 <div style="float: right;">
@@ -83,5 +82,4 @@ FILTER langMatches( lang(?target), "EN" )
 
 * * *
 
-{.info}
 Network graphs generated with [Gephi](https://gephi.org/); deep zoom images generated and hosted by [zoom.it](http://zoom.it/).

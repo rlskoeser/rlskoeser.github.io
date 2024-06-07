@@ -41,23 +41,17 @@ experiments with [Python and FUSE](/2009/01/16/fedorafs-python-fuse/)
 back in 2009, when I was still learning Python but bored with the Django
 tutorial; we’ve long since replaced Trac with Pivotal Tracker for
 project management; PHP, now generally only still used in legacy
-projects; my discovery of the [image server Djatoka](/2009/07/14/or09
--adore-djatoka/), which we’ve been using for years and now are looking
+projects; my discovery of the [image server Djatoka](/2009/07/14/or09-adore-djatoka/), which we’ve been using for years and now are looking
 to replace. Back in 2011 doing development on a Macbook was novel
-enough for me that I wrote up [documentation on how I set up my work
-environment](/2011/06/17/setting-macbook-python-development-eg-
-eulfedora-or-genrepo-demo/), but now I do almost all my development on
+enough for me that I wrote up [documentation on how I set up my work environment](/2011/06/17/setting-macbook-python-development-eg-eulfedora-or-genrepo-demo/), but now I do almost all my development on
 OSX and only occasionally go back to my Linux workstation. To my mind,
 the more interesting posts in the long term are some of the write-ups
 from conference sessions (which is good encouragement to do that again,
 the next time I have occasion to attend a conference!) and the
-experimental posts. Those experiments include one on [using automated
-name-recognition to generate a map](/2013/02/01 /mapping- places-in-
-around-the-world- in-80-days/) (which was useful again just recently),
-and my little [experiment with archival Finding Aid
-data](/2010/05/12/graph- correspondents-4-irish-finding- aids/) that
-eventually led to the [Belfast Group
-Poetry|_Networks_](http://belfastgroup.digitalscholarship.emory.edu)
+experimental posts. Those experiments include one on
+ [using automated name-recognition to generate a map](/2013/02/01/mapping-places-in-around-the-world-in-80-days/) (which was useful again just recently),
+and my little [experiment with archival Finding Aid data](/2010/05/12/graph-correspondents-4-irish-finding-aids/) that
+eventually led to the [Belfast Group Poetry|_Networks_](http://belfastgroup.digitalscholarship.emory.edu)
 project.
 
 The technical landscape has changed just a bit in the last several
