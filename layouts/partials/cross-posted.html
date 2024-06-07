@@ -1,0 +1,16 @@
+{{- if or .Params.original_url .Params.cross_posted -}}
+<div class="text-neutral-700 dark:text-neutral-400">
+    {{- with .Params.original_url -}}
+    <p>Originally published at <a rel="alternate" href="{{ . }}">{{ . }}</a></p>
+    {{- end -}}
+    {{- with .Params.cross_posted -}}
+    {{ $num_crossposts := len . }}
+    <p>Cross-posted at
+        {{ range $index, $alt := . -}}
+        {{ if gt $index 0 }}{{ if eq $index (sub $num_crossposts 1) }} and {{ else }}, {{ end }}{{
+        end }}
+        <a href="{{ $alt.url }}" rel="alternate">{{ $alt.title }}</a>
+        {{- end -}}.
+    </p>{{ end -}}
+</div>
+{{- end -}}

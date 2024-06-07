@@ -2,6 +2,7 @@
 {{ .Scratch.Set "scope" "single" }}
 {{/* customizations:
 - support markdown in titles
+- include original url / cross-posted url partial
 - include webmentions partial
 */}}
 <article>
@@ -112,7 +113,7 @@
         {{ end }}
 
         {{ partial "series/series-closed.html" . }}
-
+        {{ partial "cross-posted.html" . }}
         {{ partial "webmentions.html" . }}
         {{ partial "sharing-links.html" . }}
         {{ partial "related.html" . }}
