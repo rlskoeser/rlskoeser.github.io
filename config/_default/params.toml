@@ -146,4 +146,4 @@ disableImageOptimization = false
 
 [webmentions]
   webmention = "https://webmention.io/rlskoeser.github.io/webmention"
-  pingback = "https://webmention.io/rlskoeser.github.io/xmlrpc"
+#  pingback = "https://webmention.io/rlskoeser.github.io/xmlrpc"
