@@ -1,0 +1,25 @@
+[
+    {
+        "source": "https://brid.gy/post/twitter/suttonkoeser/1476973054681092107",
+        "verified": true,
+        "verified_date": "2021-12-31T23:20:20+00:00",
+        "id": 1324379,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Jay",
+                "url": "https://twitter.com/poundifdef",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/751f66f0191b094ed2ca197c020bf4d10fc0f442bafef328639b5cd4e3c26616.jpg"
+            },
+            "url": "https://twitter.com/poundifdef/status/1476973054681092107",
+            "name": null,
+            "content": "<a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> hello! i just wanted to say thank you for your blog post from 2009, it was the first result when i googled \"python fuse arguments\" <a href=\"https://rlskoeser.github.io/2009/01/16/python-fuse-command-line-arguments/\">rlskoeser.github.io/2009/01/16/pyt\u2026</a>\n\nhappy new year!",
+            "published": "2021-12-31T17:46:31+00:00",
+            "published_ts": 1640972791
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2009/01/16/python-fuse-command-line-arguments/"
+    }
+]

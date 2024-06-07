@@ -1,5 +1,83 @@
 [
     {
+        "source": "https://blog.kmi.open.ac.uk/core-wins-best-poster-award-at-the-open-repositories-conference-or2016-2/",
+        "verified": true,
+        "verified_date": "2024-02-26T11:35:44+00:00",
+        "id": 1785681,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Nancy Pontika",
+                "url": "https://blog.kmi.open.ac.uk/author/nancy-pontika/",
+                "photo": null
+            },
+            "url": "https://blog.kmi.open.ac.uk/core-wins-best-poster-award-at-the-open-repositories-conference-or2016-2/",
+            "name": "CORE wins Best Poster Award at the Open Repositories Conference #OR2016",
+            "content": "<p>Last week, the CORE team attended the <a href=\"http://or2016.net/\">11th Annual Conference on Open Repositories</a>, an international conference addressed mainly to subject and institutional repository managers, focusing on open access, open data and open science tools, projects and services.</p>\n<p>At the conference the team had six submissions:</p>\n<p>1. A workshop presentation on \u201c<b>How can repositories support the text-mining of their content and why?</b>\u201d where Nancy Pontika explained the how repository managers should be supportive of text-mining practices and Petr Knoth described the technical requirements that can enable the text mining of repositories. In addition to that, the CORE team was the workshop organiser, as part of its involvement with the <a href=\"http://openminted.eu/\">OpenMinTeD</a> project, an EU-funded project on text and data mining. The workshop has been described in two blog posts, one hosted at the <a href=\"http://openminted.eu/1409-2/\">OpenMinTeD blog</a> (which includes all workshop presentations), and another <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">post</a> composed by Rebecca Sutton Koeser, a workshop participant.</p>\n<p>2. A full presentation on \u201c<b>Exploring Semantometrics: full text-based research evaluation for open repositories\u201d</b> by Petr Knoth. The presentation explored semantometrics, a new class of research evaluation metrics, which builds on the premise that full text is needed to assess the value of a publication. (Presentation available <a href=\"http://www.slideshare.net/petrknoth/semantometrics-towards-fulltextbased-research-evaluation\">here</a>.)</p>\n<p>3. A 24\u00d77 presentation on the \u201c<b>Implementation of the RIOXX metadata guidelines in the UK\u2019s repositories through a harvesting service</b>\u201d, where Matteo Cancellieri and Nancy Pontika described how the <a href=\"http://rioxx.net/\">RIOXX metadata guidelines</a> are now a new embedded feature in the CORE <a href=\"https://core.ac.uk/services#dashboard\">Repositories Dashboard</a>. (Presentation slides <a href=\"http://www.slideshare.net/NancyPontika/implementation-of-the-rioxx-metadata-guidelines-in-the-uks-repositories-through-a-harvesting-service\">here</a>.)</p>\n<p>4. &amp; 5. Two demo presentations during the Developer Track sessions. The first one was on \u201c<b>Mining Open Access Publications in CORE</b>\u201d, where Matteo Cancellieri demonstrated the new <a href=\"https://core.ac.uk/services#api\">CORE API</a> and the second was entitled \u201c<b>Oxford vs Cambridge Contest: Collecting Open Research Evaluation Metrics for University Ranking</b>\u201d where Petr Knoth used the traditional Oxford University vs Cambridge University contest to show how to freely gather and compare the research performance of universities. (The <a href=\"https://github.com/oacore\">code</a> for both demo presentations is on Github.)</p>\n<p>6. A poster on the \u201c<b>Integration of the IRUS-UK Statistics in the CORE Repositories Dashboard</b>\u201d, by Samuel Pearce and Nancy Pontika, which showed the process of embedding the existing <a href=\"http://www.irus.mimas.ac.uk/\">IRUS-UK</a> statistics service to the CORE <a href=\"https://core.ac.uk/services#dashboard\">Repositories Dashboard</a>. We were delighted also that our poster won the best poster award (yay!). We would like to thank all the conference participants who stopped by our poster, got the CORE freebies and voted for us! (You can access the poster <a href=\"https://figshare.com/articles/Integration_of_the_IRUS-UK_Statistics_in_the_CORE_Repositories_Dashboard/3407548\">here</a>.)</p>\n<p>Based on the fact that this conference has a clear focus on repository services and that the CORE service uses or is being used by these services, we were also extensively mentioned in other presentations as well. For example: <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=lantern\">Richard Jones</a> in his presentation on <a href=\"https://lantern.cottagelabs.com/docs\">Lantern</a> mentioned that the project is using the CORE API; <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=modern+metadata\">Paul Walk</a> described how CORE is using the <a href=\"http://rioxx.net/\">RIOXX metadata application profile</a>; the <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=future+repositories\">Repositories of the Future</a> panel, organised by <a href=\"https://www.coar-repositories.org/\">COAR</a>, stressed on the importance of the role of aggregators in the repository environment specifically naming CORE; and the \u201cIdeas Challenge\u201d, a thought-provoking and brainstorming group exercise consisting of programmers and repository managers that focused on how to make the lives of academics easier, proposed CORE as a runner up for the development of a cross-repository journal and topic browse interface. Finally, CORE was also presented in the Jisc poster on \u201cJisc\u2019s Open Access Services\u201d.</p>\n<p>As a genuine open access, open data and open science supporter, CORE is also participating at the EU-funded Facilitate Open Science Training for European Research (<a href=\"https://www.fosteropenscience.eu/\">FOSTER</a>) project, which also presented a poster on the project\u2019s main activities, objectives and the e-learning platform. CORE has built the portal and the e-learning platform.</p>\n<p>The past week has been a good week for the CORE team. We met our old friends, made new ones, received precious feedback from the community for our services, but more importantly we realised that the CORE service is integral to the repositories community. So, stay tuned with us!<br /></p>\n<p>Related Links:</p><ul><li><a href=\"https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/\">CORE blog post link</a><br /></li></ul><br />",
+            "published": "2016-06-23T13:34:21+01:00",
+            "published_ts": 1466685261
+        },
+        "activity": {
+            "type": "link"
+        },
+        "rels": {
+            "canonical": "https://blog.kmi.open.ac.uk/core-wins-best-poster-award-at-the-open-repositories-conference-or2016-2/"
+        },
+        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+    },
+    {
+        "source": "https://blog.kmi.open.ac.uk/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/",
+        "verified": true,
+        "verified_date": "2024-02-15T14:40:29+00:00",
+        "id": 1778705,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Nancy Pontika",
+                "url": "https://blog.kmi.open.ac.uk/author/nancy-pontika/",
+                "photo": null
+            },
+            "url": "https://blog.kmi.open.ac.uk/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/",
+            "name": "CORE wins Best Poster Award at the Open Repositories Conference #OR2016",
+            "content": "<p>Last week, the CORE team attended the <a href=\"http://or2016.net/\">11th Annual Conference on Open Repositories</a>, an international conference addressed mainly to subject and institutional repository managers, focusing on open access, open data and open science tools, projects and services.</p>\n<p>At the conference the team had six submissions:</p>\n<p>1. A workshop presentation on \u201c<b>How can repositories support the text-mining of their content and why?</b>\u201d where Nancy Pontika explained the how repository managers should be supportive of text-mining practices and Petr Knoth described the technical requirements that can enable the text mining of repositories. In addition to that, the CORE team was the workshop organiser, as part of its involvement with the <a href=\"http://openminted.eu/\">OpenMinTeD</a> project, an EU-funded project on text and data mining. The workshop has been described in two blog posts, one hosted at the <a href=\"http://openminted.eu/1409-2/\">OpenMinTeD blog</a> (which includes all workshop presentations), and another <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">post</a> composed by Rebecca Sutton Koeser, a workshop participant.</p>\n<p>2. A full presentation on \u201c<b>Exploring Semantometrics: full text-based research evaluation for open repositories\u201d</b> by Petr Knoth. The presentation explored semantometrics, a new class of research evaluation metrics, which builds on the premise that full text is needed to assess the value of a publication. (Presentation available <a href=\"http://www.slideshare.net/petrknoth/semantometrics-towards-fulltextbased-research-evaluation\">here</a>.)</p>\n<p>3. A 24\u00d77 presentation on the \u201c<b>Implementation of the RIOXX metadata guidelines in the UK\u2019s repositories through a harvesting service</b>\u201d, where Matteo Cancellieri and Nancy Pontika described how the <a href=\"http://rioxx.net/\">RIOXX metadata guidelines</a> are now a new embedded feature in the CORE <a href=\"https://core.ac.uk/services#dashboard\">Repositories Dashboard</a>. (Presentation slides <a href=\"http://www.slideshare.net/NancyPontika/implementation-of-the-rioxx-metadata-guidelines-in-the-uks-repositories-through-a-harvesting-service\">here</a>.)</p>\n<p>4. &amp; 5. Two demo presentations during the Developer Track sessions. The first one was on \u201c<b>Mining Open Access Publications in CORE</b>\u201d, where Matteo Cancellieri demonstrated the new <a href=\"https://core.ac.uk/services#api\">CORE API</a> and the second was entitled \u201c<b>Oxford vs Cambridge Contest: Collecting Open Research Evaluation Metrics for University Ranking</b>\u201d where Petr Knoth used the traditional Oxford University vs Cambridge University contest to show how to freely gather and compare the research performance of universities. (The <a href=\"https://github.com/oacore\">code</a> for both demo presentations is on Github.)</p>\n<p>6. A poster on the \u201c<b>Integration of the IRUS-UK Statistics in the CORE Repositories Dashboard</b>\u201d, by Samuel Pearce and Nancy Pontika, which showed the process of embedding the existing <a href=\"http://www.irus.mimas.ac.uk/\">IRUS-UK</a> statistics service to the CORE <a href=\"https://core.ac.uk/services#dashboard\">Repositories Dashboard</a>. We were delighted also that our poster won the best poster award (yay!). We would like to thank all the conference participants who stopped by our poster, got the CORE freebies and voted for us! (You can access the poster <a href=\"https://figshare.com/articles/Integration_of_the_IRUS-UK_Statistics_in_the_CORE_Repositories_Dashboard/3407548\">here</a>.)</p>\n<p>Based on the fact that this conference has a clear focus on repository services and that the CORE service uses or is being used by these services, we were also extensively mentioned in other presentations as well. For example: <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=lantern\">Richard Jones</a> in his presentation on <a href=\"https://lantern.cottagelabs.com/docs\">Lantern</a> mentioned that the project is using the CORE API; <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=modern+metadata\">Paul Walk</a> described how CORE is using the <a href=\"http://rioxx.net/\">RIOXX metadata application profile</a>; the <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=future+repositories\">Repositories of the Future</a> panel, organised by <a href=\"https://www.coar-repositories.org/\">COAR</a>, stressed on the importance of the role of aggregators in the repository environment specifically naming CORE; and the \u201cIdeas Challenge\u201d, a thought-provoking and brainstorming group exercise consisting of programmers and repository managers that focused on how to make the lives of academics easier, proposed CORE as a runner up for the development of a cross-repository journal and topic browse interface. Finally, CORE was also presented in the Jisc poster on \u201cJisc\u2019s Open Access Services\u201d.</p>\n<p>As a genuine open access, open data and open science supporter, CORE is also participating at the EU-funded Facilitate Open Science Training for European Research (<a href=\"https://www.fosteropenscience.eu/\">FOSTER</a>) project, which also presented a poster on the project\u2019s main activities, objectives and the e-learning platform. CORE has built the portal and the e-learning platform.</p>\n<p>The past week has been a good week for the CORE team. We met our old friends, made new ones, received precious feedback from the community for our services, but more importantly we realised that the CORE service is integral to the repositories community. So, stay tuned with us!<br /></p>\n<p>Related Links:</p><ul><li><a href=\"https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/\">CORE blog post link</a><br /></li></ul><br />",
+            "published": "2016-06-23T13:34:21+01:00",
+            "published_ts": 1466685261
+        },
+        "activity": {
+            "type": "link"
+        },
+        "rels": {
+            "canonical": "https://blog.kmi.open.ac.uk/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/"
+        },
+        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+    },
+    {
+        "source": "https://blog.kmi.open.ac.uk/kminews/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/",
+        "verified": true,
+        "verified_date": "2021-02-26T11:32:50+00:00",
+        "id": 1048026,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "",
+                "url": "https://blog.kmi.open.ac.uk/kminews/author/",
+                "photo": null
+            },
+            "url": "https://blog.kmi.open.ac.uk/kminews/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/",
+            "name": "CORE wins Best Poster Award at the Open Repositories Conference #OR2016",
+            "content": "<p>Last week, the CORE team attended the <a href=\"http://or2016.net/\">11th Annual Conference on Open Repositories</a>, an international conference addressed mainly to subject and institutional repository managers, focusing on open access, open data and open science tools, projects and services.</p>\n<p>At the conference the team had six submissions:</p>\n<p>1. A workshop presentation on \u201c<b>How can repositories support the text-mining of their content and why?</b>\u201d where Nancy Pontika explained the how repository managers should be supportive of text-mining practices and Petr Knoth described the technical requirements that can enable the text mining of repositories. In addition to that, the CORE team was the workshop organiser, as part of its involvement with the <a href=\"http://openminted.eu/\">OpenMinTeD</a> project, an EU-funded project on text and data mining. The workshop has been described in two blog posts, one hosted at the <a href=\"http://openminted.eu/1409-2/\">OpenMinTeD blog</a> (which includes all workshop presentations), and another <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">post</a> composed by Rebecca Sutton Koeser, a workshop participant.</p>\n<p>2. A full presentation on \u201c<b>Exploring Semantometrics: full text-based research evaluation for open repositories\u201d</b> by Petr Knoth. The presentation explored semantometrics, a new class of research evaluation metrics, which builds on the premise that full text is needed to assess the value of a publication. (Presentation available <a href=\"http://www.slideshare.net/petrknoth/semantometrics-towards-fulltextbased-research-evaluation\">here</a>.)</p>\n<p>3. A 24\u00d77 presentation on the \u201c<b>Implementation of the RIOXX metadata guidelines in the UK\u2019s repositories through a harvesting service</b>\u201d, where Matteo Cancellieri and Nancy Pontika described how the <a href=\"http://rioxx.net/\">RIOXX metadata guidelines</a> are now a new embedded feature in the CORE <a href=\"https://core.ac.uk/services#dashboard\">Repositories Dashboard</a>. (Presentation slides <a href=\"http://www.slideshare.net/NancyPontika/implementation-of-the-rioxx-metadata-guidelines-in-the-uks-repositories-through-a-harvesting-service\">here</a>.)</p>\n<p>4. &amp; 5. Two demo presentations during the Developer Track sessions. The first one was on \u201c<b>Mining Open Access Publications in CORE</b>\u201d, where Matteo Cancellieri demonstrated the new <a href=\"https://core.ac.uk/services#api\">CORE API</a> and the second was entitled \u201c<b>Oxford vs Cambridge Contest: Collecting Open Research Evaluation Metrics for University Ranking</b>\u201d where Petr Knoth used the traditional Oxford University vs Cambridge University contest to show how to freely gather and compare the research performance of universities. (The <a href=\"https://github.com/oacore\">code</a> for both demo presentations is on Github.)</p>\n<p>6. A poster on the \u201c<b>Integration of the IRUS-UK Statistics in the CORE Repositories Dashboard</b>\u201d, by Samuel Pearce and Nancy Pontika, which showed the process of embedding the existing <a href=\"http://www.irus.mimas.ac.uk/\">IRUS-UK</a> statistics service to the CORE <a href=\"https://core.ac.uk/services#dashboard\">Repositories Dashboard</a>. We were delighted also that our poster won the best poster award (yay!). We would like to thank all the conference participants who stopped by our poster, got the CORE freebies and voted for us! (You can access the poster <a href=\"https://figshare.com/articles/Integration_of_the_IRUS-UK_Statistics_in_the_CORE_Repositories_Dashboard/3407548\">here</a>.)</p>\n<p>Based on the fact that this conference has a clear focus on repository services and that the CORE service uses or is being used by these services, we were also extensively mentioned in other presentations as well. For example: <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=lantern\">Richard Jones</a> in his presentation on <a href=\"https://lantern.cottagelabs.com/docs\">Lantern</a> mentioned that the project is using the CORE API; <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=modern+metadata\">Paul Walk</a> described how CORE is using the <a href=\"http://rioxx.net/\">RIOXX metadata application profile</a>; the <a href=\"https://www.conftool.com/or2016/index.php?page=browseSessions&amp;search=future+repositories\">Repositories of the Future</a> panel, organised by <a href=\"https://www.coar-repositories.org/\">COAR</a>, stressed on the importance of the role of aggregators in the repository environment specifically naming CORE; and the \u201cIdeas Challenge\u201d, a thought-provoking and brainstorming group exercise consisting of programmers and repository managers that focused on how to make the lives of academics easier, proposed CORE as a runner up for the development of a cross-repository journal and topic browse interface. Finally, CORE was also presented in the Jisc poster on \u201cJisc\u2019s Open Access Services\u201d.</p>\n<p>As a genuine open access, open data and open science supporter, CORE is also participating at the EU-funded Facilitate Open Science Training for European Research (<a href=\"https://www.fosteropenscience.eu/\">FOSTER</a>) project, which also presented a poster on the project\u2019s main activities, objectives and the e-learning platform. CORE has built the portal and the e-learning platform.</p>\n<p>The past week has been a good week for the CORE team. We met our old friends, made new ones, received precious feedback from the community for our services, but more importantly we realised that the CORE service is integral to the repositories community. So, stay tuned with us!<br /></p>\n<p>Related Links:</p><ul><li><a href=\"https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/\">CORE blog post link</a><br /></li>\n</ul><br />\n<h3>Share this:</h3>\n<ul><li><a href=\"https://blog.kmi.open.ac.uk/kminews/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/?share=twitter\" title=\"Click to share on Twitter\"><span>Twitter</span></a></li>\n<li><a href=\"https://blog.kmi.open.ac.uk/kminews/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/?share=facebook\" title=\"Click to share on Facebook\"><span>Facebook</span></a></li>\n<li>\n</li></ul>",
+            "published": "2016-06-23T13:34:21+01:00",
+            "published_ts": 1466685261
+        },
+        "activity": {
+            "type": "link"
+        },
+        "rels": {
+            "canonical": "https://blog.kmi.open.ac.uk/kminews/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/"
+        },
+        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+    },
+    {
         "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1112864206053928960/79271706",
         "verified": true,
         "verified_date": "2019-04-02T18:19:20+00:00",
@@ -18,9 +96,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Matthew Lincoln favorited a tweet https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/",
-            "sentence_html": "<a href=\"https://twitter.com/matthewdlincoln\">Matthew Lincoln</a> favorited a tweet <a href=\"https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/\">https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/</a>"
+            "type": "like"
         },
         "target": "https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/"
     },
@@ -43,9 +119,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Hannah favorited a tweet https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/",
-            "sentence_html": "<a href=\"https://twitter.com/story645\">Hannah</a> favorited a tweet <a href=\"https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/\">https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/</a>"
+            "type": "like"
         },
         "target": "https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/"
     },
@@ -68,9 +142,7 @@
             "published_ts": 1487949242
         },
         "activity": {
-            "type": "link",
-            "sentence": "Mia R posted 'What problems does IIIF solve for developers and GLAM collections? Useful notes ...' linking to https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279\">Mia R</a> posted 'What problems does IIIF solve for developers and GLAM collections? Useful notes ...' linking to <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "link"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -93,9 +165,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Eliza Bettinger favorited a tweet https://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/ElizaBettinger\">Eliza Bettinger</a> favorited a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/mining-repositories/\">https://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -118,9 +188,7 @@
             "published_ts": 1465876368
         },
         "activity": {
-            "type": "repost",
-            "sentence": "dh+lib retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://acrl.ala.org/dh/\">dh+lib</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -143,9 +211,7 @@
             "published_ts": 1465910999
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -168,9 +234,7 @@
             "published_ts": 1465992670
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Disruptive Librarian retweeted a tweet https://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://www.linkedin.com/pub/jo%C3%ABlle-sciboz/13/a76/b58\">Disruptive Librarian</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/mining-repositories/\">https://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -193,9 +257,7 @@
             "published_ts": 1465894890
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Jon Stroop retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpstroop\">Jon Stroop</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -218,9 +280,7 @@
             "published_ts": 1465911017
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet https://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/mining-repositories/\">https://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -243,9 +303,7 @@
             "published_ts": 1465901748
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Emmanuelle Morlock retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.hisoma.mom.fr/recherche-et-activites/actu-humanites-numeriques/liste-fils\">Emmanuelle Morlock</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -268,9 +326,7 @@
             "published_ts": 1465909539
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Kiyonori Nagasaki retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.dhii.jp/nagasaki/\">Kiyonori Nagasaki</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -293,9 +349,7 @@
             "published_ts": 1465900080
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Rob Sanderson retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://getty.edu\">Rob Sanderson</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -318,9 +372,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Allison Brown favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/Initiatives_lib\">Allison Brown</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -343,9 +395,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Jesse P. Karlsberg favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpkarlsberg\">Jesse P. Karlsberg</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -363,9 +413,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "link",
-            "sentence": "https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/ posted '' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/\">someone</a> posted '' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "link"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -388,9 +436,7 @@
             "published_ts": 1466004859
         },
         "activity": {
-            "type": "link",
-            "sentence": "DuraSpace Community posted '@suttonkoeser on mining repositories\u20131.5M sci articles published per yr mostly r...' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://DuraSpace.org\">DuraSpace Community</a> posted '@suttonkoeser on mining repositories\u20131.5M sci articles published per yr mostly r...' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "link"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -413,9 +459,7 @@
             "published_ts": 1465998388
         },
         "activity": {
-            "type": "link",
-            "sentence": "Ricard de la Vega posted 'rlskoeser.github.io/2016/06/13/min\u2026' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://about.me/ricard.delavega\">Ricard de la Vega</a> posted 'rlskoeser.github.io/2016/06/13/min\u2026' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "link"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -438,9 +482,7 @@
             "published_ts": 1465998191
         },
         "activity": {
-            "type": "link",
-            "sentence": "Petr Knoth posted 'Very well written blog post about @OpenMinTeD workshop on text and data mining r...' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://people.kmi.open.ac.uk/petr/\">Petr Knoth</a> posted 'Very well written blog post about @OpenMinTeD workshop on text and data mining r...' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "link"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -463,9 +505,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "OpenMinTeD favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/openminted_eu\">OpenMinTeD</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -488,9 +528,7 @@
             "published_ts": 1465994105
         },
         "activity": {
-            "type": "reply",
-            "sentence": "OpenMinTeD replied '@suttonkoeser @silikani Thanks for the notes on #openminted_eu workshop. The Ope...' to a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://www.openminted.eu\">OpenMinTeD</a> replied '@suttonkoeser @silikani Thanks for the notes on #openminted_eu workshop. The Ope...' to a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "reply"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -513,9 +551,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Gpredictive favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/Gpredictive\">Gpredictive</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -538,9 +574,7 @@
             "published_ts": 1465992670
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Jo\u00eblle retweeted a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://www.linkedin.com/pub/jo%C3%ABlle-sciboz/13/a76/b58\">Jo\u00eblle</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -563,9 +597,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Anna Naruta-Moya favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/AnnaNaruta\">Anna Naruta-Moya</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -588,9 +620,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Cole Hudson favorited a tweet http://rlskoeser.github.io/2016/06/08/diskimage-ingest/",
-            "sentence_html": "<a href=\"https://twitter.com/colehud\">Cole Hudson</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/08/diskimage-ingest/\">http://rlskoeser.github.io/2016/06/08/diskimage-ingest/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/08/diskimage-ingest/"
     },
@@ -613,9 +643,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Michael Duffy favorited a tweet http://rlskoeser.github.io/2016/06/08/diskimage-ingest/",
-            "sentence_html": "<a href=\"https://twitter.com/mjduff\">Michael Duffy</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/08/diskimage-ingest/\">http://rlskoeser.github.io/2016/06/08/diskimage-ingest/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/08/diskimage-ingest/"
     },
@@ -638,9 +666,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Pauline Data Ward favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/PaulineDataWard\">Pauline Data Ward</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -663,9 +689,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Pauline Data Ward favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/PaulineDataWard\">Pauline Data Ward</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -688,9 +712,7 @@
             "published_ts": 1465911017
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -713,9 +735,7 @@
             "published_ts": 1465910999
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -738,9 +758,7 @@
             "published_ts": 1465909539
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Kiyonori Nagasaki retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.dhii.jp/nagasaki/\">Kiyonori Nagasaki</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -763,9 +781,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Alexandra Provo favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/AlexandraAlisa\">Alexandra Provo</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -788,9 +804,7 @@
             "published_ts": 1465901748
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Emmanuelle Morlock retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.hisoma.mom.fr/recherche-et-activites/actu-humanites-numeriques/liste-fils\">Emmanuelle Morlock</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -813,9 +827,7 @@
             "published_ts": 1465900080
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Rob Sanderson retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://getty.edu\">Rob Sanderson</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -838,9 +850,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "nish favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/nish_ku\">nish</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -863,9 +873,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Jon Stroop favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpstroop\">Jon Stroop</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -888,9 +896,7 @@
             "published_ts": 1465894890
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Jon Stroop retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpstroop\">Jon Stroop</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -913,9 +919,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Valentine CHARLES favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/valentinec89\">Valentine CHARLES</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -938,9 +942,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "G.S. Hukill favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/gshukill\">G.S. Hukill</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -963,9 +965,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Ryer Banta favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/RyerBanta\">Ryer Banta</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -988,9 +988,7 @@
             "published_ts": 1465876368
         },
         "activity": {
-            "type": "repost",
-            "sentence": "dh+lib retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://acrl.ala.org/dh/\">dh+lib</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -1013,9 +1011,7 @@
             "published_ts": 1465856984
         },
         "activity": {
-            "type": "reply",
-            "sentence": "Cole Hudson replied '@suttonkoeser thanks for the #IIIF notes. Can't wait for the Auth mechanism to d...' to a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://colehudson.org\">Cole Hudson</a> replied '@suttonkoeser thanks for the #IIIF notes. Can't wait for the Auth mechanism to d...' to a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "reply"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -1038,9 +1034,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Cole Hudson favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/colehud\">Cole Hudson</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
     },
@@ -1063,9 +1057,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Cole Hudson favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/colehud\">Cole Hudson</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
     },
@@ -1088,9 +1080,7 @@
             "published_ts": 1463759019
         },
         "activity": {
-            "type": "reply",
-            "sentence": "Checkmention XSS test commented 'Clicking this should not cause an alert. This div should not alert. Try clicking...' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://checkmention.appspot.com/\">Checkmention XSS test</a> commented 'Clicking this should not cause an alert. This div should not alert. Try clicking...' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "reply"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1113,9 +1103,7 @@
             "published_ts": 1463759019
         },
         "activity": {
-            "type": "reply",
-            "sentence": "Jonathan Ive commented 'I love the way your site looks, though I'm not really the Jony Ive. How easy is ...' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://www.apple.com/pr/bios/jonathan-ive.html\">Jonathan Ive</a> commented 'I love the way your site looks, though I'm not really the Jony Ive. How easy is ...' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "reply"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1138,9 +1126,7 @@
             "published_ts": 1463759019
         },
         "activity": {
-            "type": "reply",
-            "sentence": "Checkmention commented '' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://checkmention.appspot.com/\">Checkmention</a> commented '' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "reply"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1163,9 +1149,7 @@
             "published_ts": 1463759019
         },
         "activity": {
-            "type": "reply",
-            "sentence": "Does clicking me alert? commented '' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/hcardxss\">Does clicking me alert?</a> commented '' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "reply"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1188,9 +1172,7 @@
             "published_ts": 1454015707
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Tod Robbins retweeted a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"http://todrobbins.com\">Tod Robbins</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1213,9 +1195,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Winona Salesky favorited a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://twitter.com/wsalesky\">Winona Salesky</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1238,9 +1218,7 @@
             "published_ts": 1453923257
         },
         "activity": {
-            "type": "repost",
-            "sentence": "David McClure retweeted a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"http://dclure.org\">David McClure</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1263,9 +1241,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Tod Robbins favorited a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://twitter.com/todrobbins\">Tod Robbins</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1288,9 +1264,7 @@
             "published_ts": 1454085037
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Ryan Baumann retweeted a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://ryanfb.github.io/\">Ryan Baumann</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "repost"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     },
@@ -1313,9 +1287,7 @@
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Raffaele Messuti favorited a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://twitter.com/atomotic\">Raffaele Messuti</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
+            "type": "like"
         },
         "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
     }

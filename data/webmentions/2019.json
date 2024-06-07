@@ -1,9 +1,446 @@
 [
     {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1112864206053928960/79271706",
+        "source": "https://brid.gy/like/twitter/suttonkoeser/1457838564599795714/2745952700",
         "verified": true,
-        "verified_date": "2019-04-02T18:19:20+00:00",
-        "id": 603911,
+        "verified_date": "2021-11-09T21:00:39+00:00",
+        "id": 1303009,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Gissoo Doroudian",
+                "url": "https://twitter.com/GissooDor",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/e7e14447ead0a714b59423ce05263bdff538e0b00b575b044b10a1e473b78a0d.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1457838564599795714#favorited-by-2745952700",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid.gy/like/twitter/suttonkoeser/1457838564599795714/316145216",
+        "verified": true,
+        "verified_date": "2021-11-09T14:02:35+00:00",
+        "id": 1302876,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Hector Correa",
+                "url": "https://twitter.com/hectorjcorrea",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/bae29a8e457bd0c91ed3ab0f7a68dbf10684b17f1fcafc735e3606b62dbdcbff.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1457838564599795714#favorited-by-316145216",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid.gy/comment/twitter/suttonkoeser/1457838564599795714/1457854921861042176",
+        "verified": true,
+        "verified_date": "2021-11-09T14:02:34+00:00",
+        "id": 1302875,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Miriam Posner",
+                "url": "https://twitter.com/miriamkp",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/02565364c2ae526b0688596541479287d02b1dda6b16d2462d4765c0db008a48.jpg"
+            },
+            "url": "https://twitter.com/miriamkp/status/1457854921861042176",
+            "name": null,
+            "content": "Thank you so much, Rebecca! Looking forward to reading!\n<a class=\"u-mention\" href=\"http://rlskoeser.github.io/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/logic_magazine\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/mmvty\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/suttonkoeser\"></a>",
+            "published": "2021-11-08T23:37:53+00:00",
+            "published_ts": 1636414673
+        },
+        "activity": {
+            "type": "reply"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid.gy/repost/twitter/suttonkoeser/1457838564599795714/1457871465932541952",
+        "verified": true,
+        "verified_date": "2021-11-09T14:02:07+00:00",
+        "id": 1302874,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Sheila Morrissey",
+                "url": "https://twitter.com/sheilaMorr",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/74765f2d9eb1ba1a70db0053687667248a167593520b371e24f9109671fcddbf.jpg"
+            },
+            "url": "https://twitter.com/sheilaMorr/status/1457871465932541952",
+            "name": null,
+            "content": "It\u2019s true, I do! \nSome of those thoughts are written up here: rlskoeser.github.io/2019/07/26/bes\u2026 \n@miriamkp LMK if you want to chat",
+            "published": "2021-11-09T00:43:38+00:00",
+            "published_ts": 1636418618
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid.gy/like/twitter/suttonkoeser/1457838564599795714/1132166625078194176",
+        "verified": true,
+        "verified_date": "2021-11-09T14:02:06+00:00",
+        "id": 1302872,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Nicole High-Steskal",
+                "url": "https://twitter.com/NicoleMHigh",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/6b004ef00625984189c215b44b580d2ba98409fb8234b4efdf6c398c85b07ea9.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1457838564599795714#favorited-by-1132166625078194176",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid.gy/like/twitter/suttonkoeser/1457838564599795714/56812711",
+        "verified": true,
+        "verified_date": "2021-11-09T14:02:06+00:00",
+        "id": 1302873,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Miriam Posner",
+                "url": "https://twitter.com/miriamkp",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/02565364c2ae526b0688596541479287d02b1dda6b16d2462d4765c0db008a48.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1457838564599795714#favorited-by-56812711",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid.gy/like/twitter/suttonkoeser/1457838564599795714/577287055",
+        "verified": true,
+        "verified_date": "2021-11-09T14:02:05+00:00",
+        "id": 1302870,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Lavasocks",
+                "url": "https://twitter.com/ImNickHuber",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/e66a5d9d193d2f0d7523de5070e3f02254b0d30ebc7752eb634afe8ebab6bdd6.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1457838564599795714#favorited-by-577287055",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid.gy/like/twitter/suttonkoeser/1457838564599795714/304822355",
+        "verified": true,
+        "verified_date": "2021-11-09T14:02:06+00:00",
+        "id": 1302871,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Meredith Martin",
+                "url": "https://twitter.com/mmvty",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0fd45f696d5790bd94cecfed8363005318212684d1cad2ae56b31d6fea30ae08.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1457838564599795714#favorited-by-304822355",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214560663516766210/1031606828",
+        "verified": true,
+        "verified_date": "2020-01-07T17:50:20+00:00",
+        "id": 742254,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Nora Benedict",
+                "url": "https://twitter.com/NoraCBenedict",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f27b4f0cf35ee4d7af056ab537f88de364ee0b422d5685db97d6305ebf734fcb.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214560663516766210#favorited-by-1031606828",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214560663516766210/104894644",
+        "verified": true,
+        "verified_date": "2020-01-07T17:50:11+00:00",
+        "id": 742253,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Shawn Graham",
+                "url": "https://twitter.com/electricarchaeo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/314d966b49202119c5947035e8d401587e84f2ddbac99daaf5996d0f764dd0a1.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214560663516766210#favorited-by-104894644",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/comment/twitter/suttonkoeser/1214560663516766210/1214562918211055616",
+        "verified": true,
+        "verified_date": "2020-01-07T17:50:00+00:00",
+        "id": 742252,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Nora Benedict",
+                "url": "https://twitter.com/NoraCBenedict",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f27b4f0cf35ee4d7af056ab537f88de364ee0b422d5685db97d6305ebf734fcb.jpg"
+            },
+            "url": "https://twitter.com/NoraCBenedict/status/1214562918211055616",
+            "name": null,
+            "content": "Not quite as funky as this, but I still stand by my assessment \ud83d\udd7a\ud83c\udffb\ud83d\ude4c\ud83c\udffb\u2728\n<a href=\"https://youtu.be/gsJ4pALlbEM\">youtu.be/gsJ4pALlbEM</a>\n\n<a class=\"u-mention\" href=\"http://rlskoeser.github.io/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/suttonkoeser\"></a>",
+            "published": "2020-01-07T15:02:19+00:00",
+            "published_ts": 1578409339
+        },
+        "activity": {
+            "type": "reply"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1214261702189109249/1214262212195495936",
+        "verified": true,
+        "verified_date": "2020-01-07T11:40:27+00:00",
+        "id": 742127,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "The Bot and the Sovereign",
+                "url": "https://twitter.com/ofgrambotology",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/928bc1239774c7ec635ff761fb51cb49efc80e036e574f97b96ce06cdf998a8b.jpg"
+            },
+            "url": "https://twitter.com/ofgrambotology/status/1214262212195495936",
+            "name": null,
+            "content": "I wrote up an old experiment: data sonification of reference data from Derrida\u2019s Margins, based on the @ProgHist tutorial by @electricarchae",
+            "published": "2020-01-06T19:07:25+00:00",
+            "published_ts": 1578337645
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1214261702189109249/1214274451157716993",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:31+00:00",
+        "id": 742124,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Meredith Martin",
+                "url": "https://twitter.com/mmvty",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0fd45f696d5790bd94cecfed8363005318212684d1cad2ae56b31d6fea30ae08.png"
+            },
+            "url": "https://twitter.com/mmvty/status/1214274451157716993",
+            "name": null,
+            "content": "I wrote up an old experiment: data sonification of reference data from Derrida\u2019s Margins, based on the @ProgHist tutorial by @electricarchae",
+            "published": "2020-01-06T19:56:03+00:00",
+            "published_ts": 1578340563
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1214261702189109249/1214262239143874560",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:31+00:00",
+        "id": 742125,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Shawn Graham",
+                "url": "https://twitter.com/electricarchaeo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/314d966b49202119c5947035e8d401587e84f2ddbac99daaf5996d0f764dd0a1.jpg"
+            },
+            "url": "https://twitter.com/electricarchaeo/status/1214262239143874560",
+            "name": null,
+            "content": "I wrote up an old experiment: data sonification of reference data from Derrida\u2019s Margins, based on the @ProgHist tutorial by @electricarchae",
+            "published": "2020-01-06T19:07:32+00:00",
+            "published_ts": 1578337652
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1214261702189109249/1214316559918866438",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:30+00:00",
+        "id": 742122,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Albert Mero\u00f1o",
+                "url": "https://twitter.com/albertmeronyo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/89c847e3751f472fb0e38c01624ffccf5b29a9e69f0e5570e70f9eeb6c15e2d0.jpg"
+            },
+            "url": "https://twitter.com/albertmeronyo/status/1214316559918866438",
+            "name": null,
+            "content": "I wrote up an old experiment: data sonification of reference data from Derrida\u2019s Margins, based on the @ProgHist tutorial by @electricarchae",
+            "published": "2020-01-06T22:43:23+00:00",
+            "published_ts": 1578350603
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1214261702189109249/1214279432413822976",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:30+00:00",
+        "id": 742123,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "ProgrammingHistorian",
+                "url": "https://twitter.com/ProgHist",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/caf6bf349ef6ff8274b75308b32cfd496b86455d28a9abad32079885da441e93.jpg"
+            },
+            "url": "https://twitter.com/ProgHist/status/1214279432413822976",
+            "name": null,
+            "content": "I wrote up an old experiment: data sonification of reference data from Derrida\u2019s Margins, based on the @ProgHist tutorial by @electricarchae",
+            "published": "2020-01-06T20:15:51+00:00",
+            "published_ts": 1578341751
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/949322336972374018",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:29+00:00",
+        "id": 742120,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Cristina Wood",
+                "url": "https://twitter.com/cristina__wood",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/2a9d9655777f3d222600e3bd6816d5abd1f72cd24d4703a986b7a9a84133febf.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-949322336972374018",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/104894644",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:29+00:00",
+        "id": 742121,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Shawn Graham",
+                "url": "https://twitter.com/electricarchaeo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/314d966b49202119c5947035e8d401587e84f2ddbac99daaf5996d0f764dd0a1.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-104894644",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/304822355",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:27+00:00",
+        "id": 742118,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Meredith Martin",
+                "url": "https://twitter.com/mmvty",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0fd45f696d5790bd94cecfed8363005318212684d1cad2ae56b31d6fea30ae08.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-304822355",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/79271706",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:27+00:00",
+        "id": 742119,
         "private": false,
         "data": {
             "author": {
@@ -11,24 +448,114 @@
                 "url": "https://twitter.com/matthewdlincoln",
                 "photo": "https://webmention.io/avatar/pbs.twimg.com/4ff4ff7f5afe67a7e4b9e86282fb2684e04e09a6afa5af733d400b27c5a9da5b.jpg"
             },
-            "url": "https://twitter.com/suttonkoeser/status/1112864206053928960#favorited-by-79271706",
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-79271706",
             "name": null,
             "content": null,
             "published": null,
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Matthew Lincoln favorited a tweet https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/",
-            "sentence_html": "<a href=\"https://twitter.com/matthewdlincoln\">Matthew Lincoln</a> favorited a tweet <a href=\"https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/\">https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/</a>"
+            "type": "like"
         },
-        "target": "https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/"
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
     },
     {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1112864206053928960/2174482088",
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/254865613",
         "verified": true,
-        "verified_date": "2019-04-02T01:21:40+00:00",
-        "id": 603735,
+        "verified_date": "2020-01-07T11:36:25+00:00",
+        "id": 742116,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Alex Wermer-Colan",
+                "url": "https://twitter.com/AlexWermerColan",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/06b4aaa9ff9367b4794fcc4978f95e861cc434c0f1d9d60077020bec9c7b0c5c.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-254865613",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/14858158",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:26+00:00",
+        "id": 742117,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Andrew Reinhard",
+                "url": "https://twitter.com/adreinhard",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/28b06255414d381b0f1890ab97c5be5b9e3b9c6b08347ef6e8359c4b6333981c.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-14858158",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/65399835",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:24+00:00",
+        "id": 742115,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Jonathan Basile",
+                "url": "https://twitter.com/jonothingEB",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/af5cb8e75279a733f41f32b192087ae50b088ab79b26018f417cb64560c64977.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-65399835",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/35063411",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:23+00:00",
+        "id": 742114,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Laura Wrubel",
+                "url": "https://twitter.com/liblaura",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/fee6387e9ea1de8f4137ff967d7f7c1d2d69268901cbe879f35d270deb8eb938.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-35063411",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/2174482088",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:22+00:00",
+        "id": 742113,
         "private": false,
         "data": {
             "author": {
@@ -36,1287 +563,989 @@
                 "url": "https://twitter.com/story645",
                 "photo": "https://webmention.io/avatar/pbs.twimg.com/259b32f4d76af9bffdd301277c40c622ef473c3f5898f2c1d19a7a31dfa3d999.jpg"
             },
-            "url": "https://twitter.com/suttonkoeser/status/1112864206053928960#favorited-by-2174482088",
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-2174482088",
             "name": null,
             "content": null,
             "published": null,
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Hannah favorited a tweet https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/",
-            "sentence_html": "<a href=\"https://twitter.com/story645\">Hannah</a> favorited a tweet <a href=\"https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/\">https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/</a>"
+            "type": "like"
         },
-        "target": "https://rlskoeser.github.io/2016/03/31/migrating-data-between-databases-with-django/"
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
     },
     {
-        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/835145772068909056",
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/157802323",
         "verified": true,
-        "verified_date": "2017-02-24T23:55:45+00:00",
-        "id": 424783,
+        "verified_date": "2020-01-07T11:36:21+00:00",
+        "id": 742111,
         "private": false,
         "data": {
             "author": {
-                "name": "Mia R",
-                "url": "http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279",
+                "name": "Vanessa",
+                "url": "https://twitter.com/vsoch",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/d8ddc4c1f4f4f97a36935846a56ddc1704267d2fb2e573585ae376038af40d53.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-157802323",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/265029238",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:22+00:00",
+        "id": 742112,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Lukas Fuchsgruber",
+                "url": "https://twitter.com/feedgruber",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/5bb99f4f125a5e6dd5f473391fe95d35e31bf374ce7ef639c560685392e2a0e8.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-265029238",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/262329406",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:19+00:00",
+        "id": 742109,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Dr. Sam Blickhan",
+                "url": "https://twitter.com/snblickhan",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/79da4927862291508d057016d53fd81b5721d7b00e9adaa5339c9c9e63b47b49.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-262329406",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/43323995",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:20+00:00",
+        "id": 742110,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Albert Mero\u00f1o",
+                "url": "https://twitter.com/albertmeronyo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/89c847e3751f472fb0e38c01624ffccf5b29a9e69f0e5570e70f9eeb6c15e2d0.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-43323995",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/comment/twitter/suttonkoeser/1214261702189109249/1214287885417033728",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:18+00:00",
+        "id": 742108,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Shawn Graham",
+                "url": "https://twitter.com/electricarchaeo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/314d966b49202119c5947035e8d401587e84f2ddbac99daaf5996d0f764dd0a1.jpg"
+            },
+            "url": "https://twitter.com/electricarchaeo/status/1214287885417033728",
+            "name": null,
+            "content": "that'd be very cool; <a href=\"https://twitter.com/samaaron\">@samaaron</a>'s sonic pi is ripe with possibilities for data sonifications that are actually good music too ;)\n<a class=\"u-mention\" href=\"http://rlskoeser.github.io/\"></a>\n<a class=\"u-mention\" href=\"https://programminghistorian.org/en/lessons/sonification\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ProgHist\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/adreinhard\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/suttonkoeser\"></a>",
+            "published": "2020-01-06T20:49:26+00:00",
+            "published_ts": 1578343766
+        },
+        "activity": {
+            "type": "reply"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1214261702189109249/136072898",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:18+00:00",
+        "id": 742107,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Samuel Van Ransbeeck",
+                "url": "https://twitter.com/Thinksamuel",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/6e13f3d7c9e05bd81d06ecbe916a10cf6517990df3d639dcd9ba82e80a96168e.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214261702189109249#favorited-by-136072898",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/comment/twitter/suttonkoeser/1214261702189109249/1214273750524420101",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:16+00:00",
+        "id": 742106,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Shawn Graham",
+                "url": "https://twitter.com/electricarchaeo",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/314d966b49202119c5947035e8d401587e84f2ddbac99daaf5996d0f764dd0a1.jpg"
+            },
+            "url": "https://twitter.com/electricarchaeo/status/1214273750524420101",
+            "name": null,
+            "content": "this is awesome; thank you for sharing! 'cheesy 70s detective show' - ha, i totally can hear that. hey <a href=\"https://twitter.com/adreinhard\">@adreinhard</a> check it out...\n<a class=\"u-mention\" href=\"http://rlskoeser.github.io/\"></a>\n<a class=\"u-mention\" href=\"https://programminghistorian.org/en/lessons/sonification\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ProgHist\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/suttonkoeser\"></a>",
+            "published": "2020-01-06T19:53:16+00:00",
+            "published_ts": 1578340396
+        },
+        "activity": {
+            "type": "reply"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/comment/twitter/suttonkoeser/1214261702189109249/1214278363734515713",
+        "verified": true,
+        "verified_date": "2020-01-07T11:36:16+00:00",
+        "id": 742105,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Rebecca Sutton Koeser",
+                "url": "https://twitter.com/suttonkoeser",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/631229061f47d4b19f8aa84d0003df55fa8e36dbf889b6ed00a0b99d891256a2.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1214278363734515713",
+            "name": null,
+            "content": "Thank you for the great tutorial! I've been wanting to try out your updated version and experiment more with Sonic Pi...\n<a class=\"u-mention\" href=\"https://programminghistorian.org/en/lessons/sonification\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/ProgHist\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/adreinhard\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/electricarchaeo\"></a>",
+            "published": "2020-01-06T20:11:36+00:00",
+            "published_ts": 1578341496
+        },
+        "activity": {
+            "type": "reply"
+        },
+        "target": "https://rlskoeser.github.io/2019/12/30/sonifying-derridas-references/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1172417140516773889",
+        "verified": true,
+        "verified_date": "2019-09-19T02:30:43+00:00",
+        "id": 694229,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "ACDH",
+                "url": "https://twitter.com/ACDH_OeAW",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/c5cc4986e4a4822f50fdcc58a5807a1b4c71d917979421f6b45a0766d6ef5d09.jpg"
+            },
+            "url": "https://twitter.com/ACDH_OeAW/status/1172417140516773889",
+            "name": null,
+            "content": "This <a href=\"https://twitter.com/search?q=%23FemaleFollowFriday\">#FemaleFollowFriday</a>, meet coder <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> , <a href=\"https://twitter.com/PrincetonDH\">@PrincetonDH</a> lead developer, <a href=\"https://twitter.com/ProsodyArchive\">@ProsodyArchive</a> tech lead, and author of the \u201c<a href=\"https://twitter.com/search?q=%23DH\">#DH</a> origin story\u201d \u201cStill speaking in Code\u201d! <a href=\"https://twitter.com/search?q=%23womeninDH\">#womeninDH</a> <a href=\"https://rlskoeser.github.io/2019/08/23/still-speaking-code/\">rlskoeser.github.io/2019/08/23/sti\u2026</a>",
+            "published": "2019-09-13T07:50:03+00:00",
+            "published_ts": 1568361003
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1165006917523124224/24012732",
+        "verified": true,
+        "verified_date": "2019-08-24T15:34:36+00:00",
+        "id": 675294,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Jaimie Murdock",
+                "url": "https://twitter.com/JaimieMurdock",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/cb300ad6276c988922b3adb608540d464de8362b80a128acd26020d05db2dea1.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1165006917523124224#favorited-by-24012732",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1165006917523124224/121705877",
+        "verified": true,
+        "verified_date": "2019-08-24T15:00:18+00:00",
+        "id": 675272,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Liviu Pop",
+                "url": "https://twitter.com/liviu_pop",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0cf3298c028d309d96e786e8b50426e2f16e5df7a96daaef145a50f357b9d1de.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1165006917523124224#favorited-by-121705877",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1165006917523124224/442886822",
+        "verified": true,
+        "verified_date": "2019-08-24T09:31:10+00:00",
+        "id": 675096,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Patrick J. Burns",
+                "url": "https://twitter.com/diyclassics",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/7db34e1dc9800673ec74efd49392fc9f9b1f1fd91322c671db27dec00dd566fb.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1165006917523124224#favorited-by-442886822",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1164992792873046016/9901482",
+        "verified": true,
+        "verified_date": "2019-08-24T07:21:45+00:00",
+        "id": 675049,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Mark C Marino",
+                "url": "https://twitter.com/markcmarino",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/d50eafed91df447018f4d912982306b68304b6035882bb2cc3c948be3488819d.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1164992792873046016#favorited-by-9901482",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/comment/twitter/suttonkoeser/1165006917523124224/1165072142729433088",
+        "verified": true,
+        "verified_date": "2019-08-24T01:33:53+00:00",
+        "id": 674937,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Bethany Nowviskie",
+                "url": "https://twitter.com/nowviskie",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/b1ef43e01a2c28a278ca65adeae222b2658b7041b1dc8f651ab2981e9cffe7b7.jpg"
+            },
+            "url": "https://twitter.com/nowviskie/status/1165072142729433088",
+            "name": null,
+            "content": "Thanks for making sure I didn\u2019t miss this! Really wonderful, and well worth the wait. <a href=\"https://twitter.com/search?q=%23codespeak\">#codespeak</a>\n<a class=\"u-mention\" href=\"http://rlskoeser.github.io/\">Rebecca Sutton Koeser</a>\n<a class=\"u-mention\" href=\"https://cdh.princeton.edu/updates/2019/08/23/still-speaking-code/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/PrincetonDH\">The Center for Digital Humanities at Princeton</a>\n<a class=\"u-mention\" href=\"https://twitter.com/scholarslab\">scholarslab</a>\n<a class=\"u-mention\" href=\"https://twitter.com/suttonkoeser\">Rebecca Sutton Koeser</a>",
+            "published": "2019-08-24T01:23:39+00:00",
+            "published_ts": 1566609819
+        },
+        "activity": {
+            "type": "reply"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://us-rse.org/blog/2019/rsk/still-speaking-code/",
+        "verified": true,
+        "verified_date": "2019-08-24T01:03:01+00:00",
+        "id": 674926,
+        "private": false,
+        "data": {
+            "url": "https://us-rse.org/blog/2019/rsk/still-speaking-code/",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://cdh.princeton.edu/updates/2019/08/23/still-speaking-code/",
+        "verified": true,
+        "verified_date": "2019-08-24T01:00:23+00:00",
+        "id": 674925,
+        "private": false,
+        "data": {
+            "url": "https://cdh.princeton.edu/updates/2019/08/23/still-speaking-code/",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1165017575765544960",
+        "verified": true,
+        "verified_date": "2019-08-23T21:56:31+00:00",
+        "id": 674852,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Jennifer Serventi",
+                "url": "https://twitter.com/JenServenti",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f4749ae2b399f90515b63aaf764dcde28b68528cfaa78e0a4da819d712dae919.jpg"
+            },
+            "url": "https://twitter.com/JenServenti/status/1165017575765544960",
+            "name": null,
+            "content": "I love this digital humanities \"origin story\" from such an active and thoughtful member of the community.  <a href=\"https://twitter.com/search?q=%23DHOriginStory\">#DHOriginStory</a>\n<a class=\"u-mention\" href=\"https://rlskoeser.github.io/2019/08/23/still-speaking-code/\"></a>",
+            "published": "2019-08-23T21:46:49+00:00",
+            "published_ts": 1566596809
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1164992792873046016/15842692",
+        "verified": true,
+        "verified_date": "2019-08-23T20:56:52+00:00",
+        "id": 674835,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Jennifer Serventi",
+                "url": "https://twitter.com/JenServenti",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f4749ae2b399f90515b63aaf764dcde28b68528cfaa78e0a4da819d712dae919.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1164992792873046016#favorited-by-15842692",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1164992792873046016/112610515",
+        "verified": true,
+        "verified_date": "2019-08-23T20:56:49+00:00",
+        "id": 674834,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Ted Underwood",
+                "url": "https://twitter.com/Ted_Underwood",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/2768ca65134d68937e5a379c599579b8cc4cc4d86e5625b453ab603619f6cd94.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1164992792873046016#favorited-by-112610515",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1164992792873046016/183223406",
+        "verified": true,
+        "verified_date": "2019-08-23T20:56:39+00:00",
+        "id": 674833,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Kent Emerson",
+                "url": "https://twitter.com/kentemerson",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/88fe19f40bf1cf5f0c7385b17143a1e540c93917d9ab58f859f07edb88e783b2.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1164992792873046016#favorited-by-183223406",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/08/23/still-speaking-code/"
+    },
+    {
+        "source": "https://cdh.princeton.edu/updates/2019/07/29/best-practices/",
+        "verified": true,
+        "verified_date": "2019-07-29T20:07:05+00:00",
+        "id": 657456,
+        "private": false,
+        "data": {
+            "url": "https://cdh.princeton.edu/updates/2019/07/29/best-practices/",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/439363599",
+        "verified": true,
+        "verified_date": "2019-07-27T10:14:19+00:00",
+        "id": 655972,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Ashley Champagne",
+                "url": "https://twitter.com/ashleymchamp",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/d872bad315d1d7e760fcea0eb587730f08fec966642b27cc29968d96a8a43e94.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-439363599",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/2745952700",
+        "verified": true,
+        "verified_date": "2019-07-26T19:28:44+00:00",
+        "id": 655469,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Gissoo Doroudian",
+                "url": "https://twitter.com/GissooDor",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/2a4ea8049a68a4180e8937b65b60b9867e89d49eac8fe105c92dce3065719e93.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-2745952700",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1154824646056906757",
+        "verified": true,
+        "verified_date": "2019-07-26T18:53:48+00:00",
+        "id": 655453,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Gissoo Doroudian",
+                "url": "https://twitter.com/GissooDor",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/2a4ea8049a68a4180e8937b65b60b9867e89d49eac8fe105c92dce3065719e93.jpg"
+            },
+            "url": "https://twitter.com/GissooDor/status/1154824646056906757",
+            "name": null,
+            "content": "<a href=\"https://twitter.com/search?q=%23SI5\">#SI5</a> <a href=\"https://twitter.com/search?q=%23ACH2019\">#ACH2019</a> the talk: <a href=\"https://rlskoeser.github.io/2019/07/26/best-practices/\">rlskoeser.github.io/2019/07/26/bes\u2026</a> by <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> invites the fact that collaborative, goal-oriented, systematic, contextual, language-specific workflows are essential to reaching shared goals, i.e. a shared language among team members.",
+            "published": "2019-07-26T18:43:45+00:00",
+            "published_ts": 1564166625
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/304822355",
+        "verified": true,
+        "verified_date": "2019-07-26T17:36:32+00:00",
+        "id": 655401,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Meredith Martin",
+                "url": "https://twitter.com/mmvty",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0fd45f696d5790bd94cecfed8363005318212684d1cad2ae56b31d6fea30ae08.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-304822355",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/597825672",
+        "verified": true,
+        "verified_date": "2019-07-26T16:11:34+00:00",
+        "id": 655335,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Francesca Giannetti",
+                "url": "https://twitter.com/jo_frankie",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/fb045a209d987eecb965d912cbf74c189ae62a743a7249a6af9b155ca5a04990.png"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-597825672",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/1031606828",
+        "verified": true,
+        "verified_date": "2019-07-26T15:12:55+00:00",
+        "id": 655294,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Nora Benedict",
+                "url": "https://twitter.com/NoraCBenedict",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f27b4f0cf35ee4d7af056ab537f88de364ee0b422d5685db97d6305ebf734fcb.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-1031606828",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1154764679526395904",
+        "verified": true,
+        "verified_date": "2019-07-26T15:12:52+00:00",
+        "id": 655293,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Dr Mia Ridge",
+                "url": "https://twitter.com/mia_out",
                 "photo": "https://webmention.io/avatar/pbs.twimg.com/a44dfb13f5e8303fb7b56755cec88e9e280d77ebfe18cffd371b680dbb467bc4.jpeg"
             },
-            "url": "https://twitter.com/mia_out/status/835145772068909056",
+            "url": "https://twitter.com/mia_out/status/1154764679526395904",
             "name": null,
-            "content": "What problems does IIIF solve for developers and GLAM collections? Useful notes from a IIIF event from <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">rlskoeser.github.io/2016/06/13/int\u2026</a>",
-            "published": "2017-02-24T15:14:02+00:00",
-            "published_ts": 1487949242
+            "content": "Love this thoughtful talk on best practices for software development in digital humanities, issues with 'minimum viable products' in research projects and more from <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> <a href=\"https://rlskoeser.github.io/2019/07/26/best-practices/\">rlskoeser.github.io/2019/07/26/bes\u2026</a> Also, thanks to the <a href=\"https://twitter.com/search?q=%23ACH2019\">#ACH2019</a> tweeters for sharing notes from the conference!",
+            "published": "2019-07-26T14:45:28+00:00",
+            "published_ts": 1564152328
         },
         "activity": {
-            "type": "link",
-            "sentence": "Mia R posted 'What problems does IIIF solve for developers and GLAM collections? Useful notes ...' linking to https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279\">Mia R</a> posted 'What problems does IIIF solve for developers and GLAM collections? Useful notes ...' linking to <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "link"
         },
-        "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480871274385408/211385979",
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/242410169",
         "verified": true,
-        "verified_date": "2016-10-23T19:11:52+00:00",
-        "id": 388912,
+        "verified_date": "2019-07-26T14:43:51+00:00",
+        "id": 655254,
         "private": false,
         "data": {
             "author": {
-                "name": "Eliza Bettinger",
-                "url": "https://twitter.com/ElizaBettinger",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/6c929cdce5ed5df420a970b5cb0f0b5593bd26fd14b1234c83eb276139fb1c1c.jpeg"
+                "name": "Lisa Marie Rhody",
+                "url": "https://twitter.com/lmrhody",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/79fe7c6cafb9b171caab504f5b42c6c99daf280d9cd25838a776ed714a926d5d.png"
             },
-            "url": "https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-211385979",
-            "name": "tag:twitter.com,2013:742480871274385408_favorited_by_211385979\n  \n  \n  \n  \n    Eliza Bettinger\n    \n\n  https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-211385979",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Eliza Bettinger favorited a tweet https://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/ElizaBettinger\">Eliza Bettinger</a> favorited a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/mining-repositories/\">https://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742565428216483841",
-        "verified": true,
-        "verified_date": "2016-10-01T13:02:28+00:00",
-        "id": 382868,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "dh+lib",
-                "url": "http://acrl.ala.org/dh/",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/cac1429ae3117f5ec94f750514181368a021df65067b9022961ca88499cacb5e.jpeg"
-            },
-            "url": "https://twitter.com/DHandLib/status/742565428216483841",
-            "name": null,
-            "content": "My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T03:52:48+00:00",
-            "published_ts": 1465876368
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "dh+lib retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://acrl.ala.org/dh/\">dh+lib</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742710677333106689",
-        "verified": true,
-        "verified_date": "2016-10-01T13:02:12+00:00",
-        "id": 382867,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Lynn Cunningham",
-                "url": "https://twitter.com/lynnDcunningham",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/eabcfe2c0126c3f2e55308accfc753900144eb97a2ca00d465499e29c16c4cc7.jpeg"
-            },
-            "url": "https://twitter.com/lynnDcunningham/status/742710677333106689",
-            "name": null,
-            "content": "My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T13:29:59+00:00",
-            "published_ts": 1465910999
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480871274385408/743053231178297344",
-        "verified": true,
-        "verified_date": "2016-10-01T13:01:58+00:00",
-        "id": 382866,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Disruptive Librarian",
-                "url": "https://www.linkedin.com/pub/jo%C3%ABlle-sciboz/13/a76/b58",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/3eecb29d2e9bc874d54aa65cf5b3bc3aeb0f2f52629b8fd0110aae8d438e00e0.png"
-            },
-            "url": "https://twitter.com/silikani/status/743053231178297344",
-            "name": null,
-            "content": "My notes from the #OR2016 #tdm text &amp; data mining session this morning: rlskoeser.github.io/2016/06/13/min\u2026",
-            "published": "2016-06-15T12:11:10+00:00",
-            "published_ts": 1465992670
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Disruptive Librarian retweeted a tweet https://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://www.linkedin.com/pub/jo%C3%ABlle-sciboz/13/a76/b58\">Disruptive Librarian</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/mining-repositories/\">https://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742643115341807616",
-        "verified": true,
-        "verified_date": "2017-07-14T17:29:00+00:00",
-        "id": 382865,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Jon Stroop",
-                "url": "https://twitter.com/jpstroop",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/fde09e07a8b8d22a3035273b159c5f2aea2c8626e5e89d651cbc752371853969.jpg"
-            },
-            "url": "https://twitter.com/jpstroop/status/742643115341807616",
-            "name": null,
-            "content": "My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T09:01:30+00:00",
-            "published_ts": 1465894890
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Jon Stroop retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpstroop\">Jon Stroop</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480871274385408/742710756886478848",
-        "verified": true,
-        "verified_date": "2016-10-01T13:01:49+00:00",
-        "id": 382864,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Lynn Cunningham",
-                "url": "https://twitter.com/lynnDcunningham",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/eabcfe2c0126c3f2e55308accfc753900144eb97a2ca00d465499e29c16c4cc7.jpeg"
-            },
-            "url": "https://twitter.com/lynnDcunningham/status/742710756886478848",
-            "name": null,
-            "content": "My notes from the #OR2016 #tdm text &amp; data mining session this morning: rlskoeser.github.io/2016/06/13/min\u2026",
-            "published": "2016-06-14T13:30:17+00:00",
-            "published_ts": 1465911017
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet https://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/mining-repositories/\">https://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742671879736074240",
-        "verified": true,
-        "verified_date": "2016-10-01T13:01:43+00:00",
-        "id": 382863,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Emmanuelle Morlock",
-                "url": "http://www.hisoma.mom.fr/recherche-et-activites/actu-humanites-numeriques/liste-fils",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/3bc6e174cd4de6d9186dcaa91da37aaf505aa0dc70a68fb8d797a3d6c589f956.jpeg"
-            },
-            "url": "https://twitter.com/emma_morlock/status/742671879736074240",
-            "name": null,
-            "content": "My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T10:55:48+00:00",
-            "published_ts": 1465901748
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Emmanuelle Morlock retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.hisoma.mom.fr/recherche-et-activites/actu-humanites-numeriques/liste-fils\">Emmanuelle Morlock</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742704556195221505",
-        "verified": true,
-        "verified_date": "2016-10-01T13:01:41+00:00",
-        "id": 382862,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Kiyonori Nagasaki",
-                "url": "http://www.dhii.jp/nagasaki/",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/fac651317d5be43b8ccac08509dda5b385bda726bae74b5042886398ae26dbb3.jpeg"
-            },
-            "url": "https://twitter.com/knagasaki/status/742704556195221505",
-            "name": null,
-            "content": "My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T13:05:39+00:00",
-            "published_ts": 1465909539
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Kiyonori Nagasaki retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.dhii.jp/nagasaki/\">Kiyonori Nagasaki</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742664881560817664",
-        "verified": true,
-        "verified_date": "2016-10-01T13:01:35+00:00",
-        "id": 382861,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Rob Sanderson",
-                "url": "http://getty.edu",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/c07260d2daa9f1bf7a2bd6e6e130d5f5bfd49f35cc4e22d24a43c49fbb991391.jpeg"
-            },
-            "url": "https://twitter.com/azaroth42/status/742664881560817664",
-            "name": null,
-            "content": "My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T10:28:00+00:00",
-            "published_ts": 1465900080
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Rob Sanderson retweeted a tweet https://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://getty.edu\">Rob Sanderson</a> retweeted a tweet <a href=\"https://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">https://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "https://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/15887585",
-        "verified": true,
-        "verified_date": "2016-07-26T05:47:46+00:00",
-        "id": 361988,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Allison Brown",
-                "url": "https://twitter.com/Initiatives_lib",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/69aefa5f2ffebb838d9b61d81f0ebc9de2dae2cf2e2d7cee45d40a0175ffd34a.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-15887585",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_15887585\n  \n  \n  \n  \n    Allison Brown\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-15887585",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Allison Brown favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/Initiatives_lib\">Allison Brown</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/63267551",
-        "verified": true,
-        "verified_date": "2016-07-15T18:02:38+00:00",
-        "id": 358557,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Jesse P. Karlsberg",
-                "url": "https://twitter.com/jpkarlsberg",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/8d68bcc1ba45168acde56ac5a6ae007ab1bb2c871575c6bd3546c7e0639345fb.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-63267551",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_63267551\n  \n  \n  \n  \n    Jesse P. Karlsberg\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-63267551",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Jesse P. Karlsberg favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpkarlsberg\">Jesse P. Karlsberg</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/",
-        "verified": true,
-        "verified_date": "2016-06-23T12:27:06+00:00",
-        "id": 350731,
-        "private": false,
-        "data": {
-            "url": "https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/",
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-242410169",
             "name": null,
             "content": null,
             "published": null,
             "published_ts": null
         },
         "activity": {
-            "type": "link",
-            "sentence": "https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/ posted '' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://blog.core.ac.uk/2016/06/23/core-wins-best-poster-award-at-the-open-repositories-conference-or2016/\">someone</a> posted '' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/743104355386150912",
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1154737124563988482/1154760158964305920",
         "verified": true,
-        "verified_date": "2016-06-15T15:49:49+00:00",
-        "id": 348085,
+        "verified_date": "2019-07-26T14:43:50+00:00",
+        "id": 655253,
         "private": false,
         "data": {
             "author": {
-                "name": "DuraSpace Community",
-                "url": "http://DuraSpace.org",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/4b0da0072701d8440420956a89f86770a46a06e65e4a7b379b16e2d79f028759.png"
+                "name": "LibrarianRafia",
+                "url": "https://twitter.com/LibrarianRafia",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/6fa09016daff785d81910c0f0b2f17f8bb6602adb46d7649af8414492c4c778e.jpg"
             },
-            "url": "https://twitter.com/duraspace/status/743104355386150912",
+            "url": "https://twitter.com/LibrarianRafia/status/1154760158964305920",
             "name": null,
-            "content": "<a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> on mining repositories\u20131.5M sci articles published per yr mostly read by author/reviewers only <a href=\"http://bit.ly/1UzkDMs\">bit.ly/1UzkDMs</a> <a href=\"https://twitter.com/search?q=%23or2016\">#or2016</a>\n<a class=\"u-mention\" href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\"></a>",
-            "published": "2016-06-15T15:34:19+00:00",
-            "published_ts": 1466004859
+            "content": "Text for my talk as part of the the State of Digital Humanities Software Development Roundtable\nwith @matthewdlincoln @Zoe_LeBlanc @jamiefol",
+            "published": "2019-07-26T14:27:30+00:00",
+            "published_ts": 1564151250
         },
         "activity": {
-            "type": "link",
-            "sentence": "DuraSpace Community posted '@suttonkoeser on mining repositories\u20131.5M sci articles published per yr mostly r...' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://DuraSpace.org\">DuraSpace Community</a> posted '@suttonkoeser on mining repositories\u20131.5M sci articles published per yr mostly r...' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "repost"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/743077216263757825",
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/2891039514",
         "verified": true,
-        "verified_date": "2016-06-15T13:54:32+00:00",
-        "id": 348060,
+        "verified_date": "2019-07-26T14:43:41+00:00",
+        "id": 655250,
         "private": false,
         "data": {
             "author": {
-                "name": "Ricard de la Vega",
-                "url": "http://about.me/ricard.delavega",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/e934fc2b401309df8280712b38108ffdecff8725b5141940bafee998e25d1f62.jpeg"
+                "name": "CESTA",
+                "url": "https://twitter.com/cesta_stanford",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/fe752fe64102d0cd512c95108ce473424af817e4fe7d6e1e5919be0c9c540c00.jpg"
             },
-            "url": "https://twitter.com/rdelavega/status/743077216263757825",
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-2891039514",
             "name": null,
-            "content": "<a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">rlskoeser.github.io/2016/06/13/min\u2026</a>",
-            "published": "2016-06-15T13:46:28+00:00",
-            "published_ts": 1465998388
-        },
-        "activity": {
-            "type": "link",
-            "sentence": "Ricard de la Vega posted 'rlskoeser.github.io/2016/06/13/min\u2026' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://about.me/ricard.delavega\">Ricard de la Vega</a> posted 'rlskoeser.github.io/2016/06/13/min\u2026' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/743076388035497985",
-        "verified": true,
-        "verified_date": "2016-06-15T13:54:26+00:00",
-        "id": 348059,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Petr Knoth",
-                "url": "http://people.kmi.open.ac.uk/petr/",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/bbc5411cf7f10a9784dfc1604eb8731789c79b35bd75201f174bc43611b4bb8f.png"
-            },
-            "url": "https://twitter.com/petrknoth/status/743076388035497985",
-            "name": null,
-            "content": "Very well written blog post about @OpenMinTeD workshop on text and data mining repositories at <a href=\"https://twitter.com/search?q=%23or2016\">#or2016</a> <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">rlskoeser.github.io/2016/06/13/min\u2026</a>",
-            "published": "2016-06-15T13:43:11+00:00",
-            "published_ts": 1465998191
-        },
-        "activity": {
-            "type": "link",
-            "sentence": "Petr Knoth posted 'Very well written blog post about @OpenMinTeD workshop on text and data mining r...' linking to http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://people.kmi.open.ac.uk/petr/\">Petr Knoth</a> posted 'Very well written blog post about @OpenMinTeD workshop on text and data mining r...' linking to <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480871274385408/3307080010",
-        "verified": true,
-        "verified_date": "2016-06-15T13:01:52+00:00",
-        "id": 348034,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "OpenMinTeD",
-                "url": "https://twitter.com/openminted_eu",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/525f194168efdc158bc927e85c4b57f054848b2b96f9f0b969f5f5619f8e7d16.png"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-3307080010",
-            "name": "tag:twitter.com,2013:742480871274385408_favorited_by_3307080010\n  \n  \n  \n  \n    OpenMinTeD\n    \n\n  https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-3307080010",
             "content": null,
             "published": null,
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "OpenMinTeD favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/openminted_eu\">OpenMinTeD</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/comment/twitter/suttonkoeser/742480871274385408/743059252688883713",
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1154737124563988482/1154744161326776321",
         "verified": true,
-        "verified_date": "2016-06-15T13:01:34+00:00",
-        "id": 348030,
+        "verified_date": "2019-07-26T13:49:15+00:00",
+        "id": 655161,
         "private": false,
         "data": {
             "author": {
-                "name": "OpenMinTeD",
-                "url": "http://www.openminted.eu",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/525f194168efdc158bc927e85c4b57f054848b2b96f9f0b969f5f5619f8e7d16.png"
+                "name": "Trip Kirkpatrick, MA",
+                "url": "https://twitter.com/triplingual",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/6d1f559e6eefbdc6d8207332d10e12d6a20ca74a0281ed84ebf2e27ff98b812e.jpg"
             },
-            "url": "https://twitter.com/openminted_eu/status/743059252688883713",
+            "url": "https://twitter.com/triplingual/status/1154744161326776321",
             "name": null,
-            "content": "<a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> <a href=\"https://twitter.com/silikani\">@silikani</a> Thanks for the notes on <a href=\"https://twitter.com/search?q=%23openminted_eu\">#openminted_eu</a> workshop. The OpenMinted is about \"open minded\u201d, so yes it is on purpose!",
-            "published": "2016-06-15T12:35:05+00:00",
-            "published_ts": 1465994105
+            "content": "Text for my talk as part of the the State of Digital Humanities Software Development Roundtable\nwith @matthewdlincoln @Zoe_LeBlanc @jamiefol",
+            "published": "2019-07-26T13:23:56+00:00",
+            "published_ts": 1564147436
         },
         "activity": {
-            "type": "reply",
-            "sentence": "OpenMinTeD replied '@suttonkoeser @silikani Thanks for the notes on #openminted_eu workshop. The Ope...' to a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"http://www.openminted.eu\">OpenMinTeD</a> replied '@suttonkoeser @silikani Thanks for the notes on #openminted_eu workshop. The Ope...' to a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "repost"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480871274385408/1073508864",
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1154746024587661317",
         "verified": true,
-        "verified_date": "2016-06-15T13:01:08+00:00",
-        "id": 348029,
+        "verified_date": "2019-07-26T13:49:15+00:00",
+        "id": 655160,
         "private": false,
         "data": {
             "author": {
-                "name": "Gpredictive",
-                "url": "https://twitter.com/Gpredictive",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/c65dad2437c2e00b922210493e5598ca4682751ce27f258944fc5f11739661c3.jpeg"
+                "name": "Clifford Anderson",
+                "url": "https://twitter.com/andersoncliffb",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f8b900e1b3ead873192c8741a9c083ade519554f104deb2bb65e1637d824c8d8.jpg"
             },
-            "url": "https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-1073508864",
-            "name": "tag:twitter.com,2013:742480871274385408_favorited_by_1073508864\n  \n  \n  \n  \n    Gpredictive\n    \n\n  https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-1073508864",
+            "url": "https://twitter.com/andersoncliffb/status/1154746024587661317",
+            "name": null,
+            "content": ".<a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> discussing the challenges of adapting <a href=\"https://twitter.com/search?q=%23agile\">#agile</a> methodologies to academic research / digital humanities software development teams at <a href=\"https://twitter.com/search?q=%23ACH2019\">#ACH2019</a>. Full text of her talk: <a href=\"https://rlskoeser.github.io/2019/07/26/best-practices/\">rlskoeser.github.io/2019/07/26/bes\u2026</a>",
+            "published": "2019-07-26T13:31:21+00:00",
+            "published_ts": 1564147881
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/36583160",
+        "verified": true,
+        "verified_date": "2019-07-26T13:49:08+00:00",
+        "id": 655155,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "LibrarianRafia",
+                "url": "https://twitter.com/LibrarianRafia",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/6fa09016daff785d81910c0f0b2f17f8bb6602adb46d7649af8414492c4c778e.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-36583160",
+            "name": null,
             "content": null,
             "published": null,
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Gpredictive favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/Gpredictive\">Gpredictive</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "like"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480871274385408/743053231178297344",
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1154741932083560448",
         "verified": true,
-        "verified_date": "2016-06-15T12:31:29+00:00",
-        "id": 348016,
+        "verified_date": "2019-07-26T13:49:09+00:00",
+        "id": 655158,
         "private": false,
         "data": {
             "author": {
-                "name": "Jo\u00eblle",
-                "url": "https://www.linkedin.com/pub/jo%C3%ABlle-sciboz/13/a76/b58",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/3eecb29d2e9bc874d54aa65cf5b3bc3aeb0f2f52629b8fd0110aae8d438e00e0.png"
+                "name": "Quinn Dombrowski",
+                "url": "https://twitter.com/quinnanya",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/bc29658b943b3d5d6e6debe0388300fbf24a1f4cc1963a6d31d61540c3f83aec.jpg"
             },
-            "url": "https://twitter.com/silikani/status/743053231178297344",
+            "url": "https://twitter.com/quinnanya/status/1154741932083560448",
             "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #tdm text &amp; data mining session this morning: rlskoeser.github.io/2016/06/13/min\u2026",
-            "published": "2016-06-15T12:11:10+00:00",
-            "published_ts": 1465992670
+            "content": ".<a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> on DH development best practices. Talk available here: <a href=\"https://rlskoeser.github.io/2019/07/26/best-practices/\">rlskoeser.github.io/2019/07/26/bes\u2026</a> <a href=\"https://twitter.com/search?q=%23SI5\">#SI5</a> <a href=\"https://twitter.com/search?q=%23ACH2019\">#ACH2019</a>",
+            "published": "2019-07-26T13:15:05+00:00",
+            "published_ts": 1564146905
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Jo\u00eblle retweeted a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://www.linkedin.com/pub/jo%C3%ABlle-sciboz/13/a76/b58\">Jo\u00eblle</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "link"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/3230745066",
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1154737124563988482/1154744263286173697",
         "verified": true,
-        "verified_date": "2016-06-14T23:06:13+00:00",
-        "id": 347817,
+        "verified_date": "2019-07-26T13:49:06+00:00",
+        "id": 655154,
         "private": false,
         "data": {
             "author": {
-                "name": "Anna Naruta-Moya",
-                "url": "https://twitter.com/AnnaNaruta",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/105d2d4fbe36c286e58ebfe42d5cb74c218f97f68d5c5827b4ca19863dffdfc6.jpeg"
+                "name": "Marsely Kehoe",
+                "url": "https://twitter.com/marselykehoe",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0eb83077d99e11c91655b694488a8a5d4043c7836284ecaab835410e02be538c.jpg"
             },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-3230745066",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_3230745066\n  \n  \n  \n  \n    Anna Naruta-Moya\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-3230745066",
+            "url": "https://twitter.com/marselykehoe/status/1154744263286173697",
+            "name": null,
+            "content": "Text for my talk as part of the the State of Digital Humanities Software Development Roundtable\nwith @matthewdlincoln @Zoe_LeBlanc @jamiefol",
+            "published": "2019-07-26T13:24:21+00:00",
+            "published_ts": 1564147461
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1154737124563988482/1154742262573780992",
+        "verified": true,
+        "verified_date": "2019-07-26T13:49:04+00:00",
+        "id": 655152,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Totally Real DH Person",
+                "url": "https://twitter.com/Real_Person_DH",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/f19b120f26e2f064f4020921d7ee05e83c19bb9c4edc93b2193e35ac4b674295.jpg"
+            },
+            "url": "https://twitter.com/Real_Person_DH/status/1154742262573780992",
+            "name": null,
+            "content": "Text for my talk as part of the the State of Digital Humanities Software Development Roundtable\nwith @matthewdlincoln @Zoe_LeBlanc @jamiefol",
+            "published": "2019-07-26T13:16:24+00:00",
+            "published_ts": 1564146984
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/202239137",
+        "verified": true,
+        "verified_date": "2019-07-26T13:49:02+00:00",
+        "id": 655148,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Marsely Kehoe",
+                "url": "https://twitter.com/marselykehoe",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/0eb83077d99e11c91655b694488a8a5d4043c7836284ecaab835410e02be538c.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-202239137",
+            "name": null,
             "content": null,
             "published": null,
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Anna Naruta-Moya favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/AnnaNaruta\">Anna Naruta-Moya</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
+            "type": "like"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742756900219949057/205387593",
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1154741852245041152",
         "verified": true,
-        "verified_date": "2016-06-14T21:07:41+00:00",
-        "id": 347797,
+        "verified_date": "2019-07-26T13:49:00+00:00",
+        "id": 655146,
         "private": false,
         "data": {
             "author": {
-                "name": "Cole Hudson",
-                "url": "https://twitter.com/colehud",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/f1f8fef93581bcdced0470ed28ae230da82a67829b9ebbe4d17eae583aceb192.jpeg"
+                "name": "Dr. Amanda Visconti",
+                "url": "https://twitter.com/Literature_Geek",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/39291d574164b62321f4923d3e42713bd472eef2165a925f7de4f0b628033410.jpeg"
             },
-            "url": "https://twitter.com/suttonkoeser/status/742756900219949057#favorited-by-205387593",
-            "name": "tag:twitter.com,2013:742756900219949057_favorited_by_205387593\n  \n  \n  \n  \n    Cole Hudson\n    \n\n  https://twitter.com/suttonkoeser/status/742756900219949057#favorited-by-205387593",
+            "url": "https://twitter.com/Literature_Geek/status/1154741852245041152",
+            "name": null,
+            "content": ".<a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: Talk is online at <a href=\"http://bit.ly/rsk-ach-dhdev\">bit.ly/rsk-ach-dhdev</a> <a href=\"https://twitter.com/search?q=%23ACH2019\">#ACH2019</a> <a href=\"https://twitter.com/search?q=%23SI5\">#SI5</a>\n<a class=\"u-mention\" href=\"https://rlskoeser.github.io/2019/07/26/best-practices/\"></a>",
+            "published": "2019-07-26T13:14:46+00:00",
+            "published_ts": 1564146886
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/post/twitter/suttonkoeser/1154744982986809345",
+        "verified": true,
+        "verified_date": "2019-07-26T13:48:59+00:00",
+        "id": 655142,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Kalle Westerling",
+                "url": "https://twitter.com/kallewesterling",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/9c53e6de5262f019f3a9ef26446393759d7838d4b9f94972852e7c94fad83b41.jpg"
+            },
+            "url": "https://twitter.com/kallewesterling/status/1154744982986809345",
+            "name": null,
+            "content": "Another salient points by <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> at <a href=\"https://twitter.com/search?q=%23SI5\">#SI5</a> <a href=\"https://twitter.com/search?q=%23ACH2019\">#ACH2019</a>: \"Software development best practices are difficult, if not impossible, to implement without a team or community.\" (read the talk here: <a href=\"https://rlskoeser.github.io/2019/07/26/best-practices\">rlskoeser.github.io/2019/07/26/bes\u2026</a>)\n<a class=\"u-mention\" href=\"https://rlskoeser.github.io/2019/07/26/best-practices/\"></a>",
+            "published": "2019-07-26T13:27:12+00:00",
+            "published_ts": 1564147632
+        },
+        "activity": {
+            "type": "link"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1154737124563988482/1154737570716311552",
+        "verified": true,
+        "verified_date": "2019-07-26T13:13:58+00:00",
+        "id": 655089,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Brandon Walsh",
+                "url": "https://twitter.com/walshbr",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/04034a76e892a0daf9e9a5c7671d5c49a337a9e77b3635a1960405ac818bdd9e.jpg"
+            },
+            "url": "https://twitter.com/walshbr/status/1154737570716311552",
+            "name": null,
+            "content": "Text for my talk as part of the the State of Digital Humanities Software Development Roundtable\nwith @matthewdlincoln @Zoe_LeBlanc @jamiefol",
+            "published": "2019-07-26T12:57:45+00:00",
+            "published_ts": 1564145865
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
+    },
+    {
+        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/1154737124563988482/1583811",
+        "verified": true,
+        "verified_date": "2019-07-26T13:13:55+00:00",
+        "id": 655083,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "James Tauber",
+                "url": "https://twitter.com/jtauber",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/fd1f00a721236d6161e974b5e58fc93eb75c10e0359261dda30dd9a4500682b6.jpg"
+            },
+            "url": "https://twitter.com/suttonkoeser/status/1154737124563988482#favorited-by-1583811",
+            "name": null,
             "content": null,
             "published": null,
             "published_ts": null
         },
         "activity": {
-            "type": "like",
-            "sentence": "Cole Hudson favorited a tweet http://rlskoeser.github.io/2016/06/08/diskimage-ingest/",
-            "sentence_html": "<a href=\"https://twitter.com/colehud\">Cole Hudson</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/08/diskimage-ingest/\">http://rlskoeser.github.io/2016/06/08/diskimage-ingest/</a>"
+            "type": "like"
         },
-        "target": "http://rlskoeser.github.io/2016/06/08/diskimage-ingest/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     },
     {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742756900219949057/31290012",
+        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/1154737124563988482/1154738346406678528",
         "verified": true,
-        "verified_date": "2016-06-14T17:05:37+00:00",
-        "id": 347708,
+        "verified_date": "2019-07-26T13:13:55+00:00",
+        "id": 655084,
         "private": false,
         "data": {
             "author": {
-                "name": "Michael Duffy",
-                "url": "https://twitter.com/mjduff",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/651715fdf930cc849ddd319e5b6f7868cc87ceee97fabd260729fca5acdf1337.jpeg"
+                "name": "Amanda Rust",
+                "url": "https://twitter.com/arrust",
+                "photo": "https://webmention.io/avatar/pbs.twimg.com/57c8b7d32005d84085631201e1fb31384b95c3dcefea5fea58a3fb828c212d1a.png"
             },
-            "url": "https://twitter.com/suttonkoeser/status/742756900219949057#favorited-by-31290012",
-            "name": "tag:twitter.com,2013:742756900219949057_favorited_by_31290012\n  \n  \n  \n  \n    Michael Duffy\n    \n\n  https://twitter.com/suttonkoeser/status/742756900219949057#favorited-by-31290012",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Michael Duffy favorited a tweet http://rlskoeser.github.io/2016/06/08/diskimage-ingest/",
-            "sentence_html": "<a href=\"https://twitter.com/mjduff\">Michael Duffy</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/08/diskimage-ingest/\">http://rlskoeser.github.io/2016/06/08/diskimage-ingest/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/08/diskimage-ingest/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/2404767650",
-        "verified": true,
-        "verified_date": "2016-06-14T14:07:34+00:00",
-        "id": 347639,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Pauline Data Ward",
-                "url": "https://twitter.com/PaulineDataWard",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/fe7451677ca04fabed15a8a57f6de579301ecdbadc5d8c6baa1c652dd937fa17.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-2404767650",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_2404767650\n  \n  \n  \n  \n    Pauline Data Ward\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-2404767650",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Pauline Data Ward favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/PaulineDataWard\">Pauline Data Ward</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480871274385408/2404767650",
-        "verified": true,
-        "verified_date": "2016-06-14T14:07:11+00:00",
-        "id": 347636,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Pauline Data Ward",
-                "url": "https://twitter.com/PaulineDataWard",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/fe7451677ca04fabed15a8a57f6de579301ecdbadc5d8c6baa1c652dd937fa17.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-2404767650",
-            "name": "tag:twitter.com,2013:742480871274385408_favorited_by_2404767650\n  \n  \n  \n  \n    Pauline Data Ward\n    \n\n  https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-2404767650",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Pauline Data Ward favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/PaulineDataWard\">Pauline Data Ward</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480871274385408/742710756886478848",
-        "verified": true,
-        "verified_date": "2016-06-14T13:35:33+00:00",
-        "id": 347631,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Lynn Cunningham",
-                "url": "https://twitter.com/lynnDcunningham",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/eabcfe2c0126c3f2e55308accfc753900144eb97a2ca00d465499e29c16c4cc7.jpeg"
-            },
-            "url": "https://twitter.com/lynnDcunningham/status/742710756886478848",
+            "url": "https://twitter.com/arrust/status/1154738346406678528",
             "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #tdm text &amp; data mining session this morning: rlskoeser.github.io/2016/06/13/min\u2026",
-            "published": "2016-06-14T13:30:17+00:00",
-            "published_ts": 1465911017
+            "content": "Text for my talk as part of the the State of Digital Humanities Software Development Roundtable\nwith @matthewdlincoln @Zoe_LeBlanc @jamiefol",
+            "published": "2019-07-26T13:00:50+00:00",
+            "published_ts": 1564146050
         },
         "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
+            "type": "repost"
         },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742710677333106689",
-        "verified": true,
-        "verified_date": "2016-06-14T13:35:15+00:00",
-        "id": 347628,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Lynn Cunningham",
-                "url": "https://twitter.com/lynnDcunningham",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/eabcfe2c0126c3f2e55308accfc753900144eb97a2ca00d465499e29c16c4cc7.jpeg"
-            },
-            "url": "https://twitter.com/lynnDcunningham/status/742710677333106689",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T13:29:59+00:00",
-            "published_ts": 1465910999
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Lynn Cunningham retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/lynnDcunningham\">Lynn Cunningham</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742704556195221505",
-        "verified": true,
-        "verified_date": "2016-06-14T13:10:05+00:00",
-        "id": 347626,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Kiyonori Nagasaki",
-                "url": "http://www.dhii.jp/nagasaki/",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/fac651317d5be43b8ccac08509dda5b385bda726bae74b5042886398ae26dbb3.jpeg"
-            },
-            "url": "https://twitter.com/knagasaki/status/742704556195221505",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T13:05:39+00:00",
-            "published_ts": 1465909539
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Kiyonori Nagasaki retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.dhii.jp/nagasaki/\">Kiyonori Nagasaki</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/88592839",
-        "verified": true,
-        "verified_date": "2016-06-14T12:19:34+00:00",
-        "id": 347609,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Alexandra Provo",
-                "url": "https://twitter.com/AlexandraAlisa",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/284d301d60680be7ecb4e2bdd8a3dcea4ba2893a270ab058cea14372b2cb1a18.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-88592839",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_88592839\n  \n  \n  \n  \n    Alexandra Provo\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-88592839",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Alexandra Provo favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/AlexandraAlisa\">Alexandra Provo</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742671879736074240",
-        "verified": true,
-        "verified_date": "2016-06-14T11:02:34+00:00",
-        "id": 347589,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Emmanuelle Morlock",
-                "url": "http://www.hisoma.mom.fr/recherche-et-activites/actu-humanites-numeriques/liste-fils",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/3bc6e174cd4de6d9186dcaa91da37aaf505aa0dc70a68fb8d797a3d6c589f956.jpeg"
-            },
-            "url": "https://twitter.com/emma_morlock/status/742671879736074240",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T10:55:48+00:00",
-            "published_ts": 1465901748
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Emmanuelle Morlock retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://www.hisoma.mom.fr/recherche-et-activites/actu-humanites-numeriques/liste-fils\">Emmanuelle Morlock</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742664881560817664",
-        "verified": true,
-        "verified_date": "2016-06-14T10:28:36+00:00",
-        "id": 347579,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Rob Sanderson",
-                "url": "http://getty.edu",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/94031874c0626295c91c63995c2b8ec5fc29e7faba5380726348b7d513d06378.jpeg"
-            },
-            "url": "https://twitter.com/azaroth42/status/742664881560817664",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T10:28:00+00:00",
-            "published_ts": 1465900080
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Rob Sanderson retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://getty.edu\">Rob Sanderson</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/155449120",
-        "verified": true,
-        "verified_date": "2016-06-14T10:28:20+00:00",
-        "id": 347577,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "nish",
-                "url": "https://twitter.com/nish_ku",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/134ea37e6d8882574bbf1bc48624018a4722491dbe1cf20f10b645f7f2121283.png"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-155449120",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_155449120\n  \n  \n  \n  \n    nish\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-155449120",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "nish favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/nish_ku\">nish</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/40892859",
-        "verified": true,
-        "verified_date": "2016-06-14T09:24:27+00:00",
-        "id": 347399,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Jon Stroop",
-                "url": "https://twitter.com/jpstroop",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/5b392ffd3a7240845914430b005017e0a2a3bca9404fbfec905885282970c600.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-40892859",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_40892859\n  \n  \n  \n  \n    Jon Stroop\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-40892859",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Jon Stroop favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpstroop\">Jon Stroop</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742643115341807616",
-        "verified": true,
-        "verified_date": "2016-06-14T09:23:40+00:00",
-        "id": 347396,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Jon Stroop",
-                "url": "https://twitter.com/jpstroop",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/5b392ffd3a7240845914430b005017e0a2a3bca9404fbfec905885282970c600.jpeg"
-            },
-            "url": "https://twitter.com/jpstroop/status/742643115341807616",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T09:01:30+00:00",
-            "published_ts": 1465894890
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Jon Stroop retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/jpstroop\">Jon Stroop</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480871274385408/126592296",
-        "verified": true,
-        "verified_date": "2016-06-14T07:53:29+00:00",
-        "id": 347381,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Valentine CHARLES",
-                "url": "https://twitter.com/valentinec89",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/05c35b1510dc5ccbf108f0ae86000f8ac3e114cf3af61cb406ac47c2e2c9cd26.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-126592296",
-            "name": "tag:twitter.com,2013:742480871274385408_favorited_by_126592296\n  \n  \n  \n  \n    Valentine CHARLES\n    \n\n  https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-126592296",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Valentine CHARLES favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/valentinec89\">Valentine CHARLES</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/89078291",
-        "verified": true,
-        "verified_date": "2016-06-14T04:09:10+00:00",
-        "id": 347335,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "G.S. Hukill",
-                "url": "https://twitter.com/gshukill",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/c07a3772e26aa4697fdd60e114fbcd537373d241a1b558b496c5560fbbc6e61c.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-89078291",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_89078291\n  \n  \n  \n  \n    G.S. Hukill\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-89078291",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "G.S. Hukill favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/gshukill\">G.S. Hukill</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/2366520678",
-        "verified": true,
-        "verified_date": "2016-06-14T04:08:45+00:00",
-        "id": 347333,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Ryer Banta",
-                "url": "https://twitter.com/RyerBanta",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/9e2b2f30aeaaed1908950c88586d85cd64b438d6cd865b39271ea67123fbf043.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-2366520678",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_2366520678\n  \n  \n  \n  \n    Ryer Banta\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-2366520678",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Ryer Banta favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/RyerBanta\">Ryer Banta</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/742480988362571777/742565428216483841",
-        "verified": true,
-        "verified_date": "2016-06-14T04:08:20+00:00",
-        "id": 347331,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "dh+lib",
-                "url": "http://acrl.ala.org/dh/",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/cac1429ae3117f5ec94f750514181368a021df65067b9022961ca88499cacb5e.jpeg"
-            },
-            "url": "https://twitter.com/DHandLib/status/742565428216483841",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: My notes from the #OR2016 #IIIF session this afternoon: rlskoeser.github.io/2016/06/13/int\u2026",
-            "published": "2016-06-14T03:52:48+00:00",
-            "published_ts": 1465876368
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "dh+lib retweeted a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://acrl.ala.org/dh/\">dh+lib</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/comment/twitter/suttonkoeser/742480988362571777/742484122837225472",
-        "verified": true,
-        "verified_date": "2016-06-13T22:56:56+00:00",
-        "id": 347252,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Cole Hudson",
-                "url": "http://colehudson.org",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/f1f8fef93581bcdced0470ed28ae230da82a67829b9ebbe4d17eae583aceb192.jpeg"
-            },
-            "url": "https://twitter.com/colehud/status/742484122837225472",
-            "name": null,
-            "content": "<a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a> thanks for the <a href=\"https://twitter.com/search?q=%23IIIF\">#IIIF</a> notes. Can't wait for the Auth mechanism to debut.",
-            "published": "2016-06-13T22:29:44+00:00",
-            "published_ts": 1465856984
-        },
-        "activity": {
-            "type": "reply",
-            "sentence": "Cole Hudson replied '@suttonkoeser thanks for the #IIIF notes. Can't wait for the Auth mechanism to d...' to a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"http://colehudson.org\">Cole Hudson</a> replied '@suttonkoeser thanks for the #IIIF notes. Can't wait for the Auth mechanism to d...' to a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480988362571777/205387593",
-        "verified": true,
-        "verified_date": "2016-06-13T22:27:53+00:00",
-        "id": 347242,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Cole Hudson",
-                "url": "https://twitter.com/colehud",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/f1f8fef93581bcdced0470ed28ae230da82a67829b9ebbe4d17eae583aceb192.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-205387593",
-            "name": "tag:twitter.com,2013:742480988362571777_favorited_by_205387593\n  \n  \n  \n  \n    Cole Hudson\n    \n\n  https://twitter.com/suttonkoeser/status/742480988362571777#favorited-by-205387593",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Cole Hudson favorited a tweet http://rlskoeser.github.io/2016/06/13/intro-to-iiif/",
-            "sentence_html": "<a href=\"https://twitter.com/colehud\">Cole Hudson</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/intro-to-iiif/\">http://rlskoeser.github.io/2016/06/13/intro-to-iiif/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/intro-to-iiif/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/742480871274385408/205387593",
-        "verified": true,
-        "verified_date": "2016-06-13T22:27:30+00:00",
-        "id": 347239,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Cole Hudson",
-                "url": "https://twitter.com/colehud",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/f1f8fef93581bcdced0470ed28ae230da82a67829b9ebbe4d17eae583aceb192.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-205387593",
-            "name": "tag:twitter.com,2013:742480871274385408_favorited_by_205387593\n  \n  \n  \n  \n    Cole Hudson\n    \n\n  https://twitter.com/suttonkoeser/status/742480871274385408#favorited-by-205387593",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Cole Hudson favorited a tweet http://rlskoeser.github.io/2016/06/13/mining-repositories/",
-            "sentence_html": "<a href=\"https://twitter.com/colehud\">Cole Hudson</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/06/13/mining-repositories/\">http://rlskoeser.github.io/2016/06/13/mining-repositories/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/06/13/mining-repositories/"
-    },
-    {
-        "source": "https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/xss",
-        "verified": true,
-        "verified_date": "2016-05-20T15:43:49+00:00",
-        "id": 338192,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Checkmention XSS test",
-                "url": "https://checkmention.appspot.com/",
-                "photo": "https://webmention.io/avatar/checkmention.appspot.com/75232e0b1732e48930188394129043b56a9f44961eac063725de38d554a6cd36.jpeg"
-            },
-            "url": "https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/xss",
-            "name": null,
-            "content": "<a>Clicking this</a>\nshould not cause an alert.\nThis div\nshould not alert.\nTry clicking <a>this link</a>\n&lt;script&gt;alert(\"encoded-xss\")&lt;/script&gt;\nand <a>this too</a>.\n<b>Mouse over this</b>\nshould not cause an alert. This broken\n<img src=\"http://not.really.an.image\" alt=\"not.really.an.image\" /> should not throw an alert.\nalert(\"XSS4\");//\n\nNeither should .\nPlease look at the <a href=\"https://www.owasp.org/index.php/XSS_%28Cross_Site_Scripting%29_Prevention_Cheat_Sheet\">Owasp XSS prevention cheat sheet</a> for more information.",
-            "published": "2016-05-20T15:43:39+00:00",
-            "published_ts": 1463759019
-        },
-        "activity": {
-            "type": "reply",
-            "sentence": "Checkmention XSS test commented 'Clicking this should not cause an alert. This div should not alert. Try clicking...' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://checkmention.appspot.com/\">Checkmention XSS test</a> commented 'Clicking this should not cause an alert. This div should not alert. Try clicking...' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/identity",
-        "verified": true,
-        "verified_date": "2016-05-20T15:43:48+00:00",
-        "id": 338193,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Jonathan Ive",
-                "url": "https://www.apple.com/pr/bios/jonathan-ive.html",
-                "photo": "https://webmention.io/avatar/checkmention.appspot.com/c658b9d3700c6b83d0a19e3e9c02ed40bdd65bb2a696f4b8b0efc42169447e56.png"
-            },
-            "url": "https://www.apple.com/pr/bios/jonathan-ive.html",
-            "name": null,
-            "content": "I love the way your site looks, though I'm <a href=\"https://checkmention.appspot.com\">not really <em>the</em> Jony Ive</a>. How easy is it for someone to discover the real author of this note? Please also check that the links in this note have no <code>rel=\"me\"</code> attribute on them.",
-            "published": "2016-05-20T15:43:39+00:00",
-            "published_ts": 1463759019
-        },
-        "activity": {
-            "type": "reply",
-            "sentence": "Jonathan Ive commented 'I love the way your site looks, though I'm not really the Jony Ive. How easy is ...' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://www.apple.com/pr/bios/jonathan-ive.html\">Jonathan Ive</a> commented 'I love the way your site looks, though I'm not really the Jony Ive. How easy is ...' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/success",
-        "verified": true,
-        "verified_date": "2016-05-20T15:43:46+00:00",
-        "id": 338190,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Checkmention",
-                "url": "https://checkmention.appspot.com/",
-                "photo": "https://webmention.io/avatar/checkmention.appspot.com/18d522b2ddbef12a0a104dd17fbc24c15dcf0d123bc6611687e0051e13fc1559.png"
-            },
-            "url": "https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/success",
-            "name": null,
-            "content": "Congratulations! You've successfully handled a webmentioned note.",
-            "published": "2016-05-20T15:43:39+00:00",
-            "published_ts": 1463759019
-        },
-        "activity": {
-            "type": "reply",
-            "sentence": "Checkmention commented '' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://checkmention.appspot.com/\">Checkmention</a> commented '' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/hcardxss",
-        "verified": true,
-        "verified_date": "2016-05-20T15:43:47+00:00",
-        "id": 338191,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Does clicking me alert?",
-                "url": null,
-                "photo": "https://webmention.io/avatar/checkmention.appspot.com/75232e0b1732e48930188394129043b56a9f44961eac063725de38d554a6cd36.jpeg"
-            },
-            "url": "https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/hcardxss",
-            "name": null,
-            "content": "This test embeds XSS within the hcard name and time field. Clicking on\nthe name or title should not raise an alert.",
-            "published": "2016-05-20T15:43:39+00:00",
-            "published_ts": 1463759019
-        },
-        "activity": {
-            "type": "reply",
-            "sentence": "Does clicking me alert? commented '' on a post http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://checkmention.appspot.com/content/154ced61e0c/af275255811f66608388ff6f0f51329ec9388912/hcardxss\">Does clicking me alert?</a> commented '' on a post <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/692429487703744512/692818208034697216",
-        "verified": true,
-        "verified_date": "2016-05-12T16:26:17+00:00",
-        "id": 334834,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Tod Robbins",
-                "url": "http://todrobbins.com",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/b05639b6763aec967243fc8a671cf10c1986607107282b31ed64c33363da56b5.jpeg"
-            },
-            "url": "https://twitter.com/todrobbins/status/692818208034697216",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: New post about displaying text with page images in Readux.\nrlskoeser.github.io/2016/01/27/put\u2026",
-            "published": "2016-01-28T21:15:07+00:00",
-            "published_ts": 1454015707
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Tod Robbins retweeted a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"http://todrobbins.com\">Tod Robbins</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/692429487703744512/7016902",
-        "verified": true,
-        "verified_date": "2016-05-12T16:26:12+00:00",
-        "id": 334833,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Winona Salesky",
-                "url": "https://twitter.com/wsalesky",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/ee768ba9358327287d539f34f7af5b50299c5dcd8595c32efbfaef50d38e353e.gif"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/692429487703744512#favorited-by-7016902",
-            "name": "tag:twitter.com,2013:692429487703744512_favorited_by_7016902\n  \n  \n  \n  \n    Winona Salesky\n    \n\n  https://twitter.com/suttonkoeser/status/692429487703744512#favorited-by-7016902",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Winona Salesky favorited a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://twitter.com/wsalesky\">Winona Salesky</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/692429487703744512/692430443711438848",
-        "verified": true,
-        "verified_date": "2016-05-12T16:26:01+00:00",
-        "id": 334831,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "David McClure",
-                "url": "http://dclure.org",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/c0465a1a0cea302515112ee7e5c48c60b2a0026e40848ba48c7f63533a2c1e4e.jpeg"
-            },
-            "url": "https://twitter.com/clured/status/692430443711438848",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: New post about displaying text with page images in Readux.\nrlskoeser.github.io/2016/01/27/put\u2026",
-            "published": "2016-01-27T19:34:17+00:00",
-            "published_ts": 1453923257
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "David McClure retweeted a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"http://dclure.org\">David McClure</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/692429487703744512/3007491",
-        "verified": true,
-        "verified_date": "2016-05-12T16:25:37+00:00",
-        "id": 334829,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Tod Robbins",
-                "url": "https://twitter.com/todrobbins",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/b05639b6763aec967243fc8a671cf10c1986607107282b31ed64c33363da56b5.jpeg"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/692429487703744512#favorited-by-3007491",
-            "name": "tag:twitter.com,2013:692429487703744512_favorited_by_3007491\n  \n  \n  \n  \n    Tod Robbins\n    \n\n  https://twitter.com/suttonkoeser/status/692429487703744512#favorited-by-3007491",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Tod Robbins favorited a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://twitter.com/todrobbins\">Tod Robbins</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/repost/twitter/suttonkoeser/692429487703744512/693109000108376065",
-        "verified": true,
-        "verified_date": "2016-05-12T16:25:38+00:00",
-        "id": 334828,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Ryan Baumann",
-                "url": "https://ryanfb.github.io/",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/e73a81b2a23189eb7926e25e30f855a9e7dbbfa9379ed2f36b8592d841ee8e81.png"
-            },
-            "url": "https://twitter.com/ryanfb/status/693109000108376065",
-            "name": null,
-            "content": "RT <a href=\"https://twitter.com/suttonkoeser\">@suttonkoeser</a>: New post about displaying text with page images in Readux.\nrlskoeser.github.io/2016/01/27/put\u2026",
-            "published": "2016-01-29T16:30:37+00:00",
-            "published_ts": 1454085037
-        },
-        "activity": {
-            "type": "repost",
-            "sentence": "Ryan Baumann retweeted a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://ryanfb.github.io/\">Ryan Baumann</a> retweeted a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
-    },
-    {
-        "source": "https://brid-gy.appspot.com/like/twitter/suttonkoeser/692429487703744512/199205892",
-        "verified": true,
-        "verified_date": "2016-05-12T16:25:34+00:00",
-        "id": 334827,
-        "private": false,
-        "data": {
-            "author": {
-                "name": "Raffaele Messuti",
-                "url": "https://twitter.com/atomotic",
-                "photo": "https://webmention.io/avatar/pbs.twimg.com/1ef6b17db8645ffb49dd6ea34825551f229a610fac2d502ad68bf900900d7b75.png"
-            },
-            "url": "https://twitter.com/suttonkoeser/status/692429487703744512#favorited-by-199205892",
-            "name": "tag:twitter.com,2013:692429487703744512_favorited_by_199205892\n  \n  \n  \n  \n    Raffaele Messuti\n    \n\n  https://twitter.com/suttonkoeser/status/692429487703744512#favorited-by-199205892",
-            "content": null,
-            "published": null,
-            "published_ts": null
-        },
-        "activity": {
-            "type": "like",
-            "sentence": "Raffaele Messuti favorited a tweet http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/",
-            "sentence_html": "<a href=\"https://twitter.com/atomotic\">Raffaele Messuti</a> favorited a tweet <a href=\"http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/\">http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/</a>"
-        },
-        "target": "http://rlskoeser.github.io/2016/01/27/putting-text-on-the-page/"
+        "target": "https://rlskoeser.github.io/2019/07/26/best-practices/"
     }
 ]
