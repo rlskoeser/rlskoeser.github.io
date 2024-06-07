@@ -18,7 +18,7 @@ title = "Rebecca Sutton Koeser"
   name = "Rebecca Sutton Koeser"
 #   image = "img/blowfish_logo.png"
 #   headline = "I'm only human"
-  bio = "Lead Research Software Engineer at the Center for Digital Humanities @ Princeton."
+  bio = "humanities research software engineer, thinker, writer"
   links = [
 #     { email = "mailto:hello@your_domain.com" },
     { link = "https://rlskoeser.github.io/" },
@@ -62,5 +62,5 @@ title = "Rebecca Sutton Koeser"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-    { blueskey = "https://bsky.app/profile/suttonkoeser.bsky.social" },
+    { bluesky = "https://bsky.app/profile/suttonkoeser.bsky.social" },
   ]
