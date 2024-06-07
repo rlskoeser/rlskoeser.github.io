@@ -45,20 +45,18 @@ When I started investigating extracting place names and generating a map, my fir
 
 For those who are interested, here are the nitty-gritty, step-by-step details of how I went from text to map.
 
-{% comment %}NOTE: Using unorder-list instead of ordered because highlight blocks mess up ordering {% endcomment %}
-
--  Downloaded the plain-text version of the novel from Project Gutenberg.
--  Manually removed the Project Gutenberg header and footer from the text, as well as the table of contents.
+1.  Downloaded the plain-text version of the novel from Project Gutenberg.
+2.  Manually removed the Project Gutenberg header and footer from the text, as well as the table of contents.
 
     Note that _Around the World in 80 Days_ is in the Public Domain in the U.S., and according to the [Project Gutenberg License](http://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License), once you have removed the Gutenberg license and any references to Project Gutenberg, what you have left is a public domain ebook, and “you can do anything you want with that.”
 
--  Split the text into individual files by chapter using cplit
+3.  Split the text into individual files by chapter using `csplit`
     (a command-line utility that splits a file on a pattern):
     {{< highlight csh  >}}
     csplit -f chapter 80days.txt "/^Chapter/" '{35}'
     {{< / highlight >}}
 
--  Ran the [NameDropper lookup-names python script](http://namedropper.readthedocs.org/en/latest/scripts.html#lookup-names) on each chapter file to generate a CSV file of Places for each chapter.
+4. Ran the [NameDropper lookup-names python script](http://namedropper.readthedocs.org/en/latest/scripts.html#lookup-names) on each chapter file to generate a CSV file of Places for each chapter.
     (Note that this is C-shell foreach syntax; if you use something else you’ll have to find out the for loop syntax.)
     {{< highlight csh  >}}
     foreach ch ( chapter* )
@@ -67,16 +65,16 @@ For those who are interested, here are the nitty-gritty, step-by-step details of
         end
     {{< / highlight >}}
 
--  At this point, I concatenated the individual chapter CSV files into a single CSV file that I could import into Excel, where I spent some time sorting the results by support and similarity scores to try to find some reasonable cut-off values to filter out mis-recognized names without losing too many accurate names that DBpedia Spotlight identified with low certainty. It was helpful to be able to look at the data and get familiar with the results, but I think now I might skip this step.
+5.  At this point, I concatenated the individual chapter CSV files into a single CSV file that I could import into Excel, where I spent some time sorting the results by support and similarity scores to try to find some reasonable cut-off values to filter out mis-recognized names without losing too many accurate names that DBpedia Spotlight identified with low certainty. It was helpful to be able to look at the data and get familiar with the results, but I think now I might skip this step.
 
--  I wrote some python code to iterate over the CVS files, aggregate unique DBpedia URIs, and generate a GeoRSS file that could be imported into Google Maps. It’s not a long script, but it’s too long to include in a blog post, so I’ve created a GitHub gist: [csv2georss.py](https://gist.github.com/4693891). I experimented with filtering names out based on the DBpedia Spotlight similarity/support scores, but I couldn’t find a setting that omitted bad results without losing a lot of interesting data, and it turned out to be easier to remove places from the final map.
+6.  I wrote some python code to iterate over the CVS files, aggregate unique DBpedia URIs, and generate a GeoRSS file that could be imported into Google Maps. It’s not a long script, but it’s too long to include in a blog post, so I’ve created a GitHub gist: [csv2georss.py](https://gist.github.com/4693891). I experimented with filtering names out based on the DBpedia Spotlight similarity/support scores, but I couldn’t find a setting that omitted bad results without losing a lot of interesting data, and it turned out to be easier to remove places from the final map.
 
--  Ran the script to generate the GeoRSS:
+7.  Ran the script to generate the GeoRSS:
 
     {{< highlight csh  >}}
     python csv2georss.py > 80days-georss.xml
     {{< / highlight >}}
 
--  Made a new Google Map and imported the GeoRSS data. (Login to a google account at [maps.google.com](http://maps.google.com), select ‘create map’, ‘import’, and choose the GeoRSS file generated above. A couple of times Google only showed the first name; if that happens I recommend just do the import again, and check the box to replace everything on the map.)
+8.  Made a new Google Map and imported the GeoRSS data. (Login to a google account at [maps.google.com](http://maps.google.com), select ‘create map’, ‘import’, and choose the GeoRSS file generated above. A couple of times Google only showed the first name; if that happens I recommend just do the import again, and check the box to replace everything on the map.)
 
-- Went through the map and removed place names that were mis-recognized from common words based on the context snippets included in the descriptions. For example, I ran into things like Isle of Man for man, Winnipeg for win, Metropolitan Museum of Art for met. Because the script aggregates multiple references to the same place, each mis-recognized name only needed to be removed once. When I ran the lookup-names script with -c 0.1 I only had to remove 5 of these; when I ran it with -c 0.01 I had to remove significantly more (over 30).
+9. Went through the map and removed place names that were mis-recognized from common words based on the context snippets included in the descriptions. For example, I ran into things like Isle of Man for man, Winnipeg for win, Metropolitan Museum of Art for met. Because the script aggregates multiple references to the same place, each mis-recognized name only needed to be removed once. When I ran the lookup-names script with `-c 0.1` I only had to remove 5 of these; when I ran it with `-c 0.01` I had to remove significantly more (over 30).
