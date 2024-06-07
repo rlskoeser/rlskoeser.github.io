@@ -138,7 +138,11 @@ disableImageOptimization = false
   # globalWidgetPosition = "Right"
 
 [verification]
-  # google = ""
+  google = "c6VMioDMUJeS7fIotCrupOzK0s2FbDJ7skLNcvumLng"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[webmentions]
+  webmention = "https://webmention.io/rlskoeser.github.io/webmention"
+  pingback = "https://webmention.io/rlskoeser.github.io/xmlrpc"
