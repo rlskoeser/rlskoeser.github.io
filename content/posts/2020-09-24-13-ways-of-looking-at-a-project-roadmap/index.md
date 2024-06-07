@@ -6,6 +6,7 @@ tags:
   - poetry
 title: 13 Ways of Looking at a Project Roadmap
 url: /2020/09/24/13-ways-of-looking-at-a-project-roadmap/
+original_url: https://twitter.com/suttonkoeser/status/1308400091972145156
 ---
 
 
