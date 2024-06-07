@@ -9,6 +9,8 @@ tags:
 thumbnail_image: /images/posts/tkh/english-language_thumb.png
 title: 'DH2012: LP07, July 18 - visualizing poetry, the English language, and vocabulary in genre over time'
 url: /2012/07/26/dh2012-LP07-july-18-visualizing-poetry-english-language-and-diction/
+aliases:
+  - /dh2012/dh2012-lp07-july-18-visualizing-poetry-the-english-language-and-vocabulary-in-genre-over-time/
 ---
 
 

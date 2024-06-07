@@ -9,7 +9,7 @@ url: /2019/12/30/sonifying-derridas-references/
 ---
 
 
-Experimentation and play is valuable and important. It's good for your brain, and you never know where it will lead, or what fruitful new path you might discover. It's also incredibly valuable to [share](/2013/02/20/the-poetry-of-things-in-dbpedia/)
+Experimentation and play is valuable and important. It's good for your brain, and you never know where it will lead, or what fruitful new path you might discover. It's also incredibly valuable to [share](/2013/02/01/the-poetry-of-things-in-dbpedia/)
 [our](/2013/02/01/mapping-places-in-around-the-world-in-80-days/)
 [experiments](/2010/05/12/graph-correspondents-4-irish-finding-aids/),
 even if they are incomplete. You never know what connection someone
@@ -64,7 +64,7 @@ Want to play with my experiment to extend it further? Here's the code, adapted f
 script in the Programming Historian tutorial. To generate the MIDI file yourself,
 download the [References data from figshare](https://doi.org/10.6084/m9.figshare.7180448.v1)
 as CSV and get the [python script](https://gist.github.com/rlskoeser/cc7a7b22012dbe5ea7572a298c78acd7).
-Or if you want to try different instruments, download the [MIDI file](/images/posts/derrida/derrida-references.midi) and load it into GarageBand or similar.
+Or if you want to try different instruments, download the [MIDI file](/images/posts/derrida/derrida-references.mid) and load it into GarageBand or similar.
 
 
 [^1]: _The Sound of Data (a gentle introduction to sonification for historians)_, by Shawn Graham.

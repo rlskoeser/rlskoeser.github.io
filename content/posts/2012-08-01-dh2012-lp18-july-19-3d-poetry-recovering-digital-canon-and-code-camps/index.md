@@ -8,6 +8,8 @@ tags:
 thumbnail_image: /images/posts/tkh/3D-Visualization-Tyger.png
 title: 'DH2012: LP18, July 19 - 3D Poetry, Recovering Digital Canon, and Code Camps'
 url: /2012/08/01/dh2012-lp18-3dpoetry-digital-canon-and-code-camps/
+aliases:
+  - /dh2012/dh2012-lp18-july-19-3d-poetry-recovering-digital-canon-and-code-camps/
 ---
 
 
