@@ -102,6 +102,13 @@
   {{ with .Site.Params.verification.yandex }}
   <meta name="yandex-verification" content="{{ . }}" />
   {{ end }}
+  {{/* web mentions */}}
+  {{ with .Site.Params.webmentions.webmention }}
+  <link rel="webmention" href="{{ . }}" />
+  {{ end }}
+  {{ with .Site.Params.webmentions.pingback }}
+  <link rel="pingback" href="{{ . }}" />
+  {{ end }}
   {{/* Social */}}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
