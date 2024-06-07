@@ -123,4 +123,3 @@ This volume has one METS/ALTO XML file for each page, with word-level position i
 * * *
 
 *Screen captures created with [GifGrabber](http://www.gifgrabber.com/); preview still images extracted using [EZGif](http://ezgif.com/split).*
-{.small .caption}
