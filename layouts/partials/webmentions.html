@@ -1,12 +1,12 @@
-{{ $year := .Date | time.Format "2006"}}
-
-{{/* all mentions for specified year */}}
-{{ $mentions := index .Site.Data.webmentions $year }}
+{{/* mentions data is structured by top-level site section by url */}}
+{{ $section := index (strings.Split .RelPermalink "/")  1 }}
+{{/* sort by date so any comments display in order */}}
+{{ $mentions := sort (index .Site.Data.webmentions $section) "verified_date" "asc" }}
 {{ if $mentions }}
     {{/* filter to current page - URL TODO */}}
     {{ $pageMentions :=  where $mentions "target" "like" .RelPermalink}}
     {{ if $pageMentions}}
-    <details class="webmentions pt-4 text-sm text-neutral-700 dark:text-neutral-400">
+    <details id="mentions" class="webmentions pt-4 text-sm text-neutral-700 dark:text-neutral-400"> {{/* set to open when working on output formatting */}}
     {{/* types are like, link, reply, repost; defined in webmentions config data file */}}
     <summary>
         <span id="show" class="hover:text-primary-700 dark:hover:text-primary-400">
@@ -19,18 +19,46 @@
         {{ range $type, $icon := $.Site.Data.webmentions.config.type_icon }}
             {{ $subset := where $pageMentions "activity.type" $type }}
             {{ with $subset }}
-            <span class="mention">{{ . | len }} {{ if gt (len .) 1}}{{ pluralize $type }}{{ else }}{{$type }}{{end }}{{ partial "icon.html" $icon }}</span>
+            <span class="mention">{{ partial "icon.html" $icon }} {{ . | len }} {{ if gt (len .) 1}}{{ pluralize $type }}{{ else }}{{$type }}{{end }}</span>
             {{ end }}
         {{ end }}
 
 	</summary>
     <div class="pt-2">
-    {{ range $mention := $pageMentions  }}
+     {{ $likes := where $pageMentions "activity.type" "like" }}
+     {{ range $index, $mention := $likes }} {{/* group likes for display */}}
+         {{ if eq $index 0}} {{/* icon and label first loop only */}}
+            {{ $icon := index $.Site.Data.webmentions.config.type_icon $mention.activity.type }}
+         {{ partial "icon.html" $icon }} {{/* icon for mention type */}}
+          liked by
+         {{ end }}
+          {{ with $mention.data.author }}{{/* display & link to author if there is one */}}
+            <a href="{{ .url }}">{{ .name }}</a>{{ if ne $index (sub (len $likes) 1) }}, {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ range $mention := where $pageMentions  "activity.type" "ne" "like" }}
+    {{ if (or $mention.data.content $mention.data.author) }}{{/* omit empty mentions */}}
         {{ $icon := index $.Site.Data.webmentions.config.type_icon $mention.activity.type }}
 	     <p class="p-0 m-0 {{ $mention.activity.type }}">
-            {{ partial "icon.html" $icon }}
-         {{ replaceRE "(on a post|a tweet) <.*$" "$1" $mention.activity.sentence_html | replaceRE "linking to <.*$" "" | replaceRE "to a tweet" "" | safeHTML}}</p>
-	 {{ end }}
+            {{ partial "icon.html" $icon }} {{/* icon for mention type */}}
+            {{ with $mention.data.author }}{{/* display & link to author if there is one */}}
+            <a href="{{ .url }}">{{ .name }}</a>
+            {{ end }}
+            {{/* display past tense of type */}}
+            {{/* index $.Site.Data.webmentions.config.type_past $mention.activity.type */}}
+            {{ if strings.Contains $mention.data.url "twitter" }}
+                {{ $mention.data.content | safeHTML }}
+            {{ end }}
+            {{ if and (eq $mention.activity.type "link") $mention.data.name }}
+            {{ if $mention.data.author.name }} : {{ end }}{{/* delimit link from author */}}
+            <a href="{{ $mention.data.url }}">{{ $mention.data.name }}</a>
+            {{ if not (strings.Contains $mention.data.url "twitter") }}
+            {{/* for non-twitter link, show preview of content */}}
+            {{ $mention.data.content | plainify | truncate 50 }}
+            {{ end }}
+            {{ end }}
+    {{ end }}
+ {{ end }}
     </div>
 
     <p class="pt-4 text-xs">webmentions powered by <a href="https://webmention.io/">webmention.io</a> and <a href="https://brid.gy/">brid.gy</a></p>

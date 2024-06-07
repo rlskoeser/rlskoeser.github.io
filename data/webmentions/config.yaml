@@ -1,6 +1,13 @@
 # map webmention type to icon for display
 type_icon:
   like: heart
-  link: share
+  link: link
   reply: reply
   repost: retweet
+
+# what to show for past tense of action
+type_past:
+  like: liked
+  link: linked"
+  reply: replied
+  repost: reposted

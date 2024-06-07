@@ -24,8 +24,8 @@ html.dark img.minilogo {
     filter: invert(1);
 }
 
-.webmentions summary .mention:has(+ .mention)::after {
-    content:", ";
+.webmentions summary .mention {
+    padding-left: 0.75em;
 }
 
 /* use icons for the toggle */
