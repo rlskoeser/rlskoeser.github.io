@@ -1,0 +1,6 @@
+# map webmention type to icon for display
+type_icon:
+  like: heart
+  link: share
+  reply: reply
+  repost: retweet
