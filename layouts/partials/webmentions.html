@@ -15,7 +15,7 @@
         <span id="hide" class="hover:text-primary-700 dark:hover:text-primary-400">
             {{ partial "icon.html" "caret-up" }}
         </span>
-        {{ partial "icon.html" "webmentions" }} mentions:
+        {{ partial "icon.html" "webmentions" }}mentions:
         {{ range $type, $icon := $.Site.Data.webmentions.config.type_icon }}
             {{ $subset := where $pageMentions "activity.type" $type }}
             {{ with $subset }}
@@ -27,11 +27,13 @@
     <div class="pt-2">
     {{ range $mention := $pageMentions  }}
         {{ $icon := index $.Site.Data.webmentions.config.type_icon $mention.activity.type }}
-	     <p class="{{ $mention.activity.type }}">
+	     <p class="p-0 m-0 {{ $mention.activity.type }}">
             {{ partial "icon.html" $icon }}
          {{ replaceRE "(on a post|a tweet) <.*$" "$1" $mention.activity.sentence_html | replaceRE "linking to <.*$" "" | replaceRE "to a tweet" "" | safeHTML}}</p>
 	 {{ end }}
     </div>
+
+    <p class="pt-4 text-xs">webmentions powered by <a href="https://webmention.io/">webmention.io</a> and <a href="https://brid.gy/">brid.gy</a></p>
 	</details>
 	 {{ end }}	 
 
