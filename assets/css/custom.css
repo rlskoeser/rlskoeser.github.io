@@ -18,8 +18,56 @@ html.dark img.logo {
 }
 /* mini logo is the reverse */
 img.minilogo {
-   filter: none;	
+   filter: none;
 }
 html.dark img.minilogo {
-    filter: invert(1);	
+    filter: invert(1);
+}
+
+.webmentions summary .mention:has(+ .mention)::after {
+    content:", ";
+}
+
+/* use icons for the toggle */
+details.webmentions > summary {
+   list-style: none;
+}
+details.webmentions summary::-webkit-details-marker {
+  display: none
+}
+.webmentions summary #show, .webmentions summary #hide {
+    padding-right: 5px;
+    cursor: pointer;
+}
+.webmentions summary #show {
+    display: inline-block;
+}
+.webmentions[open] summary #show {
+    display: none;
+}
+.webmentions summary #hide {
+    display: none;
+}
+.webmentions[open] summary #hide {
+    display: inline-block;
+}
+.webmentions a { /* links are otherwise unstyled in this context */
+    text-decoration: underline;
+}
+
+/* replicate old gallery image style for one post */
+.dbpedia-thumb {
+    float: left;
+    clear: none;
+    padding: 3px;
+    margin: 3px;
+}
+.dbpedia-thumb img {
+    height: 80px;
+    /* for transparent images */
+    background-color: #efefef;
+}
+
+.dbpedia-thumb + hr {
+    clear: both;
 }
