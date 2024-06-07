@@ -1,8 +1,9 @@
 {{/* mentions data is structured by top-level site section by url */}}
 {{ $section := index (strings.Split .RelPermalink "/")  1 }}
-{{/* sort by date so any comments display in order */}}
-{{ $mentions := sort (index .Site.Data.webmentions $section) "verified_date" "asc" }}
+{{ $mentions := index .Site.Data.webmentions $section }}
 {{ if $mentions }}
+    {{/* sort by date so any comments display in order */}}
+    {{ $mentions = sort $mentions "verified_date" "asc" }}
     {{/* filter to current page - URL TODO */}}
     {{ $pageMentions :=  where $mentions "target" "like" .RelPermalink}}
     {{ if $pageMentions}}
