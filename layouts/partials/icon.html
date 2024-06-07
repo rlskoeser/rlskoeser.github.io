@@ -1,0 +1,6 @@
+{{ $icon := resources.Get (print "icons/" . ".svg") }}
+{{ if $icon }}{{/* extend to force inline-block */}}
+  <span class="relative inline-block icon">
+    {{ $icon.Content | safeHTML }}
+  </span>
+{{ end }}
