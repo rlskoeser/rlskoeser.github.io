@@ -1,0 +1,39 @@
+{{ $year := .Date | time.Format "2006"}}
+
+{{/* all mentions for specified year */}}
+{{ $mentions := index .Site.Data.webmentions $year }}
+{{ if $mentions }}
+    {{/* filter to current page - URL TODO */}}
+    {{ $pageMentions :=  where $mentions "target" "like" .RelPermalink}}
+    {{ if $pageMentions}}
+    <details class="webmentions pt-4 text-sm text-neutral-700 dark:text-neutral-400">
+    {{/* types are like, link, reply, repost; defined in webmentions config data file */}}
+    <summary>
+        <span id="show" class="hover:text-primary-700 dark:hover:text-primary-400">
+            {{ partial "icon.html" "caret-down"}}
+        </span>
+        <span id="hide" class="hover:text-primary-700 dark:hover:text-primary-400">
+            {{ partial "icon.html" "caret-up" }}
+        </span>
+        {{ partial "icon.html" "webmentions" }} mentions:
+        {{ range $type, $icon := $.Site.Data.webmentions.config.type_icon }}
+            {{ $subset := where $pageMentions "activity.type" $type }}
+            {{ with $subset }}
+            <span class="mention">{{ . | len }} {{ if gt (len .) 1}}{{ pluralize $type }}{{ else }}{{$type }}{{end }}{{ partial "icon.html" $icon }}</span>
+            {{ end }}
+        {{ end }}
+
+	</summary>
+    <div class="pt-2">
+    {{ range $mention := $pageMentions  }}
+        {{ $icon := index $.Site.Data.webmentions.config.type_icon $mention.activity.type }}
+	     <p class="{{ $mention.activity.type }}">
+            {{ partial "icon.html" $icon }}
+         {{ replaceRE "(on a post|a tweet) <.*$" "$1" $mention.activity.sentence_html | replaceRE "linking to <.*$" "" | replaceRE "to a tweet" "" | safeHTML}}</p>
+	 {{ end }}
+    </div>
+	</details>
+	 {{ end }}	 
+
+{{ end }}
+{{/* range where $mentions "target" " */}}
