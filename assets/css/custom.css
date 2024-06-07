@@ -51,9 +51,6 @@ details.webmentions summary::-webkit-details-marker {
 .webmentions[open] summary #hide {
     display: inline-block;
 }
-.webmentions a { /* links are otherwise unstyled in this context */
-    text-decoration: underline;
-}
 
 /* replicate old gallery image style for one post */
 .dbpedia-thumb {
