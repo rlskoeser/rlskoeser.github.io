@@ -9,6 +9,9 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
+# preserve case for tags
+titleCaseStyle = 'none'
+
 buildDrafts = false
 buildFuture = false
 
@@ -22,6 +25,7 @@ googleAnalytics = "G-BQ9J90X885"
   category = "categories"
   author = "authors"
   series = "series"
+
 
 [sitemap]
   changefreq = 'daily'
