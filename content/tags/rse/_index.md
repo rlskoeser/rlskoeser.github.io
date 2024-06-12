@@ -1,7 +1,7 @@
 ---
 title: RSE
-aliases:
- - /tags/RSE/
+#aliases:
+# - /tags/RSE/
 ---
 
 Research Software Engineering
