@@ -1,7 +1,13 @@
 {{- if or .Params.original_url .Params.cross_posted -}}
 <div class="text-neutral-700 dark:text-neutral-400">
+{{ $originalUrlTitle := "" }}
+{{ if .Params.original_url_title }}
+{{- $originalUrlTitle = .Params.original_url_title -}}
+{{ end }}
+
     {{- with .Params.original_url -}}
-    <p>Originally published at <a rel="alternate" href="{{ . }}">{{ . }}</a></p>
+    <p class="text-sm text-neutral-700 dark:text-neutral-400">Originally published {{ if $originalUrlTitle }}on{{ else }}at {{ end }}
+        <a rel="alternate" href="{{ . }}">{{ $originalUrlTitle | default . }}</a>.</p>
     {{- end -}}
     {{- with .Params.cross_posted -}}
     {{ $num_crossposts := len . }}
