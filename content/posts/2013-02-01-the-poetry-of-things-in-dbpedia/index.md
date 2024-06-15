@@ -174,3 +174,5 @@ For those who are interested, here are some technical notes on how I generated t
 - Wrote a simple python script to iterate through the CSV file and generate the HTML I wanted for each item, pulling the label and thumbnail from DBpedia, and using the context pulled from the poem.
 
 - Manually sorted out the entities I wanted into the three groups, preserving order, and fixed missing thumbnails where I could (some of the DBpedia thumbnail references are invalid; I’m guessing this is because they have been updated on Wikipedia since the last time the current DBpedia data was regenerated).
+
+<p class="pt-4 text-xs text-neutral-700 dark:text-neutral-400">Background image: Photo by <a href="https://www.flickr.com/photos/pcoin/2776444933">cotinis</a> on Flickr</p>

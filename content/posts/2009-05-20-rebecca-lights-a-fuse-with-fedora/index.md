@@ -21,3 +21,5 @@ A big congratulations to Rebecca!
 
 * JISC dev8d write-up of the [RepoChallenge winners](http://dev8d.jiscinvolve.org/2009/05/20/repochallenge-winners/)
 * [Rebecca's FedoraFS screencast](http://vimeo.com/4732380)
+
+<p class="pt-4 text-xs text-neutral-700 dark:text-neutral-400">Background image: Photo by <a href="https://unsplash.com/@ethanchoover?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ethan Hoover</a> on <a href="https://unsplash.com/photos/person-holding-fire-works-KkI9YpmO-mc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
