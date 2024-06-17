@@ -1,0 +1,117 @@
+[
+    {
+        "source": "https://brid.gy/like/mastodon/@rsk@hcommons.social/112628155305224402/109320864077071827",
+        "verified": true,
+        "verified_date": "2024-06-17T15:23:05+00:00",
+        "id": 1834882,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Hector Correa",
+                "url": "https://mastodon.social/@hectorjcorrea",
+                "photo": "https://webmention.io/avatar/spaces.hcommons.social/b28cf510581d69158d5e410786b1ab790e6327919811f78478bedded2747d46a.jpg"
+            },
+            "url": "https://hcommons.social/@rsk/112628155305224402#favorited-by-109320864077071827",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/repost/mastodon/@rsk@hcommons.social/112628155305224402/109693961186675788",
+        "verified": true,
+        "verified_date": "2024-06-17T10:06:56+00:00",
+        "id": 1834857,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Robert Casties",
+                "url": "https://fedihum.org/@robertcasties",
+                "photo": "https://webmention.io/avatar/spaces.hcommons.social/83659d654cdcc1879af4c61590f76a4022e1f81950d3847db19e91f08234e4e4.jpg"
+            },
+            "url": "https://hcommons.social/@rsk/112628155305224402#reblogged-by-109693961186675788",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "repost"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/like/mastodon/@rsk@hcommons.social/112628155305224402/110834516275875811",
+        "verified": true,
+        "verified_date": "2024-06-17T01:45:21+00:00",
+        "id": 1834820,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Jack Dougherty",
+                "url": "https://urbanists.social/@jackdougherty",
+                "photo": "https://webmention.io/avatar/spaces.hcommons.social/9495b3147159df6ddfb7b96a4d32b458825e7bb759c7fb1d242273aad0f072ea.jpg"
+            },
+            "url": "https://hcommons.social/@rsk/112628155305224402#favorited-by-110834516275875811",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/like/bluesky/did:plc:jeptrih7pyuprh67hm33fvjl/at%253A%252F%252Fdid%253Aplc%253Ajeptrih7pyuprh67hm33fvjl%252Fapp.bsky.feed.post%252F3kv2yeubkek2t/did%253Aplc%253Aortrxmgwffcqpmfebzqvau7o",
+        "verified": true,
+        "verified_date": "2024-06-16T21:41:33+00:00",
+        "id": 1834817,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Sebastian Biot",
+                "url": "https://bsky.app/profile/viralata.bsky.social",
+                "photo": "https://webmention.io/avatar/cdn.bsky.app/6ff47e97a73759a814ba5e1f551f3e718d91d3fda7b85fcff2d65c05e85a220c.jpg"
+            },
+            "url": "https://bsky.app/profile/suttonkoeser.bsky.social/post/3kv2yeubkek2t#liked_by_did:plc:ortrxmgwffcqpmfebzqvau7o",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/like/bluesky/did:plc:jeptrih7pyuprh67hm33fvjl/at%253A%252F%252Fdid%253Aplc%253Ajeptrih7pyuprh67hm33fvjl%252Fapp.bsky.feed.post%252F3kv2yeubkek2t/did%253Aplc%253Ay32vdst3y7r4f4pkrveb7jhi",
+        "verified": true,
+        "verified_date": "2024-06-16T20:37:55+00:00",
+        "id": 1834813,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Maria Antoniak",
+                "url": "https://bsky.app/profile/mariaa.bsky.social",
+                "photo": "https://webmention.io/avatar/cdn.bsky.app/8d5d541701218636a8aadcaa388821fd21dedd6d1ddddcc40200f518bd7a3c47.jpg"
+            },
+            "url": "https://bsky.app/profile/suttonkoeser.bsky.social/post/3kv2yeubkek2t#liked_by_did:plc:y32vdst3y7r4f4pkrveb7jhi",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    }
+]
