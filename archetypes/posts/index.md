@@ -20,6 +20,7 @@ tags:
 featureimagecaption:   # caption for feature image in hero style big
 url: # relative url for current site; only specify when needs to be customized
 original_url:   # link to original if cross-posted from another site
+# social_image_anchor: Right  # optional arg for sizing images for social preview
 cross_posted:  # if cross-posted on other sites
   - alt:
     title: site/page title

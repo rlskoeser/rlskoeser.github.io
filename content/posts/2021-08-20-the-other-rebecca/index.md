@@ -1,11 +1,13 @@
 ---
 date: 2021-08-20 06:58:25-04:00
-featured_image: /images/posts/cdh-projects-RM_banner.png
+#featured_image: /images/posts/cdh-projects-RM_banner.png  # loaded from page bundle
 featured_image_caption: Network graph of CDH projects highlighting Rebecca Munson and all project managers (PMs indicated by edges in teal). Created for a staff appreciatiation of Rebecca Munson in June 2020.
+featured_image_caption: Network graph of CDH projects highlighting Rebecca Munson and all project mmanagers (PMs indicated by edges in teal). Created for a staff appreciatiation of Rebecca Munson in June 2020.
 summary: Working with Rebecca Munson, sharing a first name with her, and missing her.
 thumbnail_image: /images/posts/cdh-projects-RM_thumb.png
 title: The other Rebecca
 url: /2021/08/20/the-other-rebecca/
+social_image_anchor: Right
 ---
 
 
