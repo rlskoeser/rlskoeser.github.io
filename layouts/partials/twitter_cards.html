@@ -1,0 +1,40 @@
+{{- $images := partial "_funcs/get-page-images" . }}
+{{/* customized based on Hugo builtin twitter_cards template
+    - handle markdown in page titles
+    - customized image size
+ */}}
+{{- with index $images 0 }}
+  <meta name="twitter:card" content="summary_large_image">
+    {{/* Fill 1200x600 for landscape images */}}
+    {{- $image := .Image -}}
+    {{- $permalink := .Permalink -}}
+    {{- if or (ge $image.Width 1200) (ge $image.Height 675) -}}
+    {{- $anchor := $.Params.social_image_anchor | default "smart" -}}
+    {{- $image = .Image.Fill (printf "1200x675 %s" $anchor) -}}
+    {{- $permalink = $image.Permalink -}}
+    {{- end -}}
+    <meta property="twitter:image" content="{{ $permalink | absURL }}">
+{{- else }}
+  <meta name="twitter:card" content="summary">
+{{- end }}
+
+{{- with or .Title site.Title site.Params.title | markdownify | emojify | plainify }}
+  <meta name="twitter:title" content="{{ . }}">
+{{- end }}
+
+{{- with or .Description .Summary site.Params.description | plainify | htmlUnescape | chomp }}
+  <meta name="twitter:description" content="{{ . }}">
+{{- end }}
+
+{{- $twitterSite := "" }}
+{{- with site.Params.social }}
+  {{- if reflect.IsMap . }}
+    {{- with .twitter }}
+      {{- $content := . }}
+      {{- if not (strings.HasPrefix . "@") }}
+        {{- $content = printf "@%v" . }}
+      {{- end }}
+      <meta name="twitter:site" content="{{ $content }}">
+    {{- end }}
+  {{- end }}
+{{- end }}

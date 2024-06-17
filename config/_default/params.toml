@@ -28,6 +28,9 @@ disableImageOptimization = false
 # highlightCurrentMenuArea = true
 # smartTOCHideUnfocusedChildren = true
 
+# fallback for social media image preview can be set here
+images = ["images/typing_fingers.png"]
+
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 

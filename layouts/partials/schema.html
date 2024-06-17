@@ -21,7 +21,7 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "{{ (site.GetPage .Section).Title | safeJS }}",
+    "articleSection": "{{ (site.GetPage .Section).Title | markdownify | emojify | plainify | safeJS }}",
     "name": "{{ .Title | safeJS }}",
     "headline": "{{ .Title | safeJS }}",
     {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
