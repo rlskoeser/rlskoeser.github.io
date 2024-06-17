@@ -10,6 +10,8 @@ tags:
 # thumbnail_image: add image in post bundle; include "thumbnail" in filename
 # featured_image: add image in post bundle; include "featured" in filename
 featured_image_caption:   # not yet supported
+aliases:
+  - /2024/06/10/wherever-hugo-there-you-are/
 ---
 
 At long last, I have finished migrating my personal site from Jekyll to Hugo.
