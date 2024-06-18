@@ -1,5 +1,120 @@
 [
     {
+        "source": "https://brid.gy/like/mastodon/@rsk@hcommons.social/112633917613803082/109693961186675788",
+        "verified": true,
+        "verified_date": "2024-06-18T06:00:19+00:00",
+        "id": 1834971,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Robert Casties",
+                "url": "https://fedihum.org/@robertcasties",
+                "photo": "https://webmention.io/avatar/spaces.hcommons.social/83659d654cdcc1879af4c61590f76a4022e1f81950d3847db19e91f08234e4e4.jpg"
+            },
+            "url": "https://hcommons.social/@rsk/112633917613803082#favorited-by-109693961186675788",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/comment/mastodon/@rsk@hcommons.social/112633917613803082/112634307514426405",
+        "verified": true,
+        "verified_date": "2024-06-17T22:41:02+00:00",
+        "id": 1834917,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Hector Correa",
+                "url": "https://mastodon.social/@hectorjcorrea",
+                "photo": "https://webmention.io/avatar/spaces.hcommons.social/b28cf510581d69158d5e410786b1ab790e6327919811f78478bedded2747d46a.jpg"
+            },
+            "url": "https://mastodon.social/@hectorjcorrea/112634307400390201",
+            "name": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://hcommons.social/@rsk\" class=\"u-url\">@<span>rsk</span></a></span> yay for personal blogs!</p>",
+            "published": "2024-06-17T22:25:37+00:00",
+            "published_ts": 1718663137
+        },
+        "activity": {
+            "type": "reply"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/like/mastodon/@rsk@hcommons.social/112633917613803082/112043746490350742",
+        "verified": true,
+        "verified_date": "2024-06-17T21:16:47+00:00",
+        "id": 1834913,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Frederik Elwert",
+                "url": "https://fedihum.org/@felwert",
+                "photo": "https://webmention.io/avatar/spaces.hcommons.social/66af74c808e0be04e9b6737da9e2ac6f8b8ac47b8b46693b6982161a0a8406ef.jpg"
+            },
+            "url": "https://hcommons.social/@rsk/112633917613803082#favorited-by-112043746490350742",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/like/bluesky/did:plc:jeptrih7pyuprh67hm33fvjl/at%253A%252F%252Fdid%253Aplc%253Ajeptrih7pyuprh67hm33fvjl%252Fapp.bsky.feed.post%252F3kv5k4an6tm2p/did%253Aplc%253Ajrqpbkavdhgkald5iawwt3tj",
+        "verified": true,
+        "verified_date": "2024-06-17T21:08:32+00:00",
+        "id": 1834911,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Katie McDonough",
+                "url": "https://bsky.app/profile/kmcdono.bsky.social",
+                "photo": "https://webmention.io/avatar/cdn.bsky.app/78b09daac642e7eb56c588341ec5fc87ae5d10c966464cb7bc7a8b5f90756cda.jpg"
+            },
+            "url": "https://bsky.app/profile/suttonkoeser.bsky.social/post/3kv5k4an6tm2p#liked_by_did:plc:jrqpbkavdhgkald5iawwt3tj",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
+        "source": "https://brid.gy/like/bluesky/did:plc:jeptrih7pyuprh67hm33fvjl/at%253A%252F%252Fdid%253Aplc%253Ajeptrih7pyuprh67hm33fvjl%252Fapp.bsky.feed.post%252F3kv5k4an6tm2p/did%253Aplc%253Aul5soge5q3ksdewzzzm5dpbl",
+        "verified": true,
+        "verified_date": "2024-06-17T21:08:32+00:00",
+        "id": 1834912,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Jason B Jones",
+                "url": "https://bsky.app/profile/jbj.bsky.social",
+                "photo": "https://webmention.io/avatar/cdn.bsky.app/420fa49b4ba3f3281dfefa3cee405049cc876eff5739c0de3254c3101a1ac664.jpg"
+            },
+            "url": "https://bsky.app/profile/suttonkoeser.bsky.social/post/3kv5k4an6tm2p#liked_by_did:plc:ul5soge5q3ksdewzzzm5dpbl",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/06/15/wherever-hugo-there-you-are/"
+    },
+    {
         "source": "https://brid.gy/like/mastodon/@rsk@hcommons.social/112628155305224402/109320864077071827",
         "verified": true,
         "verified_date": "2024-06-17T15:23:05+00:00",
