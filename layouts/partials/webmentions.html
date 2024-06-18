@@ -47,8 +47,8 @@
             {{ end }}
             {{/* display past tense of type */}}
             {{/* index $.Site.Data.webmentions.config.type_past $mention.activity.type */}}
-            {{ if strings.Contains $mention.data.url "twitter" }}
-                {{ $mention.data.content | safeHTML }}
+            {{ if or (strings.Contains $mention.data.url "twitter") (eq $mention.activity.type "reply") }}:
+                {{ $mention.data.content | replaceRE "^<p>" "" | replaceRE "</p>$" "" | safeHTML }}
             {{ end }}
             {{ if and (eq $mention.activity.type "link") $mention.data.name }}
             {{ if $mention.data.author.name }} : {{ end }}{{/* delimit link from author */}}
