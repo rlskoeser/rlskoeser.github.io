@@ -30,6 +30,8 @@ disableImageOptimization = false
 
 # fallback for social media image preview can be set here
 images = ["images/typing_fingers.png"]
+[social]
+  twitter = "@suttonkoeser"
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
