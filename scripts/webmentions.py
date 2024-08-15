@@ -37,8 +37,11 @@ def fetch_mentions():
         # NOTE: supports a 'since' parameter to fetch mentions since last check
         response = requests.get(webmention_api_url, params=params)
         data = response.json()
+        if data.get("error"):
+            print(f"Error: {data['error_description']}")
+            raise SystemExit()
         # stop iterating over api results when we run out of links
-        if not data["links"]:
+        if not data.get("links"):
             break
 
         # iterate over mentions and store
