@@ -9,7 +9,7 @@ Use `hugo new` to create a new post using a local archetype which includes
  all local customizations and options.  
 
 ```sh
-hugo new posts/2023-12-21-my-new-post
+hugo new posts/`date +'%Y-%m-%d'`-title-slug
 ```
 
 This will create a page bundle; images associated with the post should
