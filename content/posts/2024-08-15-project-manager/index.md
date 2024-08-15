@@ -2,7 +2,7 @@
 title: "Project Manager"
 date: 2024-08-15T14:32:59-04:00
 description: ""
-summary: 
+summary: Your work is all through our project like invisible thread through fabric. Everything we made is held together with your care.
 tags:
   - poetry
   - project-management
