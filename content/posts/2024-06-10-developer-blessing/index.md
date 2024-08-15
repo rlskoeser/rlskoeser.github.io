@@ -12,7 +12,7 @@ description: "a developer blessing originally writetn in 2020 and posted on twit
 #featured_image: featured_forest-road.jpeg. # adobe stock image, education license
 featureimagecaption: <small>Feature photo by <a href="https://unsplash.com/@adamcdav?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adam Davis</a> on <a href="https://unsplash.com/photos/an-empty-road-with-trees-and-mountains-in-the-background-RCKpJiocpjY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
 original_url: https://x.com/suttonkoeser/status/1336786247315034126
-original_url_title: Twitter
+original_url_title: Twitter/X
 ---
 
 *a developer blessing for [@thatbudakguy](https://twitter.com/thatbudakguy),  
