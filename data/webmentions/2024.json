@@ -1,5 +1,28 @@
 [
     {
+        "source": "https://brid.gy/like/bluesky/did:plc:jeptrih7pyuprh67hm33fvjl/at%253A%252F%252Fdid%253Aplc%253Ajeptrih7pyuprh67hm33fvjl%252Fapp.bsky.feed.post%252F3kzrtudqwgb26/did%253Aplc%253Ajrqpbkavdhgkald5iawwt3tj",
+        "verified": true,
+        "verified_date": "2024-08-16T20:24:58+00:00",
+        "id": 1843430,
+        "private": false,
+        "data": {
+            "author": {
+                "name": "Katie McDonough",
+                "url": "https://bsky.app/profile/kmcdono.bsky.social",
+                "photo": "https://webmention.io/avatar/cdn.bsky.app/78b09daac642e7eb56c588341ec5fc87ae5d10c966464cb7bc7a8b5f90756cda.jpg"
+            },
+            "url": "https://bsky.app/profile/suttonkoeser.bsky.social/post/3kzrtudqwgb26#liked_by_did:plc:jrqpbkavdhgkald5iawwt3tj",
+            "name": null,
+            "content": null,
+            "published": null,
+            "published_ts": null
+        },
+        "activity": {
+            "type": "like"
+        },
+        "target": "https://rlskoeser.github.io/2024/08/15/project-manager/"
+    },
+    {
         "source": "https://brid.gy/repost/mastodon/@rsk@hcommons.social/112967858437442831/109302698274615907",
         "verified": true,
         "verified_date": "2024-08-16T14:11:10+00:00",
