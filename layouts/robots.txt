@@ -6,6 +6,8 @@ Disallow: /
 {{- end }}
 # personal recipe site, not meant for indexing
 Disallow: /recipe-box/
-# draft article
+# draft dataset essay
 Disallow: /pgp-dataset-essay/
+# experiment
+Disallnow: /dhqwords/
 Sitemap: {{ "sitemap.xml" | absURL }}
